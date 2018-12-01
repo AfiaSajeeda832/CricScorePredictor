@@ -1,0 +1,1524 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13
+0,team1,team2,venue,date,toss,winnerTeam,team1RunRate,team1Runs,team1Wickets,team1BallsPlayed,team2RunRate,team2Runs,team2Wickets,team2BallsPlayed
+1,Australia,Pakistan,"Brisbane Cricket Ground, Woolloongabba",2017-01-13,Australia,Australia,5.36,268,9,300,4.125,176,10,256
+2,Australia,Pakistan,Melbourne Cricket Ground,2017-01-15,Australia,Pakistan,4.551724137931035,220,10,290,4.636363636363637,221,4,286
+3,Australia,Pakistan,Western Australia Cricket Association Ground,2017-01-19,Australia,Australia,5.26,263,7,300,5.888888888888889,265,3,270
+4,Australia,Pakistan,Sydney Cricket Ground,2017-01-22,Australia,Australia,7.06,353,6,300,6.091254752851711,267,10,263
+5,Australia,Pakistan,Adelaide Oval,2017-01-26,Australia,Australia,7.38,369,7,300,6.345762711864407,312,10,295
+6,Australia,New Zealand,Sydney Cricket Ground,2016-12-04,Australia,Australia,6.48,324,8,300,5.774436090225564,256,10,266
+7,Australia,New Zealand,Manuka Oval,2016-12-06,New Zealand,Australia,7.56,378,5,300,5.535211267605633,262,10,284
+8,Australia,New Zealand,Melbourne Cricket Ground,2016-12-09,Australia,Australia,5.28,264,8,300,4.064516129032258,147,10,217
+9,Scotland,Afghanistan,"Grange Cricket Club Ground, Raeburn Place",2016-07-04,Scotland,no result,5.978873239436619,283,4,284,4.064516129032258,0,0,0
+10,Scotland,Afghanistan,"Grange Cricket Club Ground, Raeburn Place",2016-07-06,Afghanistan,Afghanistan,4.767857142857142,178,6,224,4.858895705521472,132,10,163
+11,Scotland,Hong Kong,"Grange Cricket Club Ground, Raeburn Place",2016-09-08,Hong Kong,no result,7.65,153,6,120,7.555555555555555,136,4,108
+12,Scotland,Hong Kong,"Grange Cricket Club Ground, Raeburn Place",2016-09-10,Scotland,Scotland,5.32,266,7,300,4.613718411552346,213,10,277
+13,Zimbabwe,India,Harare Sports Club,2016-06-11,India,India,3.37123745819398,168,10,299,4.070588235294117,173,1,255
+14,Zimbabwe,India,Harare Sports Club,2016-06-13,India,India,3.652173913043478,126,9,207,4.807453416149069,129,2,161
+15,Zimbabwe,India,Harare Sports Club,2016-06-15,Zimbabwe,India,2.9055118110236218,123,10,254,5.770992366412214,126,0,131
+16,New Zealand,Bangladesh,Hagley Oval,2016-12-26,New Zealand,New Zealand,6.82,341,7,300,5.888475836431226,264,10,269
+17,New Zealand,Bangladesh,Saxton Oval,2016-12-29,Bangladesh,New Zealand,5.02,251,10,300,4.3125,184,10,256
+18,New Zealand,Bangladesh,Saxton Oval,2016-12-31,Bangladesh,New Zealand,4.72,236,9,300,5.782258064516129,239,3,248
+19,New Zealand,Australia,Eden Park,2017-01-30,Australia,New Zealand,5.72,286,9,300,5.957446808510638,280,10,282
+20,New Zealand,Australia,Seddon Park,2017-02-05,New Zealand,New Zealand,5.62,281,9,300,5.468085106382978,257,10,282
+21,New Zealand,South Africa,Seddon Park,2017-02-19,South Africa,South Africa,6.088235294117647,207,7,204,6.206896551724138,210,6,203
+22,New Zealand,South Africa,Hagley Oval,2017-02-22,South Africa,New Zealand,5.78,289,4,300,5.66,283,9,300
+23,New Zealand,South Africa,Westpac Stadium,2017-02-25,South Africa,South Africa,5.42,271,8,300,3.4639175257731956,112,10,194
+24,New Zealand,South Africa,Seddon Park,2017-03-01,South Africa,New Zealand,5.58,279,8,300,6.222222222222222,280,3,270
+25,New Zealand,South Africa,Eden Park,2017-03-04,South Africa,South Africa,3.619433198380567,149,10,247,4.639175257731958,150,4,194
+26,England,Bangladesh,Kennington Oval,2017-06-01,England,England,6.1,305,6,300,6.507042253521126,308,2,284
+27,Australia,New Zealand,Edgbaston,2017-06-02,New Zealand,no result,6.466666666666667,291,10,270,5.888888888888889,53,3,54
+28,South Africa,Sri Lanka,Kennington Oval,2017-06-03,Sri Lanka,South Africa,5.98,299,6,300,4.891566265060241,203,10,249
+29,India,Pakistan,Edgbaston,2017-06-04,Pakistan,India,6.645833333333333,319,3,288,4.871287128712872,164,9,202
+30,Australia,Bangladesh,Kennington Oval,2017-06-05,Bangladesh,no result,4.089887640449438,182,10,267,5.1875,83,1,96
+31,England,New Zealand,Sophia Gardens,2017-06-06,New Zealand,England,6.262626262626263,310,10,297,5.01123595505618,223,10,267
+32,Pakistan,South Africa,Edgbaston,2017-06-07,South Africa,Pakistan,4.38,219,8,300,4.407407407407407,119,3,162
+33,India,Sri Lanka,Kennington Oval,2017-06-08,Sri Lanka,Sri Lanka,6.42,321,6,300,6.616438356164384,322,4,292
+34,Bangladesh,New Zealand,Sophia Gardens,2017-06-09,New Zealand,Bangladesh,5.3,265,8,300,5.661971830985915,268,5,284
+35,England,Australia,Edgbaston,2017-06-10,England,England,5.54,277,9,300,5.950413223140496,240,4,242
+36,India,South Africa,Kennington Oval,2017-06-11,India,India,4.292134831460674,191,10,267,5.078947368421052,193,2,228
+37,Pakistan,Sri Lanka,Sophia Gardens,2017-06-12,Pakistan,Pakistan,4.783783783783783,236,10,296,5.286245353159851,237,7,269
+38,England,Pakistan,Sophia Gardens,2017-06-14,Pakistan,Pakistan,4.234113712374581,211,10,299,5.7847533632287,215,2,223
+39,Bangladesh,India,Edgbaston,2017-06-15,India,India,5.28,264,7,300,6.597510373443984,265,1,241
+40,India,Pakistan,Kennington Oval,2017-06-18,India,Pakistan,6.76,338,4,300,5.180327868852459,158,10,183
+41,Hong Kong,Papua New Guinea,"Mission Road Ground, Mong Kok",2016-11-04,Hong Kong,Hong Kong,5.416107382550336,269,10,298,4.252173913043478,163,10,230
+42,Hong Kong,Papua New Guinea,"Mission Road Ground, Mong Kok",2016-11-06,Papua New Guinea,Papua New Guinea,4.385454545454545,201,10,275,3.8823529411764706,187,10,289
+43,Hong Kong,Papua New Guinea,"Mission Road Ground, Mong Kok",2016-11-08,Papua New Guinea,Hong Kong,4.88,244,7,300,5.402985074626866,181,3,201
+44,West Indies,England,"Sir Vivian Richards Stadium, North Sound",2017-03-03,West Indies,England,5.92,296,6,300,5.30281690140845,251,10,284
+45,West Indies,England,"Sir Vivian Richards Stadium, North Sound",2017-03-05,West Indies,England,4.70383275261324,225,10,287,4.675862068965517,226,6,290
+46,West Indies,England,"Kensington Oval, Bridgetown",2017-03-09,West Indies,England,6.56,328,10,300,3.6101694915254234,142,10,236
+47,England,Ireland,County Ground,2017-05-05,Ireland,England,3.8181818181818183,126,10,198,6.35,127,3,120
+48,England,Ireland,Lord's,2017-05-07,Ireland,England,6.56,328,6,300,5.263537906137184,243,10,277
+49,Bangladesh,England,Shere Bangla National Stadium,2016-10-07,England,England,6.18,309,8,300,6.020905923344947,288,10,287
+50,Bangladesh,England,Shere Bangla National Stadium,2016-10-09,England,Bangladesh,4.76,238,8,300,4.567164179104478,204,10,268
+51,Bangladesh,England,Zahur Ahmed Chowdhury Stadium,2016-10-12,England,England,5.54,277,6,300,5.81184668989547,278,6,287
+52,India,New Zealand,Himachal Pradesh Cricket Association Stadium,2016-10-16,India,India,4.334600760456274,190,10,263,5.849246231155779,194,4,199
+53,India,New Zealand,Feroz Shah Kotla,2016-10-20,India,New Zealand,4.84,242,9,300,4.767676767676767,236,10,297
+54,India,New Zealand,"Punjab Cricket Association Stadium, Mohali",2016-10-23,India,India,5.7382550335570475,285,10,298,5.979310344827586,289,3,290
+55,India,New Zealand,JSCA International Stadium Complex,2016-10-26,New Zealand,New Zealand,5.2,260,7,300,4.952054794520548,241,10,292
+56,India,New Zealand,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,2016-10-29,India,India,5.38,269,6,300,3.410071942446043,79,10,139
+57,England,South Africa,Headingley,2017-05-24,South Africa,England,6.78,339,6,300,5.933333333333334,267,10,270
+58,England,South Africa,The Rose Bowl,2017-05-27,South Africa,England,6.6,330,6,300,6.56,328,5,300
+59,England,South Africa,Lord's,2017-05-29,South Africa,South Africa,4.909090909090909,153,10,187,5.410404624277457,156,3,173
+60,Ireland,Bangladesh,Malahide,2017-05-12,Ireland,no result,5.037433155080214,157,4,187,5.410404624277457,0,0,0
+61,Ireland,New Zealand,Malahide,2017-05-14,Ireland,New Zealand,5.78,289,7,300,5.230769230769231,238,10,273
+62,Bangladesh,New Zealand,Clontarf Cricket Club Ground,2017-05-17,New Zealand,New Zealand,5.14,257,9,300,5.431578947368421,258,6,285
+63,Ireland,Bangladesh,Malahide,2017-05-19,Bangladesh,Bangladesh,3.89247311827957,181,10,279,6.699386503067484,182,2,163
+64,Ireland,New Zealand,Malahide,2017-05-21,Ireland,New Zealand,6.88,344,6,300,3.8987341772151898,154,10,237
+65,Bangladesh,New Zealand,Clontarf Cricket Club Ground,2017-05-24,Bangladesh,Bangladesh,5.4,270,8,300,5.606896551724137,271,5,290
+66,India,England,Maharashtra Cricket Association Stadium,2017-01-15,India,India,7.0,350,7,300,7.391003460207613,356,7,289
+67,India,England,Barabati Stadium,2017-01-19,England,India,7.62,381,6,300,7.32,366,8,300
+68,India,England,Eden Gardens,2017-01-22,India,England,6.42,321,8,300,6.32,316,9,300
+69,Afghanistan,Ireland,Greater Noida Sports Complex Ground,2017-03-15,Afghanistan,Afghanistan,5.84,292,7,300,5.594306049822063,262,10,281
+70,Afghanistan,Ireland,Greater Noida Sports Complex Ground,2017-03-17,Afghanistan,Afghanistan,6.76,338,10,300,6.4,304,10,285
+71,Afghanistan,Ireland,Greater Noida Sports Complex Ground,2017-03-19,Afghanistan,Ireland,5.28,264,8,300,5.463917525773196,265,4,291
+72,Afghanistan,Ireland,Greater Noida Sports Complex Ground,2017-03-22,Afghanistan,Ireland,4.414715719063545,220,10,299,4.782918149466192,224,7,281
+73,Afghanistan,Ireland,Greater Noida Sports Complex Ground,2017-03-24,Ireland,Afghanistan,4.754325259515571,229,10,289,4.7465753424657535,231,3,292
+74,Bangladesh,South Africa,Sheikh Kamal International Cricket Stadium,2017-01-18,South Africa,South Africa,5.02,251,7,300,3.14,157,10,300
+75,Bangladesh,South Africa,Sheikh Kamal International Cricket Stadium,2017-01-20,Bangladesh,South Africa,1.8630136986301369,68,10,219,6.9,69,2,60
+76,Australia,South Africa,Manuka Oval,2016-11-18,South Africa,Australia,4.52,226,5,300,4.615384615384615,230,8,299
+77,Australia,South Africa,Manuka Oval,2016-11-20,Australia,Australia,5.56,278,4,300,3.797872340425532,119,5,188
+78,Australia,South Africa,International Sports Stadium,2016-11-29,South Africa,Australia,5.2,260,9,300,4.474226804123711,217,10,291
+79,Sri Lanka,Australia,Rangiri Dambulla International Stadium,2016-09-18,Sri Lanka,Australia,3.0604026845637584,76,10,149,5.042553191489362,79,6,94
+80,Sri Lanka,Australia,Khettarama Stadium,2016-09-25,Australia,Australia,5.36,268,3,300,2.858181818181818,131,10,275
+81,Pakistan,West Indies,Sharjah Cricket Stadium,2016-09-30,West Indies,Pakistan,5.795918367346939,284,9,294,4.525862068965518,175,10,232
+82,Pakistan,West Indies,Sharjah Cricket Stadium,2016-10-02,Pakistan,Pakistan,6.74,337,5,300,5.56,278,7,300
+83,Pakistan,West Indies,Sheikh Zayed Stadium,2016-10-05,Pakistan,Pakistan,6.16,308,6,300,3.909090909090909,172,10,264
+84,New Zealand,Pakistan,Bert Sutcliffe Oval,2016-11-11,New Zealand,New Zealand,6.18,309,4,300,4.135922330097087,142,4,206
+85,New Zealand,Pakistan,Bert Sutcliffe Oval,2016-11-13,Pakistan,New Zealand,5.26,263,6,300,6.022556390977443,267,2,266
+86,New Zealand,Pakistan,Saxton Oval,2016-11-17,New Zealand,New Zealand,3.2802768166089966,158,10,289,7.2,162,3,135
+87,New Zealand,Australia,Eden Park No 2,2017-02-26,Australia,New Zealand,5.6506849315068495,275,10,292,5.613559322033899,276,5,295
+88,New Zealand,Australia,Bay Oval,2017-03-02,Australia,Australia,5.06,253,8,300,5.408450704225352,256,6,284
+89,New Zealand,Australia,Bay Oval,2017-03-05,Australia,Australia,5.4,270,9,300,5.533783783783783,273,5,296
+90,Bangladesh,Afghanistan,Shere Bangla National Stadium,2016-09-25,Bangladesh,Bangladesh,5.3,265,10,300,5.16,258,10,300
+91,Bangladesh,Afghanistan,Shere Bangla National Stadium,2016-09-28,Afghanistan,Afghanistan,4.216216216216216,208,10,296,4.268456375838927,212,8,298
+92,Bangladesh,Afghanistan,Shere Bangla National Stadium,2016-10-01,Bangladesh,Bangladesh,5.58,279,8,300,4.078817733990148,138,10,203
+93,Sri Lanka,England,R Premadasa Stadium,2016-11-15,Sri Lanka,England,3.2416107382550337,161,10,298,5.491525423728813,162,5,177
+94,Sri Lanka,England,R Premadasa Stadium,2016-11-17,England,England,4.8,240,9,300,2.351758793969849,78,10,199
+95,Zimbabwe,Sri Lanka,Harare Sports Club,2016-11-14,Sri Lanka,Sri Lanka,3.710843373493976,154,10,249,6.326530612244898,155,2,147
+96,Sri Lanka,West Indies,Harare Sports Club,2016-11-16,Sri Lanka,West Indies,4.601351351351351,227,10,296,3.8223938223938227,165,10,259
+97,Zimbabwe,West Indies,Queens Sports Club,2016-11-19,Zimbabwe,no result,5.14,257,10,300,5.14,257,8,300
+98,Zimbabwe,Sri Lanka,Queens Sports Club,2016-11-21,Zimbabwe,no result,4.074074074074074,55,2,81,5.14,0,0,0
+99,Sri Lanka,West Indies,Queens Sports Club,2016-11-23,West Indies,Sri Lanka,6.6,330,7,300,6.58,329,9,300
+100,Zimbabwe,West Indies,Queens Sports Club,2016-11-25,Zimbabwe,Zimbabwe,4.448979591836735,218,8,294,4.509090909090909,124,5,165
+101,Zimbabwe,Sri Lanka,Queens Sports Club,2016-11-27,Zimbabwe,Sri Lanka,4.383561643835616,160,10,219,4.426666666666667,166,4,225
+102,Sri Lanka,England,Sinhalese Sports Club Ground,2016-11-09,Sri Lanka,England,3.36,168,7,300,5.796610169491525,171,2,177
+103,United Arab Emirates,Papua New Guinea,Sheikh Zayed Stadium,2017-04-02,Papua New Guinea,Papua New Guinea,4.64,232,8,300,4.321678321678322,206,10,286
+104,Sri Lanka,India,P Sara Oval,2017-02-07,India,India,5.18,259,4,300,2.9,145,8,300
+105,Pakistan,South Africa,Nondescripts Cricket Club Ground,2017-02-07,South Africa,South Africa,5.16,258,9,300,3.9,195,6,300
+106,Sri Lanka,Ireland,Nondescripts Cricket Club Ground,2017-02-08,Sri Lanka,Sri Lanka,4.78,239,8,300,2.5714285714285716,93,9,217
+107,Bangladesh,Pakistan,P Sara Oval,2017-02-08,Pakistan,Pakistan,4.54,227,10,300,3.2323232323232323,160,10,297
+108,India,Ireland,P Sara Oval,2017-02-10,India,India,5.0,250,2,300,2.5423728813559325,125,10,295
+109,Bangladesh,South Africa,P Sara Oval,2017-02-11,Bangladesh,South Africa,2.1352313167259784,100,10,281,3.986842105263158,101,4,152
+110,India,South Africa,P Sara Oval,2017-02-15,South Africa,India,4.1,205,8,300,3.342857142857143,156,10,280
+111,Sri Lanka,Pakistan,Nondescripts Cricket Club Ground,2017-02-15,Sri Lanka,Sri Lanka,4.24,212,7,300,4.531468531468532,216,5,286
+112,Bangladesh,Ireland,Colombo Cricket Club Ground,2017-02-15,Bangladesh,Bangladesh,3.0530035335689045,144,10,283,3.7021276595744683,145,3,235
+113,Sri Lanka,South Africa,P Sara Oval,2017-02-17,Sri Lanka,South Africa,2.84,142,9,300,4.009216589861752,145,1,217
+114,Bangladesh,India,Nondescripts Cricket Club Ground,2017-02-17,India,India,3.1,155,8,300,4.7164179104477615,158,1,201
+115,Ireland,Pakistan,Colombo Cricket Club Ground,2017-02-17,Pakistan,Pakistan,5.42,271,5,300,3.78839590443686,185,10,293
+116,India,Pakistan,P Sara Oval,2017-02-19,India,India,1.534351145038168,67,10,262,3.111111111111111,70,3,135
+117,Sri Lanka,Bangladesh,Nondescripts Cricket Club Ground,2017-02-19,Bangladesh,Sri Lanka,3.94,197,9,300,3.238095238095238,68,5,126
+118,Ireland,South Africa,Colombo Cricket Club Ground,2017-02-19,Ireland,South Africa,3.331103678929766,166,10,299,3.9047619047619047,82,1,126
+119,India,South Africa,P Sara Oval,2017-02-21,South Africa,India,4.9127516778523495,244,10,298,4.9,245,9,300
+120,West Indies,Pakistan,Providence Stadium,2017-04-07,West Indies,West Indies,6.16,308,5,300,6.3061224489795915,309,6,294
+121,West Indies,Pakistan,Providence Stadium,2017-04-09,West Indies,Pakistan,5.64,282,5,300,4.639405204460966,208,10,269
+122,West Indies,Pakistan,Providence Stadium,2017-04-11,West Indies,Pakistan,4.66,233,9,300,5.467181467181468,236,4,259
+123,Hong Kong,Scotland,Sheikh Zayed Stadium,2017-01-22,Hong Kong,Hong Kong,4.212328767123288,205,10,292,4.646616541353383,206,3,266
+124,United Arab Emirates,Scotland,Dubai International Cricket Stadium,2017-01-24,Scotland,United Arab Emirates,3.816176470588235,173,10,272,4.159362549800797,174,6,251
+125,United Arab Emirates,Hong Kong,Dubai International Cricket Stadium,2017-01-26,United Arab Emirates,United Arab Emirates,3.563139931740614,174,10,293,4.585152838427948,175,4,229
+126,Zimbabwe,Afghanistan,Harare Sports Club,2017-02-16,Afghanistan,Afghanistan,4.358108108108108,215,10,296,3.6219512195121952,99,4,164
+127,Zimbabwe,Afghanistan,Harare Sports Club,2017-02-19,Afghanistan,Afghanistan,4.76,238,9,300,4.363636363636364,184,10,253
+128,Zimbabwe,Afghanistan,Harare Sports Club,2017-02-21,Zimbabwe,Zimbabwe,3.948979591836735,129,10,196,4.271186440677966,126,10,177
+129,Zimbabwe,Afghanistan,Harare Sports Club,2017-02-24,Afghanistan,Zimbabwe,2.8583690987124464,111,10,233,4.791044776119403,107,3,134
+130,Zimbabwe,Afghanistan,Harare Sports Club,2017-02-26,Afghanistan,Afghanistan,5.06,253,9,300,3.903614457831325,54,10,83
+131,United Arab Emirates,Ireland,ICC Global Cricket Academy,2017-03-02,United Arab Emirates,Ireland,5.454545454545454,270,10,297,4.44,185,10,250
+132,United Arab Emirates,Ireland,ICC Global Cricket Academy,2017-03-04,United Arab Emirates,Ireland,4.2229965156794425,202,10,287,4.852589641434263,203,2,251
+133,Sri Lanka,Bangladesh,Rangiri Dambulla International Stadium,2017-03-25,Sri Lanka,Bangladesh,6.48,324,5,300,5.180811808118081,234,10,271
+134,Sri Lanka,Bangladesh,Rangiri Dambulla International Stadium,2017-03-28,Sri Lanka,no result,6.240802675585284,311,10,299,5.180811808118081,0,0,0
+135,Sri Lanka,Bangladesh,Sinhalese Sports Club Ground,2017-04-01,Bangladesh,Sri Lanka,5.6,280,9,300,4.719101123595506,210,10,267
+136,New Zealand,Sri Lanka,County Ground,2017-06-24,New Zealand,New Zealand,3.76,188,9,300,5.017699115044248,189,1,226
+137,England,India,County Ground,2017-06-24,England,India,5.62,281,3,300,5.178947368421053,246,10,285
+138,Pakistan,South Africa,Grace Road,2017-06-25,South Africa,South Africa,4.12,206,8,300,4.224489795918367,207,7,294
+139,Australia,West Indies,County Ground,2017-06-26,West Indies,Australia,4.264808362369338,204,10,287,5.37117903930131,205,2,229
+140,England,Pakistan,Grace Road,2017-06-27,Pakistan,England,7.54,377,7,300,3.647727272727273,107,3,176
+141,India,West Indies,County Ground,2017-06-29,India,India,3.66,183,8,300,4.376470588235295,186,3,255
+142,Australia,Sri Lanka,County Ground,2017-06-29,Australia,Australia,5.14,257,9,300,5.977186311787072,262,2,263
+143,England,Sri Lanka,County Ground,2017-07-02,Sri Lanka,England,4.08,204,8,300,6.791208791208791,206,3,182
+144,Australia,New Zealand,County Ground,2017-07-02,New Zealand,Australia,4.38,219,9,300,4.52054794520548,220,5,292
+145,India,Pakistan,County Ground,2017-07-02,India,India,3.38,169,9,300,1.9388646288209608,74,10,229
+146,South Africa,West Indies,Grace Road,2017-07-02,South Africa,South Africa,1.8947368421052633,48,10,152,8.052631578947368,51,0,38
+147,England,South Africa,County Ground,2017-07-05,England,England,7.46,373,5,300,6.1,305,9,300
+148,India,Sri Lanka,County Ground,2017-07-05,India,India,4.64,232,8,300,4.32,216,7,300
+149,Australia,Pakistan,Grace Road,2017-07-05,Australia,Australia,5.8,290,8,300,2.62,131,10,300
+150,New Zealand,West Indies,County Ground,2017-07-06,New Zealand,New Zealand,3.488372093023256,150,10,258,8.236363636363636,151,2,110
+151,New Zealand,Pakistan,County Ground,2017-07-08,Pakistan,New Zealand,3.074733096085409,144,10,281,9.8,147,2,90
+152,India,South Africa,Grace Road,2017-07-08,India,South Africa,5.46,273,9,300,3.4347826086956523,158,10,276
+153,England,Australia,County Ground,2017-07-09,England,England,5.18,259,8,300,5.12,256,8,300
+154,Sri Lanka,West Indies,County Ground,2017-07-09,Sri Lanka,West Indies,4.58,229,9,300,3.7916666666666665,182,10,288
+155,Pakistan,West Indies,Grace Road,2017-07-11,Pakistan,West Indies,5.7,285,4,300,4.875,117,3,144
+156,South Africa,Sri Lanka,County Ground,2017-07-12,Sri Lanka,South Africa,2.493827160493827,101,10,243,4.489208633093525,104,2,139
+157,Australia,India,County Ground,2017-07-12,Australia,Australia,4.52,226,7,300,5.025830258302583,227,2,271
+158,England,New Zealand,County Ground,2017-07-12,England,England,5.68,284,9,300,4.478571428571429,209,10,280
+159,Australia,South Africa,County Ground,2017-07-15,Australia,Australia,5.546391752577319,269,10,291,4.2,210,10,300
+160,England,West Indies,County Ground,2017-07-15,West Indies,England,4.4,220,7,300,2.56,128,9,300
+161,India,New Zealand,County Ground,2017-07-15,New Zealand,India,5.3,265,7,300,3.0980392156862746,79,10,153
+162,Pakistan,Sri Lanka,Grace Road,2017-07-15,Sri Lanka,Sri Lanka,4.42,221,7,300,4.414285714285715,206,10,280
+163,United Arab Emirates,Papua New Guinea,Sheikh Zayed Stadium,2017-04-04,United Arab Emirates,United Arab Emirates,5.02,251,9,300,4.188679245283018,148,10,212
+164,Scotland,Zimbabwe,"Grange Cricket Club Ground, Raeburn Place",2017-06-15,Scotland,Scotland,6.34,317,6,300,6.5280000000000005,272,10,250
+165,Scotland,Zimbabwe,"Grange Cricket Club Ground, Raeburn Place",2017-06-17,Scotland,Zimbabwe,4.023809523809524,169,10,252,4.642533936651583,171,4,221
+166,India,Ireland,North-West University No1 Ground,2017-05-07,India,India,2.1492537313432836,96,10,268,5.303571428571428,99,0,112
+167,South Africa,India,North-West University No1 Ground,2017-05-09,India,India,3.0126582278481013,119,10,237,2.9274193548387095,121,3,248
+168,South Africa,Ireland,Senwes Park,2017-05-11,South Africa,South Africa,6.74,337,5,300,3.18,159,8,300
+169,South Africa,India,Senwes Park,2017-05-17,India,South Africa,5.38,269,5,300,5.22,261,9,300
+170,South Africa,Ireland,North-West University No1 Ground,2017-05-19,South Africa,South Africa,6.46,323,8,300,4.06,203,6,300
+171,South Africa,India,Senwes Park,2017-05-21,India,India,3.867768595041322,156,10,242,4.848484848484849,160,2,198
+172,West Indies,Afghanistan,"Darren Sammy National Cricket Stadium, Gros Islet",2017-06-09,Afghanistan,Afghanistan,4.24,212,6,300,3.3358208955223883,149,10,268
+173,West Indies,Afghanistan,"Darren Sammy National Cricket Stadium, Gros Islet",2017-06-11,Afghanistan,West Indies,3.6,135,10,225,3.5084745762711864,138,6,236
+174,West Indies,India,"Queen's Park Oval, Port of Spain",2017-06-23,West Indies,no result,5.0593220338983045,199,3,236,3.5084745762711864,0,0,0
+175,West Indies,India,"Queen's Park Oval, Port of Spain",2017-06-25,West Indies,India,7.209302325581396,310,5,258,4.767441860465116,205,6,258
+176,West Indies,India,"Sir Vivian Richards Stadium, North Sound",2017-06-30,West Indies,India,5.02,251,4,300,4.139737991266376,158,10,229
+177,West Indies,India,"Sir Vivian Richards Stadium, North Sound",2017-07-02,West Indies,West Indies,3.78,189,9,300,3.583892617449665,178,10,298
+178,West Indies,India,"Sabina Park, Kingston",2017-07-06,West Indies,India,4.1,205,9,300,5.592760180995475,206,2,221
+179,Sri Lanka,Zimbabwe,Galle International Stadium,2017-06-30,Sri Lanka,Zimbabwe,6.32,316,5,300,6.755244755244756,322,4,286
+180,Sri Lanka,Zimbabwe,Galle International Stadium,2017-07-02,Sri Lanka,Sri Lanka,4.6039603960396045,155,10,202,5.23756906077348,158,3,181
+181,Sri Lanka,Zimbabwe,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",2017-07-06,Sri Lanka,Sri Lanka,6.2,310,8,300,6.591549295774648,312,2,284
+182,Sri Lanka,Zimbabwe,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",2017-07-08,Sri Lanka,Zimbabwe,6.0,300,6,300,7.465909090909091,219,6,176
+183,Sri Lanka,Zimbabwe,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",2017-07-10,Zimbabwe,Zimbabwe,4.06,203,8,300,5.344978165938865,204,7,229
+184,Ireland,England,"Civil Service Cricket Club, Stormont",2006-06-13,England,England,6.02,301,7,300,5.26,263,9,300
+185,England,Pakistan,Sophia Gardens,2006-08-30,Pakistan,no result,4.094594594594595,202,10,296,6.571428571428571,46,1,42
+186,England,Pakistan,Lord's,2006-09-02,Pakistan,Pakistan,4.238297872340426,166,10,235,4.609090909090909,169,3,220
+187,England,Pakistan,The Rose Bowl,2006-09-05,Pakistan,Pakistan,5.42,271,9,300,5.610921501706485,274,8,293
+188,England,Pakistan,Trent Bridge,2006-09-08,Pakistan,England,4.7,235,8,300,5.115107913669065,237,2,278
+189,England,Pakistan,Edgbaston,2006-09-10,England,England,3.08,154,9,300,5.0,155,7,186
+190,England,Sri Lanka,Lord's,2006-06-17,England,Sri Lanka,5.14,257,9,300,4.74,237,9,300
+191,England,Sri Lanka,Kennington Oval,2006-06-20,Sri Lanka,Sri Lanka,6.38,319,8,300,5.8500000000000005,273,10,280
+192,England,Sri Lanka,Riverside Ground,2006-06-24,England,Sri Lanka,5.22,261,7,300,6.259842519685039,265,2,254
+193,England,Sri Lanka,Old Trafford,2006-06-28,Sri Lanka,Sri Lanka,6.36,318,7,300,5.876288659793815,285,10,291
+194,England,Sri Lanka,Headingley,2006-07-01,England,Sri Lanka,6.42,321,7,300,8.64,324,2,225
+195,Australia,South Africa,"Brisbane Cricket Ground, Woolloongabba",2006-01-15,Australia,South Africa,4.575250836120401,228,10,299,4.73037542662116,231,5,293
+196,Australia,South Africa,Docklands Stadium,2006-01-20,Australia,Australia,4.966216216216216,245,10,296,3.9574468085106385,186,10,282
+197,Australia,South Africa,Docklands Stadium,2006-02-03,Australia,Australia,5.62,281,7,300,4.02,201,9,300
+198,Australia,South Africa,Sydney Cricket Ground,2006-02-05,Australia,Australia,6.88,344,6,300,5.74,287,6,300
+199,Australia,Sri Lanka,Sydney Cricket Ground,2006-01-22,Sri Lanka,Sri Lanka,6.18,309,7,300,5.16,258,10,300
+200,Australia,Sri Lanka,Adelaide Oval,2006-01-26,Sri Lanka,Australia,4.36,218,8,300,4.515463917525773,219,5,291
+201,Australia,Sri Lanka,Western Australia Cricket Association Ground,2006-01-29,Sri Lanka,Australia,4.66,233,8,300,5.780487804878049,237,4,246
+202,South Africa,Sri Lanka,"Brisbane Cricket Ground, Woolloongabba",2006-01-17,South Africa,Sri Lanka,5.64,282,6,300,4.2406015037593985,188,10,266
+203,South Africa,Sri Lanka,Adelaide Oval,2006-01-24,South Africa,South Africa,5.26,263,5,300,5.08,254,8,300
+204,South Africa,Sri Lanka,Western Australia Cricket Association Ground,2006-01-31,Sri Lanka,South Africa,4.636363636363637,221,10,286,4.959409594095941,224,5,271
+205,South Africa,Sri Lanka,Bellerive Oval,2006-02-07,Sri Lanka,Sri Lanka,5.14,257,9,300,4.145038167938932,181,10,262
+206,New Zealand,Sri Lanka,Jade Stadium,2006-01-03,New Zealand,New Zealand,5.1,255,7,300,5.333333333333333,256,5,288
+207,New Zealand,Sri Lanka,Westpac Stadium,2006-01-06,New Zealand,New Zealand,4.48,224,9,300,4.3500000000000005,203,10,280
+208,Pakistan,India,Arbab Niaz Stadium,2006-02-06,Pakistan,Pakistan,6.604026845637584,328,10,298,6.617021276595745,311,7,282
+209,Australia,Sri Lanka,Adelaide Oval,2006-02-10,Sri Lanka,Sri Lanka,5.48,274,8,300,5.125423728813559,252,10,295
+210,Pakistan,India,Rawalpindi Cricket Stadium,2006-02-11,Pakistan,India,5.371621621621621,265,10,296,6.162162162162162,266,3,259
+211,Australia,Sri Lanka,Sydney Cricket Ground,2006-02-12,Australia,Australia,7.36,368,5,300,5.583333333333333,201,10,216
+212,Pakistan,India,Gaddafi Stadium,2006-02-13,India,India,5.76,288,8,300,6.125874125874126,292,5,286
+213,Australia,Sri Lanka,"Brisbane Cricket Ground, Woolloongabba",2006-02-14,Sri Lanka,Australia,5.32,266,9,300,5.868131868131868,267,1,273
+214,Pakistan,India,Multan Cricket Stadium,2006-02-16,India,India,3.8486055776892427,161,10,251,4.984615384615385,162,5,195
+215,New Zealand,West Indies,Westpac Stadium,2006-02-18,New Zealand,New Zealand,5.76,288,9,300,4.3578947368421055,207,10,285
+216,Pakistan,India,National Stadium,2006-02-19,India,India,5.739130434782608,286,8,299,6.128113879003559,287,2,281
+217,Bangladesh,Sri Lanka,Shaheed Chandu Stadium,2006-02-20,Bangladesh,Sri Lanka,3.2930232558139534,118,10,215,4.89041095890411,119,5,146
+218,Bangladesh,Sri Lanka,Shaheed Chandu Stadium,2006-02-22,Bangladesh,Bangladesh,4.326530612244898,212,10,294,4.531914893617022,213,6,282
+219,Bangladesh,Sri Lanka,Chittagong Divisional Stadium,2006-02-25,Bangladesh,Sri Lanka,6.18,309,7,300,4.62,231,9,300
+220,Bangladesh,Australia,Chittagong Divisional Stadium,2006-04-23,Bangladesh,Australia,4.148936170212766,195,10,282,4.437735849056604,196,6,265
+221,Bangladesh,Australia,Narayanganj Osmani Stadium,2006-04-26,Australia,Australia,5.0,250,5,300,3.8125,183,10,288
+222,Bangladesh,Australia,Narayanganj Osmani Stadium,2006-04-28,Bangladesh,Australia,2.9176470588235293,124,10,255,5.602941176470588,127,1,136
+223,New Zealand,West Indies,Queenstown Events Centre,2006-02-22,New Zealand,New Zealand,4.0,200,9,300,4.857142857142857,204,7,252
+224,New Zealand,West Indies,Jade Stadium,2006-02-25,New Zealand,New Zealand,5.52,276,6,300,5.204081632653061,255,10,294
+225,New Zealand,West Indies,McLean Park,2006-03-01,West Indies,New Zealand,6.48,324,6,300,4.66,233,8,300
+226,New Zealand,West Indies,Eden Park,2006-03-04,New Zealand,West Indies,4.707070707070707,233,10,297,4.7114093959731544,234,7,298
+227,India,England,Feroz Shah Kotla,2006-03-28,England,India,4.3500000000000005,203,10,280,4.296943231441048,164,10,229
+228,India,England,Nahar Singh Stadium,2006-03-31,England,India,4.535117056856187,226,10,299,4.709897610921502,230,6,293
+229,India,England,"Nehru Stadium, Fatorda",2006-04-03,India,India,5.88,294,6,300,5.017064846416382,245,10,293
+230,India,England,Keenan Stadium,2006-04-12,India,England,4.645833333333333,223,10,288,5.3203125,227,6,256
+231,India,England,Maharani Usharaje Trust Cricket Ground,2006-04-15,India,India,5.7792642140468224,288,10,299,5.877966101694915,289,3,295
+232,South Africa,Australia,SuperSport Park,2006-02-26,Australia,South Africa,4.872340425531915,229,8,282,5.52,207,4,225
+233,South Africa,Australia,Newlands,2006-03-03,South Africa,South Africa,5.78,289,7,300,2.6956521739130435,93,10,207
+234,South Africa,Australia,St George's Park,2006-03-05,South Africa,Australia,5.08,254,6,300,4.859154929577465,230,10,284
+235,South Africa,Australia,Kingsmead,2006-03-10,South Africa,Australia,4.936454849498327,246,9,299,5.023728813559322,247,9,295
+236,South Africa,Australia,New Wanderers Stadium,2006-03-12,Australia,South Africa,8.68,434,4,300,8.789297658862877,438,9,299
+237,Sri Lanka,Pakistan,R Premadasa Stadium,2006-03-17,Sri Lanka,no result,4.02,201,8,300,8.789297658862877,0,0,0
+238,Sri Lanka,Pakistan,R Premadasa Stadium,2006-03-19,Pakistan,Pakistan,2.932330827067669,130,10,266,3.0,134,6,268
+239,Sri Lanka,Pakistan,Sinhalese Sports Club Ground,2006-03-22,Pakistan,Pakistan,4.51006711409396,224,10,298,5.0514705882352935,229,6,272
+240,West Indies,Zimbabwe,"Antigua Recreation Ground, St John's",2006-04-29,West Indies,West Indies,3.0301003344481603,151,9,299,4.017391304347826,154,5,230
+241,West Indies,Zimbabwe,"Antigua Recreation Ground, St John's",2006-04-30,West Indies,West Indies,4.84,242,9,300,3.1191335740072206,144,10,277
+242,West Indies,Zimbabwe,"Beausejour Stadium, Gros Islet",2006-05-10,Zimbabwe,West Indies,3.081081081081081,152,10,296,5.63855421686747,156,0,166
+243,West Indies,Zimbabwe,"Queen's Park Oval, Port of Spain",2006-05-13,West Indies,no result,5.26,263,6,300,5.917808219178083,72,2,73
+244,West Indies,Zimbabwe,"Queen's Park Oval, Port of Spain",2006-05-14,West Indies,West Indies,5.337792642140468,266,8,299,3.306122448979592,162,10,294
+245,West Indies,India,"Sabina Park, Kingston",2006-05-20,India,West Indies,3.96,198,9,300,3.9664429530201346,197,10,298
+246,West Indies,India,"Warner Park, Basseterre",2006-05-23,India,West Indies,4.9,245,9,300,4.976588628762541,248,6,299
+247,West Indies,India,"Queen's Park Oval, Port of Spain",2006-05-26,West Indies,West Indies,4.34,217,7,300,4.954545454545454,218,4,264
+248,West Indies,India,"Queen's Park Oval, Port of Spain",2006-05-28,India,West Indies,5.1,255,6,300,4.916666666666667,236,10,288
+249,India,Pakistan,Sheikh Zayed Stadium,2006-04-18,India,Pakistan,3.94,197,10,300,4.144329896907217,201,4,291
+250,India,Pakistan,Sheikh Zayed Stadium,2006-04-19,India,India,5.38,269,5,300,4.8088235294117645,218,10,272
+251,West Indies,Pakistan,"Sabina Park, Kingston",2007-03-13,Pakistan,West Indies,4.82,241,9,300,3.9507042253521125,187,10,284
+252,Australia,Scotland,"Warner Park, Basseterre",2007-03-14,Scotland,Australia,6.68,334,6,300,3.261410788381743,131,9,241
+253,Bermuda,Sri Lanka,"Queen's Park Oval, Port of Spain",2007-03-15,Sri Lanka,Sri Lanka,6.441471571906354,321,6,299,3.162162162162162,78,10,148
+254,Ireland,Zimbabwe,"Sabina Park, Kingston",2007-03-15,Zimbabwe,no result,4.434782608695652,221,9,299,4.434782608695652,221,10,299
+255,Netherlands,South Africa,"Warner Park, Basseterre",2007-03-16,Netherlands,South Africa,8.825,353,3,240,3.3,132,9,240
+256,England,New Zealand,"Beausejour Stadium, Gros Islet",2007-03-16,New Zealand,New Zealand,4.18,209,7,300,5.121951219512195,210,4,246
+257,Bangladesh,India,"Queen's Park Oval, Port of Spain",2007-03-17,India,Bangladesh,3.8585858585858586,191,10,297,3.9587628865979383,192,5,291
+258,Ireland,Pakistan,"Sabina Park, Kingston",2007-03-17,Ireland,Ireland,2.8905109489051095,132,10,274,3.192,133,7,250
+259,Australia,Netherlands,"Warner Park, Basseterre",2007-03-18,Australia,Australia,7.16,358,5,300,4.807453416149069,129,10,161
+260,Canada,England,"Beausejour Stadium, Gros Islet",2007-03-18,Canada,England,5.58,279,6,300,4.56,228,7,300
+261,Bermuda,India,"Queen's Park Oval, Port of Spain",2007-03-19,Bermuda,India,8.26,413,5,300,3.6138996138996142,156,10,259
+262,West Indies,Zimbabwe,"Sabina Park, Kingston",2007-03-19,West Indies,West Indies,4.04,202,5,300,4.264808362369338,204,4,287
+263,Scotland,South Africa,"Warner Park, Basseterre",2007-03-20,South Africa,South Africa,3.72,186,8,300,8.057142857142857,188,3,140
+264,Kenya,New Zealand,"Beausejour Stadium, Gros Islet",2007-03-20,Kenya,New Zealand,6.62,331,7,300,3.709459459459459,183,10,296
+265,Bangladesh,Sri Lanka,"Queen's Park Oval, Port of Spain",2007-03-21,Bangladesh,Sri Lanka,6.36,318,4,300,3.027027027027027,112,10,222
+266,Pakistan,Zimbabwe,"Sabina Park, Kingston",2007-03-21,Zimbabwe,Pakistan,7.0033444816053505,349,10,299,5.165217391304347,99,10,115
+267,Netherlands,Scotland,"Warner Park, Basseterre",2007-03-22,Netherlands,Netherlands,3.980487804878049,136,10,205,5.874125874125874,140,2,143
+268,Canada,New Zealand,"Beausejour Stadium, Gros Islet",2007-03-22,Canada,New Zealand,7.235880398671097,363,5,301,5.047297297297297,249,10,296
+269,India,Sri Lanka,"Queen's Park Oval, Port of Spain",2007-03-23,India,Sri Lanka,5.08,254,6,300,4.252873563218391,185,10,261
+270,West Indies,Ireland,"Sabina Park, Kingston",2007-03-23,Ireland,West Indies,3.8125,183,8,288,4.978165938864629,190,2,229
+271,Australia,South Africa,"Warner Park, Basseterre",2007-03-24,South Africa,Australia,7.54,377,6,300,6.146341463414634,294,10,287
+272,England,Kenya,"Beausejour Stadium, Gros Islet",2007-03-24,Kenya,England,4.116279069767442,177,10,258,5.393939393939394,178,3,198
+273,Bangladesh,Bermuda,"Queen's Park Oval, Port of Spain",2007-03-25,Bangladesh,Bangladesh,4.476190476190476,94,9,126,5.485714285714286,96,3,105
+274,West Indies,Australia,"Sir Vivian Richards Stadium, North Sound",2007-03-27,West Indies,Australia,6.44,322,6,300,4.813186813186813,219,10,273
+275,South Africa,Sri Lanka,Providence Stadium,2007-03-28,Sri Lanka,South Africa,4.222222222222222,209,10,297,4.386206896551724,212,9,290
+276,West Indies,New Zealand,"Sir Vivian Richards Stadium, North Sound",2007-03-29,New Zealand,New Zealand,3.9626865671641793,177,10,268,4.5508474576271185,179,3,236
+277,England,Ireland,Providence Stadium,2007-03-30,England,England,5.32,266,7,300,4.525951557093426,218,10,289
+278,Australia,Bangladesh,"Sir Vivian Richards Stadium, North Sound",2007-03-31,Australia,Australia,4.7272727272727275,104,6,132,7.662650602409638,106,0,83
+279,West Indies,Sri Lanka,Providence Stadium,2007-04-01,West Indies,Sri Lanka,6.06,303,5,300,4.269662921348314,190,10,267
+280,Bangladesh,New Zealand,"Sir Vivian Richards Stadium, North Sound",2007-04-02,New Zealand,New Zealand,3.5876288659793816,174,10,291,6.068181818181818,178,1,176
+281,Ireland,South Africa,Providence Stadium,2007-04-03,South Africa,South Africa,4.3428571428571425,152,8,210,5.238095238095238,165,3,189
+282,England,Sri Lanka,"Sir Vivian Richards Stadium, North Sound",2007-04-04,England,Sri Lanka,4.7,235,10,300,4.6755852842809364,233,8,299
+283,Bangladesh,South Africa,Providence Stadium,2007-04-07,South Africa,Bangladesh,5.02,251,8,300,3.7938144329896906,184,10,291
+284,Australia,England,"Sir Vivian Richards Stadium, North Sound",2007-04-08,England,Australia,4.956521739130435,247,10,299,5.23943661971831,248,3,284
+285,Ireland,New Zealand,Providence Stadium,2007-04-09,New Zealand,New Zealand,5.26,263,8,300,3.5575221238938055,134,10,226
+286,West Indies,South Africa,"National Cricket Stadium, St George's",2007-04-10,West Indies,South Africa,7.096345514950166,356,4,301,5.78,289,9,300
+287,Bangladesh,England,"Kensington Oval, Bridgetown",2007-04-11,England,England,3.830357142857143,143,10,224,3.2788104089219328,147,6,269
+288,New Zealand,Sri Lanka,"National Cricket Stadium, St George's",2007-04-12,New Zealand,Sri Lanka,4.38,219,7,300,4.915129151291513,222,4,271
+289,Australia,Ireland,"Kensington Oval, Bridgetown",2007-04-13,Australia,Australia,3.033333333333333,91,10,180,7.459459459459459,92,1,74
+290,New Zealand,South Africa,"National Cricket Stadium, St George's",2007-04-14,New Zealand,New Zealand,3.86,193,7,300,4.055172413793104,196,5,290
+291,Bangladesh,Ireland,"Kensington Oval, Bridgetown",2007-04-15,Ireland,Ireland,4.86,243,7,300,4.088709677419355,169,10,248
+292,Australia,Sri Lanka,"National Cricket Stadium, St George's",2007-04-16,Sri Lanka,Australia,4.550335570469799,226,10,298,5.4375,232,3,256
+293,England,South Africa,"Kensington Oval, Bridgetown",2007-04-17,England,South Africa,3.2083333333333335,154,10,288,8.120689655172415,157,1,116
+294,Ireland,Sri Lanka,"National Cricket Stadium, St George's",2007-04-18,Sri Lanka,Sri Lanka,2.783132530120482,77,10,166,8.1,81,2,60
+295,West Indies,Bangladesh,"Kensington Oval, Bridgetown",2007-04-19,Bangladesh,West Indies,4.6,230,5,300,2.988593155893536,131,10,263
+296,Australia,New Zealand,"National Cricket Stadium, St George's",2007-04-20,Australia,Australia,6.96,348,6,300,5.148387096774194,133,10,155
+297,West Indies,England,"Kensington Oval, Bridgetown",2007-04-21,England,England,6.020066889632107,300,10,299,6.040133779264214,301,9,299
+298,New Zealand,Sri Lanka,"Sabina Park, Kingston",2007-04-24,Sri Lanka,Sri Lanka,5.78,289,5,300,4.992,208,10,250
+299,Australia,South Africa,"Beausejour Stadium, Gros Islet",2007-04-25,South Africa,Australia,3.3992395437262357,149,10,263,4.857142857142857,153,3,189
+300,Australia,Sri Lanka,"Kensington Oval, Bridgetown",2007-04-28,Australia,Australia,7.394736842105263,281,4,228,5.972222222222222,215,8,216
+301,Zimbabwe,Bangladesh,Harare Sports Club,2006-08-06,Zimbabwe,Bangladesh,3.9797979797979797,197,10,297,4.5,201,2,268
+302,South Africa,India,Kingsmead,2006-11-22,South Africa,South Africa,4.96,248,8,300,3.1199999999999997,91,10,175
+303,South Africa,India,Newlands,2006-11-26,South Africa,South Africa,5.48,274,7,300,4.048192771084337,168,10,249
+304,South Africa,India,St George's Park,2006-11-29,South Africa,South Africa,4.86,243,8,300,4.270742358078603,163,10,229
+305,South Africa,India,SuperSport Park,2006-12-03,South Africa,South Africa,4.0,200,9,300,6.414893617021277,201,1,188
+306,Australia,New Zealand,Bellerive Oval,2007-01-14,Australia,Australia,5.78,289,8,300,4.779220779220779,184,10,231
+307,Australia,New Zealand,Sydney Cricket Ground,2007-01-21,New Zealand,Australia,4.573426573426573,218,10,286,4.602739726027398,224,8,292
+308,Australia,New Zealand,Western Australia Cricket Association Ground,2007-01-28,Australia,Australia,6.86,343,5,300,6.7,335,5,300
+309,Australia,New Zealand,Melbourne Cricket Ground,2007-02-04,New Zealand,Australia,5.8,290,7,300,6.041522491349482,291,5,289
+310,Australia,England,Melbourne Cricket Ground,2007-01-12,England,Australia,4.84,242,8,300,5.4264705882352935,246,2,272
+311,Australia,England,"Brisbane Cricket Ground, Woolloongabba",2007-01-19,England,Australia,3.6904761904761907,155,10,252,4.0344827586206895,156,6,232
+312,Australia,England,Adelaide Oval,2007-01-26,England,Australia,3.1884057971014492,110,10,207,4.530612244897959,111,1,147
+313,Australia,England,Sydney Cricket Ground,2007-02-02,England,England,5.84,292,7,300,5.150214592274677,200,10,233
+314,England,New Zealand,Bellerive Oval,2007-01-16,New Zealand,England,4.1,205,9,300,4.133779264214047,206,7,299
+315,England,New Zealand,Adelaide Oval,2007-01-23,New Zealand,New Zealand,4.2,210,10,300,3.171806167400881,120,10,227
+316,England,New Zealand,Western Australia Cricket Association Ground,2007-01-30,New Zealand,New Zealand,6.36,318,7,300,5.2,260,8,300
+317,England,New Zealand,"Brisbane Cricket Ground, Woolloongabba",2007-02-06,England,England,5.4,270,7,300,5.12,256,8,300
+318,Australia,England,Melbourne Cricket Ground,2007-02-09,Australia,England,5.195876288659794,252,10,291,5.111111111111111,253,6,297
+319,Australia,England,Sydney Cricket Ground,2007-02-11,England,England,4.92,246,8,300,5.62962962962963,152,8,162
+320,Kenya,Bangladesh,Gymkhana Club Ground,2006-08-12,Bangladesh,Bangladesh,3.416949152542373,168,10,295,5.635359116022099,170,4,181
+321,Kenya,Bangladesh,Gymkhana Club Ground,2006-08-13,Kenya,Bangladesh,3.956989247311828,184,10,279,4.021739130434782,185,8,276
+322,Kenya,Bangladesh,Gymkhana Club Ground,2006-08-15,Bangladesh,Bangladesh,2.854838709677419,118,10,248,4.444444444444445,120,4,162
+323,Bangladesh,Sri Lanka,"Punjab Cricket Association Stadium, Mohali",2006-10-07,Bangladesh,Sri Lanka,6.04,302,8,300,5.3,265,9,300
+324,West Indies,Zimbabwe,"Sardar Patel Stadium, Motera",2006-10-08,Zimbabwe,West Indies,2.8176795580110494,85,10,181,6.27906976744186,90,1,86
+325,Sri Lanka,Zimbabwe,"Sardar Patel Stadium, Motera",2006-10-10,Sri Lanka,Sri Lanka,5.7,285,7,300,3.3176470588235296,141,10,255
+326,Bangladesh,West Indies,Sawai Mansingh Stadium,2006-10-11,Bangladesh,West Indies,3.4623655913978495,161,10,279,4.472727272727273,164,0,220
+327,Bangladesh,Zimbabwe,Sawai Mansingh Stadium,2006-10-13,Zimbabwe,Bangladesh,4.62,231,6,300,2.91044776119403,130,10,268
+328,Sri Lanka,West Indies,Brabourne Stadium,2006-10-14,West Indies,Sri Lanka,2.608695652173913,80,10,184,6.225,83,1,80
+329,India,England,Sawai Mansingh Stadium,2006-10-15,India,India,3.3783783783783785,125,10,222,4.271186440677966,126,6,177
+330,New Zealand,South Africa,Brabourne Stadium,2006-10-16,South Africa,New Zealand,4.27007299270073,195,10,274,3.1609756097560977,108,10,205
+331,Pakistan,Sri Lanka,Sawai Mansingh Stadium,2006-10-17,Sri Lanka,Pakistan,5.128378378378378,253,10,296,5.294117647058823,255,6,289
+332,Australia,West Indies,Brabourne Stadium,2006-10-18,West Indies,West Indies,4.68,234,6,300,4.48,224,9,300
+333,New Zealand,Sri Lanka,Brabourne Stadium,2006-10-20,New Zealand,Sri Lanka,3.3445945945945943,165,10,296,4.611111111111111,166,3,216
+334,Australia,England,Sawai Mansingh Stadium,2006-10-21,Australia,Australia,3.7555555555555555,169,10,270,4.615384615384615,170,4,221
+335,South Africa,Sri Lanka,"Sardar Patel Stadium, Motera",2006-10-24,Sri Lanka,South Africa,4.38,219,9,300,3.6,141,10,235
+336,New Zealand,Pakistan,"Punjab Cricket Association Stadium, Mohali",2006-10-25,Pakistan,New Zealand,5.48,274,7,300,4.795698924731183,223,10,279
+337,India,West Indies,"Sardar Patel Stadium, Motera",2006-10-26,West Indies,West Indies,4.46,223,9,300,4.51006711409396,224,7,298
+338,Pakistan,South Africa,"Punjab Cricket Association Stadium, Mohali",2006-10-27,South Africa,South Africa,4.26,213,8,300,3.56,89,10,150
+339,England,West Indies,"Sardar Patel Stadium, Motera",2006-10-28,West Indies,England,5.44,272,4,300,5.690721649484536,276,7,291
+340,India,Australia,"Punjab Cricket Association Stadium, Mohali",2006-10-29,India,Australia,4.98,249,8,300,5.518248175182482,252,4,274
+341,Australia,New Zealand,"Punjab Cricket Association Stadium, Mohali",2006-11-01,New Zealand,Australia,4.8,240,9,300,4.478260869565218,206,10,276
+342,South Africa,West Indies,Sawai Mansingh Stadium,2006-11-02,South Africa,West Indies,5.16,258,8,300,5.977186311787072,262,5,263
+343,Australia,West Indies,Brabourne Stadium,2006-11-05,West Indies,Australia,4.5,138,10,184,4.118343195266272,116,2,169
+344,South Africa,Pakistan,SuperSport Park,2007-02-04,Pakistan,South Africa,7.84,392,6,300,4.885714285714286,228,10,280
+345,South Africa,Pakistan,Kingsmead,2007-02-07,Pakistan,Pakistan,7.02,351,4,300,5.25,210,10,240
+346,South Africa,Pakistan,St George's Park,2007-02-09,Pakistan,no result,4.916387959866221,245,8,299,5.25,0,0,0
+347,South Africa,Pakistan,Newlands,2007-02-11,South Africa,South Africa,2.343065693430657,107,10,274,8.071428571428571,113,0,84
+348,South Africa,Pakistan,New Wanderers Stadium,2007-02-14,Pakistan,South Africa,3.7469387755102037,153,10,245,5.5058823529411764,156,1,170
+349,New Zealand,Sri Lanka,McLean Park,2006-12-28,New Zealand,Sri Lanka,5.7,285,8,300,7.225,289,3,240
+350,New Zealand,Sri Lanka,Jade Stadium,2007-01-02,New Zealand,New Zealand,3.1698113207547167,112,10,212,4.489795918367347,110,6,147
+351,New Zealand,Sri Lanka,Eden Park,2007-01-06,Sri Lanka,Sri Lanka,5.24,262,6,300,2.7547169811320753,73,10,159
+352,New Zealand,Australia,Westpac Stadium,2007-02-16,New Zealand,New Zealand,2.98989898989899,148,10,297,5.518518518518518,149,0,162
+353,New Zealand,Australia,Eden Park,2007-02-18,New Zealand,New Zealand,6.72,336,4,300,7.010309278350515,340,5,291
+354,New Zealand,Australia,Seddon Park,2007-02-20,Australia,New Zealand,6.92,346,5,300,7.070707070707071,350,9,297
+355,South Africa,Zimbabwe,Goodyear Park,2006-09-15,Zimbabwe,South Africa,4.02,201,7,300,4.625954198473282,202,5,262
+356,India,West Indies,Kinrara Academy Oval,2006-09-14,India,West Indies,6.18,309,5,300,7.05,141,2,120
+357,Australia,India,Kinrara Academy Oval,2006-09-16,Australia,no result,4.945945945945946,244,10,296,4.375,35,5,48
+358,Australia,West Indies,Kinrara Academy Oval,2006-09-18,Australia,West Indies,5.44,272,6,300,5.767605633802817,273,7,284
+359,India,West Indies,Kinrara Academy Oval,2006-09-20,India,India,4.10126582278481,162,10,237,3.5609756097560976,146,10,246
+360,Australia,India,Kinrara Academy Oval,2006-09-22,Australia,Australia,4.422145328719723,213,10,289,4.448669201520913,195,10,263
+361,Australia,West Indies,Kinrara Academy Oval,2006-09-24,Australia,Australia,4.8,240,6,300,3.307317073170732,113,10,205
+362,Sri Lanka,India,Sinhalese Sports Club Ground,2006-08-18,India,no result,3.0,11,0,22,3.307317073170732,0,0,0
+363,South Africa,Zimbabwe,Sedgars Park,2006-09-20,South Africa,South Africa,8.36,418,5,300,4.92358803986711,247,4,301
+364,Pakistan,West Indies,Iqbal Stadium,2006-12-07,Pakistan,Pakistan,3.0301003344481603,151,10,299,3.186206896551724,154,8,290
+365,Pakistan,West Indies,Gaddafi Stadium,2006-12-10,Pakistan,Pakistan,4.451612903225806,207,7,279,5.702970297029704,192,3,202
+366,Pakistan,West Indies,Multan Cricket Stadium,2006-12-13,Pakistan,West Indies,4.193979933110367,209,10,299,6.086124401913875,212,3,209
+367,Pakistan,West Indies,National Stadium,2006-12-16,Pakistan,Pakistan,4.76,238,7,300,5.103202846975089,239,3,281
+368,England,West Indies,Lord's,2007-07-01,West Indies,England,4.51505016722408,225,10,299,3.6652719665271962,146,10,239
+369,England,West Indies,Edgbaston,2007-07-04,England,West Indies,5.56,278,5,300,4.717391304347826,217,10,276
+370,England,West Indies,Trent Bridge,2007-07-07,West Indies,West Indies,5.78,289,5,300,4.421052631578947,196,10,266
+371,England,India,The Rose Bowl,2007-08-21,India,England,5.76,288,2,300,3.68,184,10,300
+372,England,India,County Ground,2007-08-24,India,India,6.58,329,7,300,6.4,320,8,300
+373,England,India,Edgbaston,2007-08-27,India,England,5.62,281,8,300,4.961937716262976,239,10,289
+374,England,India,Old Trafford,2007-08-30,India,England,4.268456375838927,212,10,298,4.4375,213,7,288
+375,England,India,Headingley,2007-09-02,England,India,6.458471760797343,324,6,301,6.205128205128205,242,8,234
+376,England,India,Kennington Oval,2007-09-05,England,India,6.32,316,6,300,6.38255033557047,317,8,298
+377,England,India,Lord's,2007-09-08,India,England,3.9368421052631577,187,10,285,5.174311926605505,188,3,218
+378,Bermuda,Canada,Sedgars Park,2006-11-27,Canada,Canada,4.7,235,8,300,4.996515679442508,239,5,287
+379,Bermuda,Netherlands,Willowmoore Park,2006-12-02,Netherlands,Bermuda,3.3703703703703702,91,10,162,5.529411764705882,94,4,102
+380,Bermuda,Canada,Willowmoore Park,2006-11-30,Canada,Canada,3.56,178,9,300,4.512605042016807,179,7,238
+381,Canada,Netherlands,Willowmoore Park,2006-12-01,Netherlands,Netherlands,4.46,223,8,300,4.92,205,9,250
+382,South Africa,Zimbabwe,Buffalo Park,2006-09-18,Zimbabwe,South Africa,3.0604026845637584,152,10,298,5.63855421686747,156,4,166
+383,Bangladesh,Zimbabwe,Shaheed Chandu Stadium,2006-12-03,Bangladesh,Bangladesh,4.34,217,7,300,5.089494163424124,218,4,257
+384,Bangladesh,Zimbabwe,Shaheed Chandu Stadium,2006-12-05,Zimbabwe,Bangladesh,4.45945945945946,220,10,296,3.9591836734693877,194,10,294
+385,Bangladesh,Zimbabwe,Shere Bangla National Stadium,2006-12-08,Bangladesh,Bangladesh,3.084507042253521,146,10,284,4.546391752577319,147,2,194
+386,Bangladesh,Zimbabwe,Shere Bangla National Stadium,2006-12-09,Bangladesh,Bangladesh,3.8471760797342194,193,8,301,4.020408163265306,197,7,294
+387,Bermuda,Canada,Gymkhana Club Ground,2007-02-02,Bermuda,Canada,7.714285714285714,162,8,126,6.694736842105263,106,10,95
+388,Bermuda,Netherlands,Ruaraka Sports Club Ground,2007-02-04,Netherlands,Netherlands,4.172043010752688,194,10,279,4.5868725868725875,198,2,259
+389,Kenya,Scotland,Gymkhana Club Ground,2007-02-04,Scotland,Scotland,5.08,254,8,300,3.847826086956522,177,10,276
+390,Kenya,Canada,Jaffery Sports Club Ground,2007-02-05,Kenya,Kenya,5.0,250,9,300,6.202247191011236,92,10,89
+391,India,West Indies,"MA Chidambaram Stadium, Chepauk",2007-01-27,West Indies,West Indies,5.583333333333333,268,10,288,6.183206106870229,270,7,262
+392,India,West Indies,Indian Petrochemicals Corporation Limited Sports Complex Ground,2007-01-31,West Indies,India,6.82,341,3,300,4.344,181,10,250
+393,India,Sri Lanka,Eden Gardens,2007-02-08,India,no result,5.563636363636364,102,3,110,4.344,0,0,0
+394,India,Sri Lanka,Madhavrao Scindia Cricket Ground,2007-02-11,India,Sri Lanka,5.14,257,8,300,5.04,252,9,300
+395,India,Sri Lanka,Andhra Cricket Association-Visakhapatnam District Cricket Association Stadium,2007-02-17,India,India,5.51063829787234,259,7,282,6.414634146341464,263,3,246
+396,India,Sri Lanka,"Nehru Stadium, Fatorda",2007-02-14,Sri Lanka,India,4.6,230,8,300,5.010752688172043,233,5,279
+397,Scotland,India,Titwood,2007-08-16,India,India,4.413043478260869,203,9,276,5.322175732217573,212,3,239
+398,Bangladesh,India,Shere Bangla National Stadium,2007-05-10,Bangladesh,India,5.319148936170213,250,7,282,5.456521739130435,251,5,276
+399,Bangladesh,India,Shere Bangla National Stadium,2007-05-12,India,India,5.795918367346939,284,8,294,4.857142857142857,238,9,294
+400,Africa XI,Asia XI,M Chinnaswamy Stadium,2007-06-06,Asia XI,Asia XI,6.34,317,9,300,5.916376306620209,283,10,287
+401,Africa XI,Asia XI,"MA Chidambaram Stadium, Chepauk",2007-06-09,Asia XI,Asia XI,6.74,337,7,300,6.140468227424749,306,10,299
+402,Africa XI,Asia XI,"MA Chidambaram Stadium, Chepauk",2007-06-10,Asia XI,Asia XI,6.62,331,8,300,6.338870431893688,318,7,301
+403,Sri Lanka,England,Rangiri Dambulla International Stadium,2007-10-01,Sri Lanka,Sri Lanka,5.38,269,7,300,4.30622009569378,150,10,209
+404,Sri Lanka,England,Rangiri Dambulla International Stadium,2007-10-04,England,England,4.68,234,8,300,3.797752808988764,169,10,267
+405,Sri Lanka,England,R Premadasa Stadium,2007-10-10,Sri Lanka,England,4.22,211,9,300,4.526690391459074,212,5,281
+406,Sri Lanka,England,R Premadasa Stadium,2007-10-13,Sri Lanka,Sri Lanka,4.380622837370242,211,10,289,3.5657142857142854,104,10,175
+407,Australia,New Zealand,Adelaide Oval,2007-12-14,New Zealand,Australia,5.08,254,7,300,6.0,255,3,255
+408,Australia,New Zealand,Sydney Cricket Ground,2007-12-16,New Zealand,no result,5.0,30,3,36,6.0,0,0,0
+409,Australia,New Zealand,Bellerive Oval,2007-12-20,New Zealand,Australia,5.64,282,6,300,4.9411764705882355,168,10,204
+410,Australia,India,"Brisbane Cricket Ground, Woolloongabba",2008-02-03,India,no result,4.311111111111111,194,10,270,6.954545454545455,51,3,44
+411,India,Sri Lanka,"Brisbane Cricket Ground, Woolloongabba",2008-02-05,India,no result,5.34,267,4,300,6.954545454545455,0,0,0
+412,Australia,Sri Lanka,Sydney Cricket Ground,2008-02-08,Australia,Australia,5.06,253,6,300,3.9682539682539684,125,10,189
+413,Australia,India,Melbourne Cricket Ground,2008-02-10,Australia,India,3.6833976833976836,159,10,259,3.4909090909090907,160,5,275
+414,Australia,Sri Lanka,Western Australia Cricket Association Ground,2008-02-15,Australia,Australia,4.751677852348993,236,10,298,3.802197802197802,173,10,273
+415,Australia,India,Adelaide Oval,2008-02-17,Australia,Australia,4.06,203,9,300,3.701612903225806,153,10,248
+416,India,Sri Lanka,Adelaide Oval,2008-02-19,Sri Lanka,India,4.76,238,6,300,4.861016949152543,239,8,295
+417,Australia,Sri Lanka,Melbourne Cricket Ground,2008-02-22,Sri Lanka,Australia,3.68,184,7,300,2.610169491525424,77,4,177
+418,Australia,India,Sydney Cricket Ground,2008-02-24,Australia,Australia,6.318936877076412,317,7,301,6.08135593220339,299,10,295
+419,India,Sri Lanka,Bellerive Oval,2008-02-26,India,India,3.7950530035335692,179,10,283,5.56701030927835,180,3,194
+420,Australia,Sri Lanka,Melbourne Cricket Ground,2008-02-29,Sri Lanka,Sri Lanka,4.42,221,10,300,4.318339100346021,208,10,289
+421,Australia,India,Sydney Cricket Ground,2008-03-02,Australia,India,4.78,239,8,300,5.279999999999999,242,4,275
+422,Australia,India,"Brisbane Cricket Ground, Woolloongabba",2008-03-04,India,India,5.16,258,9,300,5.0134228187919465,249,10,298
+423,Ireland,India,"Civil Service Cricket Club, Stormont",2007-06-23,India,India,3.86,193,10,300,4.909090909090909,171,1,209
+424,Ireland,South Africa,"Civil Service Cricket Club, Stormont",2007-06-24,Ireland,South Africa,5.580645161290323,173,4,186,4.248648648648649,131,10,185
+425,India,South Africa,"Civil Service Cricket Club, Stormont",2007-06-26,South Africa,South Africa,4.84,242,8,300,4.94949494949495,245,6,297
+426,India,South Africa,"Civil Service Cricket Club, Stormont",2007-06-29,India,India,4.52,226,6,300,4.616949152542373,227,4,295
+427,India,South Africa,"Civil Service Cricket Club, Stormont",2007-07-01,India,India,4.774193548387097,148,7,186,5.010989010989011,152,4,182
+428,Sri Lanka,Bangladesh,P Saravanamuttu Stadium,2007-07-20,Bangladesh,Sri Lanka,4.68,234,6,300,4.049382716049383,164,10,243
+429,Sri Lanka,Bangladesh,R Premadasa Stadium,2007-07-23,Sri Lanka,Sri Lanka,2.9252669039145904,137,10,281,4.524064171122994,141,5,187
+430,Sri Lanka,Bangladesh,R Premadasa Stadium,2007-07-25,Bangladesh,Sri Lanka,4.920502092050209,196,10,239,4.2242152466367715,157,10,223
+431,Netherlands,Scotland,"Civil Service Cricket Club, Stormont",2007-07-13,Scotland,no result,3.1791044776119404,71,5,134,4.2242152466367715,0,0,0
+432,Ireland,West Indies,Clontarf Cricket Club Ground,2007-07-14,Ireland,no result,4.846153846153847,84,4,104,4.2242152466367715,0,0,0
+433,Kenya,Canada,Gymkhana Club Ground,2007-10-18,Kenya,Kenya,4.742268041237113,230,10,291,4.787671232876712,233,6,292
+434,Kenya,Canada,Gymkhana Club Ground,2007-10-20,Canada,Kenya,4.007067137809187,189,10,283,4.471042471042471,193,6,259
+435,England,New Zealand,Riverside Ground,2008-06-15,New Zealand,England,6.14,307,5,300,4.505836575875486,193,10,257
+436,England,New Zealand,Edgbaston,2008-06-18,New Zealand,no result,6.75,162,10,144,6.684210526315789,127,2,114
+437,England,New Zealand,County Ground,2008-06-21,England,New Zealand,3.64,182,10,300,3.4408602150537635,160,10,279
+438,England,New Zealand,Kennington Oval,2008-06-25,New Zealand,New Zealand,4.932885906040268,245,10,298,4.92,246,9,300
+439,England,New Zealand,Lord's,2008-06-28,England,New Zealand,5.32,266,5,300,4.494773519163763,215,10,287
+440,England,South Africa,Headingley,2008-08-22,England,England,5.5,275,4,300,5.134228187919463,255,10,298
+441,England,South Africa,Trent Bridge,2008-08-26,South Africa,England,3.608695652173913,83,10,138,6.0,85,0,85
+442,England,South Africa,Kennington Oval,2008-08-29,South Africa,England,5.92,296,7,300,3.984375,170,10,256
+443,England,South Africa,Lord's,2008-08-31,England,England,5.689119170984457,183,6,193,7.754716981132075,137,3,106
+444,England,South Africa,Sophia Gardens,2008-09-03,England,no result,2.0,6,1,18,7.754716981132075,0,0,0
+445,India,Australia,M Chinnaswamy Stadium,2007-09-29,Australia,no result,6.14,307,7,300,3.375,9,1,16
+446,India,Australia,Nehru Stadium,2007-10-02,India,Australia,6.12,306,6,300,4.673684210526316,222,10,285
+447,India,Australia,"Rajiv Gandhi International Stadium, Uppal",2007-10-05,Australia,Australia,5.8,290,7,300,5.097902097902098,243,10,286
+448,India,Australia,Sector 16 Stadium,2007-10-08,India,India,5.82,291,4,300,5.66,283,7,300
+449,India,Australia,Reliance Stadium,2007-10-11,India,Australia,3.73109243697479,148,10,238,5.767741935483871,149,1,155
+450,India,Australia,Vidarbha Cricket Association Ground,2007-10-14,Australia,Australia,6.34,317,8,300,5.98,299,7,300
+451,India,Australia,Wankhede Stadium,2007-10-17,Australia,India,4.650602409638554,193,10,249,4.239130434782608,195,8,276
+452,India,Pakistan,Nehru Stadium,2007-11-05,Pakistan,India,4.78,239,7,300,5.148936170212766,242,5,282
+453,India,Pakistan,"Punjab Cricket Association Stadium, Mohali",2007-11-08,India,Pakistan,6.441471571906354,321,9,299,6.461538461538462,322,6,299
+454,India,Pakistan,Green Park,2007-11-11,Pakistan,India,5.88,294,6,300,5.23943661971831,248,10,284
+455,India,Pakistan,Captain Roop Singh Stadium,2007-11-15,Pakistan,India,5.1,255,6,300,5.591397849462366,260,4,279
+456,India,Pakistan,Sawai Mansingh Stadium,2007-11-18,India,Pakistan,6.12,306,6,300,5.5369127516778525,275,10,298
+457,South Africa,New Zealand,Kingsmead,2007-11-25,South Africa,South Africa,4.96,248,6,300,4.98,249,8,300
+458,South Africa,New Zealand,St George's Park,2007-11-30,South Africa,New Zealand,4.18,209,9,300,5.431034482758621,210,3,232
+459,South Africa,New Zealand,Newlands,2007-12-02,New Zealand,South Africa,4.76,238,8,300,5.338235294117647,242,5,272
+460,South Africa,West Indies,SuperSport Park,2008-01-20,South Africa,South Africa,4.883720930232558,175,10,215,5.176470588235294,176,4,204
+461,South Africa,West Indies,Newlands,2008-01-25,South Africa,South Africa,5.1,255,9,300,3.4965517241379307,169,10,290
+462,South Africa,West Indies,St George's Park,2008-01-27,West Indies,South Africa,5.04,252,7,300,5.26027397260274,256,3,292
+463,South Africa,West Indies,Kingsmead,2008-02-01,West Indies,South Africa,5.26,263,9,300,5.560975609756097,266,5,287
+464,South Africa,West Indies,New Wanderers Stadium,2008-02-03,South Africa,South Africa,5.9,295,7,300,7.317919075144509,211,2,173
+465,Pakistan,South Africa,Gaddafi Stadium,2007-10-18,South Africa,South Africa,5.88,294,5,300,5.354838709677419,249,10,279
+466,Pakistan,South Africa,Gaddafi Stadium,2007-10-20,Pakistan,Pakistan,5.3,265,9,300,4.848484848484849,240,10,297
+467,Pakistan,South Africa,Iqbal Stadium,2007-10-23,South Africa,Pakistan,3.993243243243243,197,10,296,4.193771626297578,202,4,289
+468,Pakistan,South Africa,Multan Cricket Stadium,2007-10-26,Pakistan,South Africa,4.6,230,9,300,6.185840707964602,233,3,226
+469,Pakistan,South Africa,Gaddafi Stadium,2007-10-29,South Africa,South Africa,4.66,233,9,300,4.726618705035971,219,10,278
+470,New Zealand,Bangladesh,Eden Park,2007-12-26,New Zealand,New Zealand,4.32258064516129,201,10,279,4.7578125,203,4,256
+471,New Zealand,Bangladesh,McLean Park,2007-12-28,New Zealand,New Zealand,6.7,335,5,300,4.209302325581396,181,6,258
+472,New Zealand,Bangladesh,Queenstown Events Centre,2007-12-31,New Zealand,New Zealand,2.458149779735683,93,10,227,15.833333333333334,95,0,36
+473,New Zealand,England,Westpac Stadium,2008-02-09,England,New Zealand,2.61744966442953,130,10,298,4.366666666666666,131,4,180
+474,New Zealand,England,Seddon Park,2008-02-12,New Zealand,New Zealand,4.492890995260664,158,10,211,9.082568807339449,165,0,109
+475,New Zealand,England,Eden Park,2008-02-15,England,England,4.68,234,9,300,5.204545454545454,229,4,264
+476,New Zealand,England,McLean Park,2008-02-20,New Zealand,no result,6.8,340,6,300,6.8,340,7,300
+477,New Zealand,England,AMI Stadium,2008-02-23,New Zealand,New Zealand,4.84,242,7,300,5.756756756756757,213,6,222
+478,Zimbabwe,South Africa,Queens Sports Club,2007-08-22,Zimbabwe,South Africa,4.12,206,10,300,4.4839857651245545,210,5,281
+479,Zimbabwe,South Africa,Harare Sports Club,2007-08-25,South Africa,South Africa,4.94,247,7,300,6.408510638297873,251,2,235
+480,Zimbabwe,South Africa,Harare Sports Club,2007-08-26,South Africa,South Africa,6.46,323,9,300,5.9,295,7,300
+481,Kenya,Bermuda,Gymkhana Club Ground,2007-10-25,Kenya,Kenya,4.209677419354838,174,10,248,6.176470588235294,175,2,170
+482,Kenya,Bermuda,Gymkhana Club Ground,2007-10-27,Bermuda,Kenya,3.66,183,9,300,4.233962264150944,187,7,265
+483,Kenya,Bermuda,Gymkhana Club Ground,2007-10-28,Bermuda,Kenya,3.5785714285714287,167,10,280,4.651376146788991,169,9,218
+484,Zimbabwe,West Indies,Harare Sports Club,2007-11-30,West Indies,Zimbabwe,5.48,274,8,300,4.88,244,8,300
+485,Zimbabwe,West Indies,Harare Sports Club,2007-12-02,Zimbabwe,West Indies,5.72,286,10,300,3.955056179775281,176,10,267
+486,Zimbabwe,West Indies,Queens Sports Club,2007-12-07,West Indies,West Indies,4.64,232,9,300,4.9787234042553195,234,5,282
+487,West Indies,Sri Lanka,"Queen's Park Oval, Port of Spain",2008-04-10,West Indies,West Indies,4.7,235,7,300,4.72,236,9,300
+488,West Indies,Sri Lanka,"Queen's Park Oval, Port of Spain",2008-04-12,West Indies,West Indies,3.6721311475409837,112,5,183,6.097560975609756,125,3,123
+489,West Indies,Sri Lanka,"Beausejour Stadium, Gros Islet",2008-04-15,West Indies,no result,5.14,257,8,300,4.418181818181819,81,2,110
+490,West Indies,Australia,"Arnos Vale Ground, Kingstown",2008-06-24,West Indies,Australia,5.46,273,8,300,4.7447698744769875,189,10,239
+491,West Indies,Australia,"National Cricket Stadium, St George's",2008-06-27,Australia,Australia,4.26,213,5,300,3.4146341463414633,140,8,246
+492,West Indies,Australia,"National Cricket Stadium, St George's",2008-06-29,Australia,Australia,4.645833333333333,223,10,288,5.604938271604938,227,3,243
+493,West Indies,Australia,"Warner Park, Basseterre",2008-07-04,West Indies,Australia,5.65886287625418,282,8,299,5.62,281,6,300
+494,West Indies,Australia,"Warner Park, Basseterre",2008-07-06,Australia,Australia,6.82,341,8,300,4.317991631799163,172,10,239
+495,Bangladesh,South Africa,Chittagong Divisional Stadium,2008-03-09,Bangladesh,South Africa,3.682758620689655,178,10,290,4.886877828054298,180,1,221
+496,Bangladesh,South Africa,Shere Bangla National Stadium,2008-03-12,Bangladesh,South Africa,3.579310344827586,173,10,290,3.716262975778547,179,3,289
+497,Bangladesh,South Africa,Shere Bangla National Stadium,2008-03-14,Bangladesh,South Africa,3.33852140077821,143,10,257,4.281553398058252,147,3,206
+498,Canada,Bermuda,Maple Leaf North-West Ground,2008-06-29,Canada,Bermuda,4.02,201,8,300,4.043956043956044,184,10,273
+499,Scotland,Kenya,Cambusdoon New Ground,2008-08-12,Scotland,no result,4.0285714285714285,141,8,210,3.795918367346939,31,1,49
+500,Ireland,Kenya,"Civil Service Cricket Club, Stormont",2008-08-25,Kenya,no result,2.25,18,2,48,3.795918367346939,0,0,0
+501,Netherlands,Scotland,Clontarf Cricket Club Ground,2008-07-29,Netherlands,Scotland,2.9745762711864403,117,10,236,5.373134328358209,120,4,134
+502,Ireland,Scotland,Clontarf Cricket Club Ground,2008-07-31,Ireland,Ireland,4.3428571428571425,152,9,210,5.450704225352112,129,3,142
+503,Ireland,Zimbabwe,Gymkhana Club Ground,2008-10-17,Zimbabwe,Zimbabwe,6.06,303,8,300,3.1956521739130435,147,10,276
+504,Pakistan,Zimbabwe,National Stadium,2008-01-21,Zimbabwe,Pakistan,6.94,347,5,300,4.86,243,7,300
+505,Pakistan,Zimbabwe,"Niaz Stadium, Hyderabad",2008-01-24,Zimbabwe,Pakistan,4.775919732441471,238,8,299,5.158273381294964,239,5,278
+506,Pakistan,Zimbabwe,Multan Cricket Stadium,2008-01-27,Pakistan,Pakistan,5.44,272,9,300,4.7,235,7,300
+507,Pakistan,Zimbabwe,Iqbal Stadium,2008-01-30,Zimbabwe,Pakistan,4.896321070234113,244,10,299,5.194346289752651,245,3,283
+508,Pakistan,Zimbabwe,Sheikhupura Stadium,2008-02-02,Zimbabwe,Pakistan,3.9635036496350367,181,10,274,6.064864864864865,187,3,185
+509,Bangladesh,United Arab Emirates,Gaddafi Stadium,2008-06-24,Bangladesh,Bangladesh,6.0,300,8,300,4.467153284671533,204,10,274
+510,Pakistan,Hong Kong,National Stadium,2008-06-24,Pakistan,Pakistan,5.76,288,9,300,3.5624999999999996,133,10,224
+511,Bangladesh,Sri Lanka,Gaddafi Stadium,2008-06-25,Bangladesh,Sri Lanka,7.14,357,9,300,4.52,226,7,300
+512,Hong Kong,India,National Stadium,2008-06-25,India,India,7.48,374,4,300,3.203619909502262,118,10,221
+513,Sri Lanka,United Arab Emirates,Gaddafi Stadium,2008-06-26,Sri Lanka,Sri Lanka,5.8,290,9,300,4.054794520547945,148,10,219
+514,Pakistan,India,National Stadium,2008-06-26,Pakistan,India,5.98,299,5,300,7.138339920948617,301,4,253
+515,Bangladesh,India,National Stadium,2008-06-28,Bangladesh,India,5.66,283,6,300,6.553846153846154,284,3,260
+516,Pakistan,Sri Lanka,National Stadium,2008-06-29,Pakistan,Sri Lanka,6.04,302,7,300,4.76,238,9,300
+517,Bangladesh,Sri Lanka,National Stadium,2008-06-30,Sri Lanka,Sri Lanka,6.64,332,8,300,4.51948051948052,174,10,231
+518,Pakistan,India,National Stadium,2008-07-02,India,Pakistan,6.16,308,7,300,6.791208791208791,309,3,273
+519,India,Sri Lanka,National Stadium,2008-07-03,Sri Lanka,India,6.16,308,8,300,6.619217081850533,310,4,281
+520,Pakistan,Bangladesh,National Stadium,2008-07-04,Bangladesh,Pakistan,3.0,115,10,230,5.898305084745762,116,0,118
+521,India,Sri Lanka,National Stadium,2008-07-06,India,Sri Lanka,5.478260869565217,273,10,299,4.379746835443038,173,10,237
+522,Australia,Bangladesh,Marrara Cricket Ground,2008-08-30,Bangladesh,Australia,5.08,254,8,300,2.674698795180723,74,10,166
+523,Australia,Bangladesh,Marrara Cricket Ground,2008-09-03,Bangladesh,Australia,3.235023041474655,117,10,217,5.205882352941177,118,2,136
+524,Australia,Bangladesh,Marrara Cricket Ground,2008-09-06,Australia,Australia,3.96,198,5,300,4.189944134078212,125,9,179
+525,Sri Lanka,India,Rangiri Dambulla International Stadium,2008-08-18,India,Sri Lanka,3.1739130434782608,146,10,276,4.220095693779904,147,2,209
+526,Sri Lanka,India,Rangiri Dambulla International Stadium,2008-08-20,India,India,3.688311688311688,142,10,231,3.6050420168067228,143,7,238
+527,Sri Lanka,India,R Premadasa Stadium,2008-08-24,India,India,4.74,237,9,300,4.163265306122449,204,10,294
+528,Sri Lanka,India,R Premadasa Stadium,2008-08-29,Sri Lanka,Sri Lanka,4.54,227,6,300,3.8867924528301887,103,10,159
+529,Pakistan,Bangladesh,Gaddafi Stadium,2008-04-08,Pakistan,Pakistan,6.44,322,5,300,4.324022346368715,129,10,179
+530,Pakistan,Bangladesh,Iqbal Stadium,2008-04-11,Bangladesh,Pakistan,4.655172413793103,225,8,290,6.857142857142858,160,3,140
+531,Pakistan,Bangladesh,Gaddafi Stadium,2008-04-13,Pakistan,Pakistan,6.16,308,8,300,5.7,285,7,300
+532,Pakistan,Bangladesh,Multan Cricket Stadium,2008-04-16,Bangladesh,Pakistan,4.271186440677966,210,10,295,4.764044943820225,212,3,267
+533,Pakistan,Bangladesh,National Stadium,2008-04-19,Pakistan,Pakistan,6.58,329,9,300,4.383673469387755,179,10,245
+534,Bangladesh,Pakistan,Shere Bangla National Stadium,2008-06-08,Bangladesh,Pakistan,5.89873417721519,233,10,237,4.075,163,8,240
+535,India,Pakistan,Shere Bangla National Stadium,2008-06-10,India,India,6.6,330,8,300,5.327102803738318,190,10,214
+536,Bangladesh,India,Shere Bangla National Stadium,2008-06-12,Bangladesh,India,4.454849498327759,222,10,299,6.3412322274881525,223,3,211
+537,India,Pakistan,Shere Bangla National Stadium,2008-06-14,Pakistan,Pakistan,6.3,315,4,300,6.0,290,10,290
+538,England,Australia,Kennington Oval,2009-09-04,England,Australia,5.2,260,5,300,5.12,256,8,300
+539,England,Australia,Lord's,2009-09-06,England,Australia,4.98,249,8,300,4.548736462093863,210,10,277
+540,England,Australia,The Rose Bowl,2009-09-09,England,Australia,4.56,228,9,300,4.742268041237113,230,4,291
+541,England,Australia,Lord's,2009-09-12,England,Australia,4.731182795698925,220,10,279,5.061068702290076,221,3,262
+542,England,Australia,Trent Bridge,2009-09-15,England,Australia,5.98,299,10,300,6.248275862068965,302,6,290
+543,England,Australia,Trent Bridge,2009-09-17,Australia,Australia,5.92,296,8,300,4.512195121951219,185,10,246
+544,England,Australia,Riverside Ground,2009-09-20,England,England,3.84,176,10,275,4.425,177,6,240
+545,South Africa,Bangladesh,Senwes Park,2008-11-07,South Africa,South Africa,5.66,283,8,300,5.007518796992481,222,10,266
+546,South Africa,Australia,Kingsmead,2009-04-03,Australia,Australia,5.72,286,7,300,4.371859296482413,145,10,199
+547,South Africa,Australia,SuperSport Park,2009-04-05,Australia,South Africa,3.2479338842975203,131,10,242,5.012658227848101,132,3,158
+548,South Africa,Australia,Newlands,2009-04-09,South Africa,South Africa,5.78,289,6,300,5.28,264,7,300
+549,South Africa,Australia,St George's Park,2009-04-13,Australia,South Africa,6.34,317,6,300,5.585454545454545,256,10,275
+550,South Africa,Australia,New Wanderers Stadium,2009-04-17,South Africa,Australia,6.06,303,7,300,5.585454545454545,256,10,275
+551,Australia,South Africa,Melbourne Cricket Ground,2009-01-16,Australia,South Africa,5.42,271,8,300,5.494949494949495,272,7,297
+552,Australia,South Africa,Bellerive Oval,2009-01-18,South Africa,Australia,4.98,249,9,300,4.88,244,6,300
+553,Australia,South Africa,Sydney Cricket Ground,2009-01-23,Australia,South Africa,5.452702702702703,269,10,296,5.806451612903226,270,7,279
+554,Australia,South Africa,Adelaide Oval,2009-01-26,Australia,South Africa,4.625,222,10,288,5.842794759825328,223,2,229
+555,Australia,South Africa,Western Australia Cricket Association Ground,2009-01-30,South Africa,South Africa,5.76,288,6,300,5.081632653061225,249,10,294
+556,Australia,New Zealand,Western Australia Cricket Association Ground,2009-02-01,Australia,New Zealand,3.719178082191781,181,10,292,3.64,182,8,300
+557,Australia,New Zealand,Melbourne Cricket Ground,2009-02-06,New Zealand,New Zealand,4.5,225,5,300,4.6279863481228665,226,4,293
+558,Australia,New Zealand,Sydney Cricket Ground,2009-02-08,New Zealand,Australia,6.02,301,9,300,5.663157894736842,269,10,285
+559,Australia,New Zealand,Adelaide Oval,2009-02-10,New Zealand,Australia,4.88,244,8,300,5.110344827586206,247,4,290
+560,Australia,New Zealand,"Brisbane Cricket Ground, Woolloongabba",2009-02-13,New Zealand,no result,7.636363636363637,168,4,132,8.785714285714286,123,6,84
+561,West Indies,England,Providence Stadium,2009-03-20,England,England,5.4,270,7,300,5.266187050359712,244,7,278
+562,West Indies,England,Providence Stadium,2009-03-22,West Indies,West Indies,5.28,264,8,300,5.027586206896552,243,10,290
+563,West Indies,England,"Kensington Oval, Bridgetown",2009-03-27,West Indies,West Indies,2.819277108433735,117,10,249,7.8876404494382015,117,2,89
+564,West Indies,England,"Kensington Oval, Bridgetown",2009-03-29,England,England,4.78,239,9,300,7.351351351351352,136,1,111
+565,West Indies,England,"Beausejour Stadium, Gros Islet",2009-04-03,West Indies,England,5.931034482758621,172,5,174,5.214285714285714,146,10,168
+566,England,India,North Sydney Oval,2009-03-10,England,England,3.4726027397260277,169,10,292,4.448275862068966,172,1,232
+567,South Africa,Kenya,OUTsurance Oval,2008-10-31,South Africa,South Africa,6.72,336,7,300,3.6,177,10,295
+568,India,England,Madhavrao Scindia Cricket Ground,2008-11-14,England,India,7.74,387,5,300,6.079646017699115,229,10,226
+569,India,England,Maharani Usharaje Trust Cricket Ground,2008-11-17,India,India,5.84,292,9,300,5.0638297872340425,238,10,282
+570,India,England,Green Park,2008-11-20,England,India,4.931506849315069,240,10,292,4.95,198,5,240
+571,India,England,M Chinnaswamy Stadium,2008-11-23,England,India,7.545454545454546,166,4,132,8.090909090909092,178,8,132
+572,India,England,Barabati Stadium,2008-11-26,India,India,5.4,270,4,300,6.251908396946566,273,4,262
+573,Sri Lanka,India,R Premadasa Stadium,2008-08-27,India,India,5.194630872483222,258,10,298,4.559139784946237,212,10,279
+574,New Zealand,India,McLean Park,2009-03-03,India,India,7.184210526315789,273,4,228,5.785714285714286,162,9,168
+575,New Zealand,India,Seddon Park,2009-03-11,New Zealand,India,5.74468085106383,270,5,282,8.553191489361701,201,0,141
+576,New Zealand,India,Eden Park,2009-03-14,India,New Zealand,4.082191780821918,149,10,219,6.4714285714285715,151,2,140
+577,New Zealand,India,Westpac Stadium,2009-03-06,India,no result,6.558139534883721,188,4,172,6.4714285714285715,0,0,0
+578,New Zealand,India,AMI Stadium,2009-03-08,New Zealand,India,7.84,392,5,300,7.394833948339484,334,10,271
+579,New Zealand,West Indies,Queenstown Events Centre,2008-12-31,New Zealand,no result,3.6168224299065423,129,5,214,7.394833948339484,0,0,0
+580,New Zealand,West Indies,Westpac Stadium,2009-01-07,New Zealand,New Zealand,3.072,128,10,250,6.2926829268292686,129,3,123
+581,Pakistan,West Indies,Sheikh Zayed Stadium,2008-11-12,West Indies,Pakistan,5.88,294,9,300,5.919732441471572,295,6,299
+582,Pakistan,West Indies,Sheikh Zayed Stadium,2008-11-14,Pakistan,Pakistan,4.73469387755102,232,10,294,4.25938566552901,208,10,293
+583,Zimbabwe,Sri Lanka,Harare Sports Club,2008-11-20,Sri Lanka,Sri Lanka,4.096774193548387,127,10,186,3.8805970149253732,130,4,201
+584,Zimbabwe,Sri Lanka,Harare Sports Club,2008-11-22,Zimbabwe,Sri Lanka,2.161290322580645,67,10,186,3.8490566037735845,68,1,106
+585,Zimbabwe,Sri Lanka,Harare Sports Club,2008-11-24,Zimbabwe,Sri Lanka,6.107142857142857,171,7,168,5.928571428571429,166,7,168
+586,Zimbabwe,Sri Lanka,Harare Sports Club,2008-11-30,Zimbabwe,Sri Lanka,3.1126279863481225,152,10,293,3.022727272727273,133,10,264
+587,West Indies,India,"Sabina Park, Kingston",2009-06-26,India,India,6.78,339,6,300,6.622837370242215,319,10,289
+588,West Indies,India,"Sabina Park, Kingston",2009-06-28,India,West Indies,3.889655172413793,188,10,290,5.619512195121952,192,2,205
+589,West Indies,India,"Beausejour Stadium, Gros Islet",2009-07-03,India,India,6.888888888888889,186,7,162,7.282442748091603,159,4,131
+590,West Indies,India,"Beausejour Stadium, Gros Islet",2009-07-05,India,no result,3.6,27,1,45,7.282442748091603,0,0,0
+591,Bangladesh,Zimbabwe,Shere Bangla National Stadium,2009-01-10,Bangladesh,Zimbabwe,4.1,205,9,300,3.6043165467625897,167,10,278
+592,Bangladesh,Sri Lanka,Shere Bangla National Stadium,2009-01-14,Bangladesh,Bangladesh,4.819672131147541,147,10,183,6.335664335664336,151,5,143
+593,Bangladesh,Zimbabwe,Shere Bangla National Stadium,2009-01-23,Bangladesh,Bangladesh,3.2162162162162162,119,9,222,3.723076923076923,121,4,195
+594,England,West Indies,County Ground,2009-05-24,England,England,4.1558441558441555,160,10,231,4.472222222222222,161,4,216
+595,England,West Indies,Edgbaston,2009-05-26,West Indies,England,6.56,328,7,300,5.436241610738255,270,10,298
+596,Ireland,England,"Civil Service Cricket Club, Stormont",2009-08-27,England,England,4.06,203,9,300,5.6,112,9,120
+597,England,Australia,County Ground,2009-06-29,Australia,England,2.6778523489932886,133,10,298,4.962962962962963,134,1,162
+598,Kenya,Zimbabwe,Gymkhana Club Ground,2009-01-31,Kenya,Zimbabwe,4.7272727272727275,234,10,297,4.899653979238755,236,6,289
+599,Pakistan,Sri Lanka,National Stadium,2009-01-20,Sri Lanka,Pakistan,4.830882352941177,219,10,272,4.782608695652174,220,2,276
+600,Pakistan,Sri Lanka,National Stadium,2009-01-21,Pakistan,Sri Lanka,5.8,290,8,300,4.62200956937799,161,10,209
+601,Pakistan,Sri Lanka,Gaddafi Stadium,2009-01-24,Sri Lanka,Sri Lanka,6.18,309,5,300,3.2846715328467155,75,10,137
+602,Sri Lanka,India,Rangiri Dambulla International Stadium,2009-01-28,India,India,4.92,246,7,300,5.1280276816609,247,4,289
+603,Sri Lanka,India,R Premadasa Stadium,2009-01-31,India,India,5.12,256,9,300,4.885135135135135,241,10,296
+604,Sri Lanka,India,R Premadasa Stadium,2009-02-03,India,India,7.26,363,5,300,5.184,216,10,250
+605,Sri Lanka,India,R Premadasa Stadium,2009-02-05,India,India,6.64,332,5,300,5.520833333333333,265,10,288
+606,Sri Lanka,India,R Premadasa Stadium,2009-02-08,Sri Lanka,Sri Lanka,6.4,320,8,300,5.160409556313993,252,10,293
+607,South Africa,England,SuperSport Park,2009-11-22,England,England,5.0,250,9,300,5.478260869565218,252,3,276
+608,South Africa,England,Newlands,2009-11-27,South Africa,South Africa,7.08,354,6,300,5.831325301204819,242,10,249
+609,South Africa,England,St George's Park,2009-11-29,South Africa,England,3.2307692307692304,119,10,221,3.8617021276595747,121,3,188
+610,Ireland,Scotland,Willowmoore Park,2009-04-01,Ireland,Ireland,4.64,232,7,300,6.185840707964602,233,3,226
+611,Canada,Scotland,Willowmoore Park,2009-04-08,Scotland,Canada,5.04,252,7,300,3.372972972972973,104,10,185
+612,Afghanistan,Scotland,Willowmoore Park,2009-04-19,Afghanistan,Afghanistan,5.9,295,8,300,5.15,206,10,240
+613,Australia,Pakistan,Dubai Sports City Cricket Stadium,2009-04-22,Australia,Pakistan,4.326180257510729,168,10,233,3.871698113207547,171,6,265
+614,Australia,Pakistan,Dubai Sports City Cricket Stadium,2009-04-24,Pakistan,Australia,4.467625899280575,207,10,278,4.605166051660517,208,4,271
+615,Australia,Pakistan,Sheikh Zayed Stadium,2009-04-27,Australia,Australia,3.96,198,7,300,3.625441696113074,171,10,283
+616,Australia,Pakistan,Sheikh Zayed Stadium,2009-05-01,Pakistan,Australia,4.061855670103093,197,10,291,4.511278195488722,200,2,266
+617,Australia,Pakistan,Sheikh Zayed Stadium,2009-05-03,Australia,Pakistan,5.0,250,4,300,5.404255319148936,254,3,282
+618,West Indies,Bangladesh,"Windsor Park, Roseau",2009-07-26,West Indies,Bangladesh,4.92,246,9,300,4.442748091603054,194,10,262
+619,West Indies,Bangladesh,"Windsor Park, Roseau",2009-07-28,West Indies,Bangladesh,5.48,274,6,300,5.63265306122449,276,7,294
+620,West Indies,Bangladesh,"Warner Park, Basseterre",2009-07-31,West Indies,Bangladesh,5.202797202797203,248,10,286,5.098976109215017,249,7,293
+621,Sri Lanka,Pakistan,Rangiri Dambulla International Stadium,2009-07-30,Pakistan,Sri Lanka,4.64,232,9,300,4.388059701492538,196,10,268
+622,Sri Lanka,Pakistan,Rangiri Dambulla International Stadium,2009-08-01,Sri Lanka,Sri Lanka,3.574468085106383,168,10,282,3.870229007633588,169,4,262
+623,Sri Lanka,Pakistan,Rangiri Dambulla International Stadium,2009-08-03,Sri Lanka,Sri Lanka,5.76,288,8,300,6.21505376344086,289,4,279
+624,Sri Lanka,Pakistan,R Premadasa Stadium,2009-08-07,Pakistan,Pakistan,6.42,321,5,300,4.838709677419355,175,10,217
+625,Sri Lanka,Pakistan,R Premadasa Stadium,2009-08-09,Pakistan,Pakistan,5.58,279,8,300,4.281553398058252,147,10,206
+626,Sri Lanka,New Zealand,R Premadasa Stadium,2009-09-08,Sri Lanka,Sri Lanka,4.32,216,7,300,3.2903225806451615,119,10,217
+627,Sri Lanka,India,R Premadasa Stadium,2009-09-12,Sri Lanka,Sri Lanka,6.14,307,6,300,4.5,168,10,224
+628,India,New Zealand,R Premadasa Stadium,2009-09-11,New Zealand,India,3.3333333333333335,155,10,279,3.8518518518518516,156,4,243
+629,Sri Lanka,India,R Premadasa Stadium,2009-09-14,India,India,6.38,319,5,300,5.8500000000000005,273,10,280
+630,Australia,West Indies,Melbourne Cricket Ground,2010-02-07,West Indies,Australia,5.12,256,8,300,4.16504854368932,143,10,206
+631,Australia,West Indies,Adelaide Oval,2010-02-09,West Indies,Australia,4.285714285714286,170,10,238,6.452830188679245,171,2,159
+632,Australia,West Indies,Sydney Cricket Ground,2010-02-12,West Indies,no result,4.51505016722408,225,10,299,6.0,6,0,6
+633,Australia,West Indies,"Brisbane Cricket Ground, Woolloongabba",2010-02-14,West Indies,Australia,6.48,324,7,300,5.48,274,8,300
+634,Australia,West Indies,Melbourne Cricket Ground,2010-02-19,Australia,Australia,6.48,324,5,300,5.402714932126696,199,10,221
+635,Australia,Pakistan,"Brisbane Cricket Ground, Woolloongabba",2010-01-22,Pakistan,Australia,5.516778523489934,274,10,298,5.670103092783505,275,5,291
+636,Australia,Pakistan,Sydney Cricket Ground,2010-01-24,Pakistan,Australia,5.34,267,6,300,3.3866666666666667,127,10,225
+637,Australia,Pakistan,Adelaide Oval,2010-01-26,Australia,Australia,5.72,286,6,300,5.160839160839161,246,10,286
+638,Australia,Pakistan,Western Australia Cricket Association Ground,2010-01-29,Australia,Australia,5.54,277,8,300,3.753303964757709,142,10,227
+639,Australia,Pakistan,Western Australia Cricket Association Ground,2010-01-31,Pakistan,Australia,4.282828282828283,212,10,297,4.3175675675675675,213,8,296
+640,Zimbabwe,Bangladesh,Queens Sports Club,2009-08-09,Bangladesh,Bangladesh,4.327526132404181,207,10,287,6.115942028985507,211,2,207
+641,Zimbabwe,Bangladesh,Queens Sports Club,2009-08-11,Zimbabwe,Bangladesh,6.4,320,8,300,5.870036101083032,271,10,277
+642,Zimbabwe,Bangladesh,Queens Sports Club,2009-08-14,Bangladesh,Zimbabwe,6.481605351170568,323,7,299,5.7293233082706765,254,10,266
+643,Zimbabwe,Bangladesh,Queens Sports Club,2009-08-16,Zimbabwe,Bangladesh,6.24,312,8,300,6.498269896193772,313,6,289
+644,Zimbabwe,Bangladesh,Queens Sports Club,2009-08-18,Zimbabwe,Bangladesh,4.478571428571429,209,10,280,4.43205574912892,212,5,287
+645,Canada,Kenya,Maple Leaf North-West Ground,2009-08-19,Canada,Canada,3.4070351758793973,113,10,199,7.163265306122449,117,1,98
+646,South Africa,Sri Lanka,SuperSport Park,2009-09-22,South Africa,Sri Lanka,6.38,319,8,300,5.469026548672566,206,7,226
+647,Pakistan,West Indies,New Wanderers Stadium,2009-09-23,West Indies,Pakistan,3.8550724637681157,133,10,207,4.39344262295082,134,5,183
+648,South Africa,New Zealand,SuperSport Park,2009-09-24,South Africa,South Africa,4.473867595818815,214,10,287,5.271255060728746,217,5,247
+649,England,Sri Lanka,New Wanderers Stadium,2009-09-25,England,England,4.463157894736842,212,10,285,4.733333333333333,213,4,270
+650,Australia,West Indies,New Wanderers Stadium,2009-09-26,West Indies,Australia,5.5,275,8,300,4.804270462633451,225,9,281
+651,India,Pakistan,SuperSport Park,2009-09-26,Pakistan,Pakistan,6.04,302,9,300,5.5315985130111525,248,10,269
+652,New Zealand,Sri Lanka,New Wanderers Stadium,2009-09-27,Sri Lanka,New Zealand,6.3,315,7,300,5.935714285714286,277,10,280
+653,South Africa,England,SuperSport Park,2009-09-27,England,England,6.46,323,8,300,6.02,301,9,300
+654,Australia,India,SuperSport Park,2009-09-28,Australia,no result,5.5058823529411764,234,4,255,6.02,0,0,0
+655,England,New Zealand,New Wanderers Stadium,2009-09-29,New Zealand,New Zealand,3.3822393822393826,146,10,259,5.411042944785276,147,6,163
+656,Australia,Pakistan,SuperSport Park,2009-09-30,Australia,Australia,4.1,205,6,300,4.12,206,8,300
+657,India,West Indies,New Wanderers Stadium,2009-09-30,India,India,3.5833333333333335,129,10,216,4.041450777202073,130,3,193
+658,Australia,England,SuperSport Park,2009-10-02,England,Australia,5.391608391608392,257,10,286,6.1673306772908365,258,1,251
+659,New Zealand,Pakistan,New Wanderers Stadium,2009-10-03,Pakistan,New Zealand,4.66,233,9,300,4.89198606271777,234,5,287
+660,Australia,New Zealand,SuperSport Park,2009-10-05,New Zealand,Australia,4.0,200,9,300,4.544117647058823,206,4,272
+661,India,Australia,Reliance Stadium,2009-10-25,Australia,Australia,5.84,292,8,300,5.76,288,8,300
+662,India,Australia,"Vidarbha Cricket Association Stadium, Jamtha",2009-10-28,Australia,India,7.08,354,7,300,5.257731958762887,255,10,291
+663,India,Australia,Feroz Shah Kotla,2009-10-31,Australia,India,4.58,229,5,300,4.758620689655173,230,4,290
+664,India,Australia,"Punjab Cricket Association Stadium, Mohali",2009-11-02,India,Australia,5.0675675675675675,250,10,296,4.842857142857143,226,10,280
+665,India,Australia,"Rajiv Gandhi International Stadium, Uppal",2009-11-05,Australia,Australia,7.0,350,4,300,6.986577181208054,347,10,298
+666,India,Australia,Nehru Stadium,2009-11-08,India,Australia,3.5416666666666665,170,10,288,4.111553784860558,172,4,251
+667,Bangladesh,Zimbabwe,Shere Bangla National Stadium,2009-10-27,Zimbabwe,Zimbabwe,3.97153024911032,186,10,281,5.4519230769230775,189,5,208
+668,Bangladesh,Zimbabwe,Shere Bangla National Stadium,2009-10-29,Zimbabwe,Bangladesh,4.626760563380281,219,10,284,7.491525423728813,221,3,177
+669,Bangladesh,Zimbabwe,Shere Bangla National Stadium,2009-10-31,Bangladesh,Bangladesh,4.761133603238867,196,10,247,4.868852459016393,198,6,244
+670,Bangladesh,Zimbabwe,Zohur Ahmed Chowdhury Stadium,2009-11-03,Zimbabwe,Bangladesh,1.7718120805369129,44,10,149,4.140845070422535,49,4,71
+671,Bangladesh,Zimbabwe,Zohur Ahmed Chowdhury Stadium,2009-11-05,Bangladesh,Bangladesh,4.42,221,9,300,4.530612244897959,222,9,294
+672,South Africa,West Indies,Boland Bank Park,2009-10-21,South Africa,South Africa,3.2542372881355934,160,10,295,4.008196721311475,163,3,244
+673,New Zealand,Bangladesh,McLean Park,2010-02-05,New Zealand,New Zealand,6.72,336,9,300,4.334600760456274,190,10,263
+674,New Zealand,Bangladesh,University Oval,2010-02-08,New Zealand,New Zealand,3.66,183,8,300,6.7272727272727275,185,5,165
+675,New Zealand,Bangladesh,AMI Stadium,2010-02-11,New Zealand,New Zealand,4.82,241,9,300,5.442379182156134,244,7,269
+676,New Zealand,Australia,McLean Park,2010-03-03,Australia,New Zealand,5.5,275,8,300,5.695945945945946,281,8,296
+677,New Zealand,Australia,Eden Park,2010-03-06,Australia,Australia,5.46,273,7,300,5.838461538461538,253,10,260
+678,New Zealand,Australia,Seddon Park,2010-03-09,Australia,Australia,5.287769784172662,245,10,278,5.23943661971831,248,4,284
+679,New Zealand,Australia,Eden Park,2010-03-11,Australia,Australia,5.3886792452830194,238,10,265,6.481283422459893,202,4,187
+680,New Zealand,Australia,Westpac Stadium,2010-03-13,Australia,New Zealand,4.82,241,9,300,4.115523465703971,190,10,277
+681,Ireland,Australia,Clontarf Cricket Club Ground,2010-06-17,Australia,Australia,4.62,231,9,300,4.571428571428571,192,10,252
+682,England,Australia,The Rose Bowl,2010-06-22,Australia,England,5.34,267,7,300,5.826086956521739,268,6,276
+683,England,Australia,Sophia Gardens,2010-06-24,Australia,England,4.78,239,7,300,5.360294117647059,243,6,272
+684,England,Australia,Old Trafford,2010-06-27,England,England,4.608695652173913,212,10,276,4.352542372881356,214,9,295
+685,England,Australia,Kennington Oval,2010-06-30,England,Australia,5.8,290,5,300,4.96875,212,10,256
+686,England,Australia,Lord's,2010-07-03,Australia,Australia,5.54,277,7,300,5.053763440860215,235,10,279
+687,England,Bangladesh,Trent Bridge,2010-07-08,Bangladesh,England,5.0,250,9,300,5.55719557195572,251,4,271
+688,England,Bangladesh,County Ground,2010-07-10,England,Bangladesh,4.72,236,7,300,4.666666666666667,231,10,297
+689,England,Bangladesh,Edgbaston,2010-07-12,Bangladesh,England,6.94,347,7,300,4.511111111111111,203,10,270
+690,Bangladesh,England,Shere Bangla National Stadium,2010-02-28,England,England,4.992700729927008,228,10,274,4.978260869565218,229,4,276
+691,Bangladesh,England,Shere Bangla National Stadium,2010-03-02,England,England,5.2,260,6,300,5.3447098976109215,261,8,293
+692,Bangladesh,England,Zohur Ahmed Chowdhury Stadium,2010-03-05,Bangladesh,England,5.68,284,5,300,4.78,239,9,300
+693,England,Pakistan,Riverside Ground,2010-09-10,Pakistan,England,6.682926829268292,274,6,246,6.097560975609756,250,9,246
+694,England,Pakistan,Headingley,2010-09-12,Pakistan,England,5.88,294,8,300,5.959595959595959,295,6,297
+695,England,Pakistan,Kennington Oval,2010-09-17,Pakistan,Pakistan,4.852348993288591,241,10,298,4.773722627737227,218,10,274
+696,England,Pakistan,Lord's,2010-09-20,Pakistan,Pakistan,5.3,265,7,300,4.916967509025271,227,10,277
+697,England,Pakistan,The Rose Bowl,2010-09-22,England,England,5.12,256,6,300,3.6486486486486487,135,10,222
+698,New Zealand,Pakistan,Sheikh Zayed Stadium,2009-11-03,Pakistan,Pakistan,5.74,287,9,300,3.7881355932203387,149,10,236
+699,New Zealand,Pakistan,Sheikh Zayed Stadium,2009-11-06,New Zealand,New Zealand,6.06,303,8,300,5.049295774647887,239,10,284
+700,New Zealand,Pakistan,Sheikh Zayed Stadium,2009-11-09,New Zealand,New Zealand,4.537634408602151,211,10,279,4.149152542372882,204,10,295
+701,South Africa,Zimbabwe,Willowmoore Park,2009-11-08,Zimbabwe,South Africa,5.9,295,5,300,5.0,250,6,300
+702,South Africa,Zimbabwe,SuperSport Park,2009-11-10,Zimbabwe,South Africa,6.62,331,5,300,3.449275362318841,119,10,207
+703,India,Sri Lanka,Madhavrao Scindia Cricket Ground,2009-12-15,Sri Lanka,India,8.28,414,7,300,8.22,411,8,300
+704,India,Sri Lanka,"Vidarbha Cricket Association Stadium, Jamtha",2009-12-18,India,Sri Lanka,6.02,301,7,300,6.142372881355932,302,7,295
+705,India,Sri Lanka,Barabati Stadium,2009-12-21,Sri Lanka,India,5.390977443609022,239,10,266,5.7176470588235295,243,3,255
+706,India,Sri Lanka,Eden Gardens,2009-12-24,Sri Lanka,India,6.3,315,6,300,6.581314878892734,317,3,289
+707,India,Sri Lanka,Feroz Shah Kotla,2009-12-27,India,no result,3.5319148936170213,83,5,141,6.581314878892734,0,0,0
+708,Bangladesh,India,Shere Bangla National Stadium,2011-02-19,Bangladesh,India,7.4,370,4,300,5.66,283,9,300
+709,Kenya,New Zealand,"MA Chidambaram Stadium, Chepauk",2011-02-20,Kenya,New Zealand,2.8951048951048954,69,10,143,9.0,72,0,48
+710,Sri Lanka,Canada,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",2011-02-20,Sri Lanka,Sri Lanka,6.64,332,7,300,3.3122171945701355,122,10,221
+711,Australia,Zimbabwe,"Sardar Patel Stadium, Motera",2011-02-21,Australia,Australia,5.24,262,6,300,3.690647482014388,171,10,278
+712,England,Netherlands,"Vidarbha Cricket Association Stadium, Jamtha",2011-02-22,Netherlands,England,5.84,292,6,300,6.082191780821918,296,4,292
+713,Kenya,Pakistan,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",2011-02-23,Pakistan,Pakistan,6.34,317,7,300,3.376884422110553,112,10,199
+714,South Africa,West Indies,Feroz Shah Kotla,2011-02-24,South Africa,South Africa,4.673684210526316,222,10,285,5.206225680933852,223,3,257
+715,Australia,New Zealand,"Vidarbha Cricket Association Stadium, Jamtha",2011-02-25,Australia,Australia,4.560885608856089,206,10,271,6.088235294117647,207,3,204
+716,Bangladesh,Ireland,Shere Bangla National Stadium,2011-02-25,Bangladesh,Bangladesh,4.155405405405405,205,10,296,3.970260223048327,178,10,269
+717,Sri Lanka,Pakistan,R Premadasa Stadium,2011-02-26,Pakistan,Pakistan,5.54,277,7,300,5.32,266,9,300
+718,India,England,M Chinnaswamy Stadium,2011-02-27,India,no result,6.782608695652174,338,10,299,6.76,338,8,300
+719,Netherlands,West Indies,Feroz Shah Kotla,2011-02-28,Netherlands,West Indies,6.6,330,8,300,3.6507936507936507,115,10,189
+720,Canada,Zimbabwe,"Vidarbha Cricket Association Stadium, Jamtha",2011-02-28,Zimbabwe,Zimbabwe,5.9799331103678925,298,9,299,2.91699604743083,123,10,253
+721,Sri Lanka,Kenya,R Premadasa Stadium,2011-03-01,Kenya,Sri Lanka,3.251908396946565,142,10,262,7.821428571428571,146,1,112
+722,England,Ireland,M Chinnaswamy Stadium,2011-03-02,England,Ireland,6.54,327,8,300,6.691525423728814,329,7,295
+723,Netherlands,South Africa,"Punjab Cricket Association Stadium, Mohali",2011-03-03,Netherlands,South Africa,7.02,351,5,300,3.4449760765550237,120,10,209
+724,Canada,Pakistan,R Premadasa Stadium,2011-03-03,Pakistan,Pakistan,4.27906976744186,184,10,258,3.221789883268482,138,10,257
+725,New Zealand,Zimbabwe,"Sardar Patel Stadium, Motera",2011-03-04,Zimbabwe,New Zealand,3.4964028776978417,162,10,278,4.955223880597015,166,0,201
+726,Bangladesh,West Indies,Shere Bangla National Stadium,2011-03-04,Bangladesh,West Indies,3.0796460176991154,58,10,113,4.783783783783783,59,1,74
+727,Sri Lanka,Australia,R Premadasa Stadium,2011-03-05,Sri Lanka,no result,4.446700507614213,146,3,197,4.783783783783783,0,0,0
+728,India,Ireland,M Chinnaswamy Stadium,2011-03-06,India,India,4.327526132404181,207,10,287,4.565217391304348,210,5,276
+729,England,South Africa,"MA Chidambaram Stadium, Chepauk",2011-03-06,England,England,3.7445255474452557,171,10,274,3.4615384615384617,165,10,286
+730,Canada,Kenya,Feroz Shah Kotla,2011-03-07,Kenya,Canada,3.96,198,10,300,4.373626373626373,199,5,273
+731,New Zealand,Pakistan,Pallekele International Cricket Stadium,2011-03-08,New Zealand,New Zealand,6.04,302,7,300,4.6080000000000005,192,10,250
+732,India,Netherlands,Feroz Shah Kotla,2011-03-09,Netherlands,India,4.05,189,10,280,5.232876712328767,191,5,219
+733,Sri Lanka,Zimbabwe,Pallekele International Cricket Stadium,2011-03-10,Zimbabwe,Sri Lanka,6.54,327,6,300,4.82051282051282,188,10,234
+734,Ireland,West Indies,"Punjab Cricket Association Stadium, Mohali",2011-03-11,Ireland,West Indies,5.5,275,10,300,4.714285714285714,231,10,294
+735,Bangladesh,England,Zahur Ahmed Chowdhury Stadium,2011-03-11,Bangladesh,Bangladesh,4.530201342281879,225,10,298,4.63265306122449,227,8,294
+736,India,South Africa,"Vidarbha Cricket Association Stadium, Jamtha",2011-03-12,India,South Africa,6.082191780821918,296,10,292,6.0402684563758395,300,7,298
+737,Canada,New Zealand,Wankhede Stadium,2011-03-13,Canada,New Zealand,7.16,358,6,300,5.22,261,9,300
+738,Australia,Kenya,M Chinnaswamy Stadium,2011-03-13,Australia,Australia,6.48,324,6,300,5.28,264,6,300
+739,Pakistan,Zimbabwe,Pallekele International Cricket Stadium,2011-03-14,Zimbabwe,Pakistan,3.8067226890756305,151,7,238,4.800000000000001,164,3,205
+740,Bangladesh,Netherlands,Zahur Ahmed Chowdhury Stadium,2011-03-14,Netherlands,Bangladesh,3.4532374100719423,160,10,278,4.016129032258064,166,4,248
+741,Ireland,South Africa,Eden Gardens,2011-03-15,Ireland,South Africa,5.44,272,7,300,4.2299999999999995,141,10,200
+742,Australia,Canada,M Chinnaswamy Stadium,2011-03-16,Canada,Australia,4.62043795620438,211,10,274,6.086124401913875,212,3,209
+743,England,West Indies,"MA Chidambaram Stadium, Chepauk",2011-03-17,England,England,4.993150684931507,243,10,292,5.037313432835822,225,10,268
+744,New Zealand,Sri Lanka,Wankhede Stadium,2011-03-18,Sri Lanka,Sri Lanka,5.3,265,9,300,4.371428571428571,153,10,210
+745,Ireland,Netherlands,Eden Gardens,2011-03-18,Ireland,Ireland,6.12,306,10,300,6.440559440559441,307,4,286
+746,Australia,Pakistan,R Premadasa Stadium,2011-03-19,Australia,Pakistan,3.771428571428572,176,10,280,4.341463414634147,178,6,246
+747,Bangladesh,South Africa,Shere Bangla National Stadium,2011-03-19,South Africa,South Africa,5.68,284,8,300,2.7857142857142856,78,10,168
+748,Kenya,Zimbabwe,Eden Gardens,2011-03-20,Zimbabwe,Zimbabwe,6.16,308,6,300,4.083333333333333,147,10,216
+749,India,West Indies,"MA Chidambaram Stadium, Chepauk",2011-03-20,India,India,5.450847457627119,268,10,295,4.372093023255814,188,10,258
+750,Pakistan,West Indies,Shere Bangla National Stadium,2011-03-23,West Indies,Pakistan,2.574712643678161,112,10,261,5.424,113,0,125
+751,India,Australia,"Sardar Patel Stadium, Motera",2011-03-24,Australia,India,5.2,260,6,300,5.475524475524476,261,5,286
+752,New Zealand,South Africa,Shere Bangla National Stadium,2011-03-25,New Zealand,New Zealand,4.42,221,8,300,3.969230769230769,172,10,260
+753,Sri Lanka,England,R Premadasa Stadium,2011-03-26,England,Sri Lanka,4.58,229,6,300,5.848101265822785,231,0,237
+754,Sri Lanka,New Zealand,R Premadasa Stadium,2011-03-29,New Zealand,Sri Lanka,4.4436860068259385,217,10,293,4.599303135888501,220,5,287
+755,India,Pakistan,"Punjab Cricket Association Stadium, Mohali",2011-03-30,India,India,5.2,260,9,300,4.635451505016722,231,10,299
+756,India,Sri Lanka,Wankhede Stadium,2011-04-02,Sri Lanka,India,5.48,274,6,300,5.731034482758621,277,4,290
+757,Bangladesh,Sri Lanka,Shere Bangla National Stadium,2010-01-04,Sri Lanka,Sri Lanka,5.2,260,7,300,5.821561338289962,261,3,269
+758,India,Sri Lanka,Shere Bangla National Stadium,2010-01-05,Sri Lanka,Sri Lanka,5.58,279,9,300,5.895833333333333,283,5,288
+759,Bangladesh,India,Shere Bangla National Stadium,2010-01-07,Bangladesh,India,5.92,296,6,300,6.252631578947368,297,4,285
+760,Bangladesh,Sri Lanka,Shere Bangla National Stadium,2010-01-08,Sri Lanka,Sri Lanka,4.98,249,9,300,5.883268482490272,252,1,257
+761,India,Sri Lanka,Shere Bangla National Stadium,2010-01-10,Sri Lanka,India,4.613718411552346,213,10,277,6.551020408163266,214,2,196
+762,Bangladesh,India,Shere Bangla National Stadium,2010-01-11,India,India,4.94,247,6,300,5.790697674418604,249,4,258
+763,India,Sri Lanka,Shere Bangla National Stadium,2010-01-13,Sri Lanka,Sri Lanka,5.068965517241379,245,10,290,5.134020618556701,249,6,291
+764,West Indies,Zimbabwe,Providence Stadium,2010-03-04,Zimbabwe,Zimbabwe,5.08,254,5,300,5.04,252,9,300
+765,West Indies,Zimbabwe,Providence Stadium,2010-03-06,Zimbabwe,West Indies,4.133779264214047,206,10,299,4.348432055749129,208,6,287
+766,West Indies,Zimbabwe,"Arnos Vale Ground, Kingstown",2010-03-10,Zimbabwe,West Indies,4.9,245,9,300,3.267015706806283,104,10,191
+767,West Indies,Zimbabwe,"Arnos Vale Ground, Kingstown",2010-03-12,West Indies,West Indies,2.9172413793103447,141,10,290,4.135922330097087,142,6,206
+768,West Indies,Zimbabwe,"Arnos Vale Ground, Kingstown",2010-03-14,West Indies,West Indies,3.22,161,10,300,5.9638554216867465,165,6,166
+769,West Indies,South Africa,"Sir Vivian Richards Stadium, North Sound",2010-05-22,West Indies,South Africa,5.833333333333333,280,7,288,4.867924528301887,215,10,265
+770,West Indies,South Africa,"Sir Vivian Richards Stadium, North Sound",2010-05-24,South Africa,South Africa,6.0,300,5,300,5.875432525951557,283,10,289
+771,West Indies,South Africa,"Windsor Park, Roseau",2010-05-28,South Africa,South Africa,4.732394366197183,224,10,284,4.131578947368421,157,10,228
+772,West Indies,South Africa,"Windsor Park, Roseau",2010-05-30,West Indies,South Africa,6.06,303,6,300,6.08,304,3,300
+773,West Indies,South Africa,"Queen's Park Oval, Port of Spain",2010-06-03,West Indies,South Africa,5.04,252,6,300,5.134228187919463,255,9,298
+774,India,South Africa,Sawai Mansingh Stadium,2010-02-21,South Africa,India,5.96,298,9,300,5.94,297,10,300
+775,India,South Africa,Captain Roop Singh Stadium,2010-02-24,India,India,8.02,401,3,300,5.78988326848249,248,10,257
+776,India,South Africa,"Sardar Patel Stadium, Motera",2010-02-27,South Africa,South Africa,7.3,365,2,300,6.179775280898877,275,10,267
+777,Australia,Sri Lanka,Melbourne Cricket Ground,2010-11-03,Australia,Sri Lanka,4.78,239,8,300,5.481203007518797,243,9,266
+778,Australia,Sri Lanka,Sydney Cricket Ground,2010-11-05,Sri Lanka,Sri Lanka,5.174089068825912,213,3,247,5.575221238938053,210,10,226
+779,Australia,Sri Lanka,"Brisbane Cricket Ground, Woolloongabba",2010-11-07,Sri Lanka,Australia,3.59375,115,10,192,5.492307692307692,119,2,130
+780,Australia,England,Melbourne Cricket Ground,2011-01-16,England,Australia,5.919463087248323,294,10,298,6.040677966101695,297,4,295
+781,Australia,England,Bellerive Oval,2011-01-21,England,Australia,4.758620689655173,230,10,290,4.088888888888889,184,10,270
+782,Australia,England,Sydney Cricket Ground,2011-01-23,England,Australia,4.458333333333333,214,10,288,4.673913043478261,215,6,276
+783,Australia,England,Adelaide Oval,2011-01-26,England,England,5.98,299,8,300,5.56,278,7,300
+784,Australia,England,"Brisbane Cricket Ground, Woolloongabba",2011-01-30,Australia,Australia,5.03030303030303,249,10,297,4.351648351648351,198,10,273
+785,Australia,England,Sydney Cricket Ground,2011-02-02,England,Australia,6.66,333,6,300,6.747474747474747,334,8,297
+786,Australia,England,Western Australia Cricket Association Ground,2011-02-06,Australia,Australia,5.58,279,7,300,5.045454545454546,222,10,264
+787,Ireland,Bangladesh,"Civil Service Cricket Club, Stormont",2010-07-16,Ireland,Bangladesh,4.108695652173913,189,9,276,5.093333333333334,191,4,225
+788,Canada,Ireland,VRA Ground,2010-07-07,Canada,Ireland,3.08,154,9,300,3.9574468085106385,155,5,235
+789,Scotland,Afghanistan,Cambusdoon New Ground,2010-08-16,Scotland,Afghanistan,4.48,224,9,300,7.258064516129032,225,1,186
+790,Scotland,Afghanistan,Cambusdoon New Ground,2010-08-17,Afghanistan,Scotland,2.975206611570248,120,10,242,3.5763546798029555,121,4,203
+791,Zimbabwe,India,Queens Sports Club,2010-05-28,India,Zimbabwe,5.7,285,5,300,5.979310344827586,289,4,290
+792,India,Sri Lanka,Queens Sports Club,2010-05-30,India,India,4.856187290969899,242,10,299,5.586206896551724,243,3,261
+793,Zimbabwe,Sri Lanka,Queens Sports Club,2010-06-01,Sri Lanka,Sri Lanka,4.751677852348993,118,10,149,7.760869565217391,119,1,92
+794,Zimbabwe,India,Harare Sports Club,2010-06-03,Zimbabwe,Zimbabwe,3.88,194,9,300,5.139130434782609,197,3,230
+795,India,Sri Lanka,Harare Sports Club,2010-06-05,Sri Lanka,Sri Lanka,5.36,268,9,300,5.586206896551724,270,4,290
+796,Zimbabwe,Sri Lanka,Harare Sports Club,2010-06-07,Zimbabwe,Zimbabwe,4.933797909407665,236,10,287,5.017421602787456,240,2,287
+797,Zimbabwe,Sri Lanka,Harare Sports Club,2010-06-09,Sri Lanka,Sri Lanka,4.061224489795919,199,10,294,5.855769230769231,203,1,208
+798,Sri Lanka,Pakistan,Rangiri Dambulla International Stadium,2010-06-15,Sri Lanka,Sri Lanka,4.84,242,9,300,4.808510638297872,226,10,282
+799,Bangladesh,India,Rangiri Dambulla International Stadium,2010-06-16,Bangladesh,India,4.794258373205741,167,10,209,5.478260869565217,168,4,184
+800,Sri Lanka,Bangladesh,Rangiri Dambulla International Stadium,2010-06-18,Sri Lanka,Sri Lanka,6.260869565217391,312,4,299,4.611570247933884,186,10,242
+801,India,Pakistan,Rangiri Dambulla International Stadium,2010-06-19,Pakistan,India,5.393939393939394,267,10,297,5.438127090301003,271,7,299
+802,Bangladesh,Pakistan,Rangiri Dambulla International Stadium,2010-06-21,Pakistan,Pakistan,7.7,385,7,300,4.92,246,5,300
+803,Sri Lanka,India,Rangiri Dambulla International Stadium,2010-06-22,Sri Lanka,Sri Lanka,4.91764705882353,209,10,255,5.626666666666667,211,3,225
+804,Sri Lanka,India,Rangiri Dambulla International Stadium,2010-06-24,India,India,5.36,268,6,300,4.186567164179105,187,10,268
+805,India,New Zealand,Rangiri Dambulla International Stadium,2010-08-10,New Zealand,New Zealand,5.897610921501706,288,10,293,2.983050847457627,88,10,177
+806,Sri Lanka,India,Rangiri Dambulla International Stadium,2010-08-16,Sri Lanka,India,3.68231046931408,170,10,277,4.956521739130435,171,4,207
+807,Sri Lanka,New Zealand,Rangiri Dambulla International Stadium,2010-08-13,New Zealand,Sri Lanka,3.9861591695501732,192,10,289,4.775510204081632,195,7,245
+808,India,New Zealand,Rangiri Dambulla International Stadium,2010-08-25,India,India,4.795698924731183,223,10,279,3.911602209944751,118,10,181
+809,Sri Lanka,India,Rangiri Dambulla International Stadium,2010-08-22,India,Sri Lanka,3.0594059405940595,103,10,202,6.857142857142858,104,2,91
+810,Sri Lanka,India,Rangiri Dambulla International Stadium,2010-08-28,Sri Lanka,Sri Lanka,5.98,299,8,300,4.804270462633451,225,10,281
+811,Pakistan,South Africa,Sheikh Zayed Stadium,2010-10-29,Pakistan,South Africa,4.142857142857143,203,10,294,5.2405063291139244,207,4,237
+812,Pakistan,South Africa,Sheikh Zayed Stadium,2010-10-31,South Africa,Pakistan,5.72,286,8,300,5.79933110367893,289,9,299
+813,Pakistan,South Africa,Dubai International Cricket Stadium,2010-11-02,Pakistan,South Africa,4.56,228,9,300,4.52,226,9,300
+814,Pakistan,South Africa,Dubai International Cricket Stadium,2010-11-05,South Africa,Pakistan,5.48,274,6,300,5.518394648829431,275,9,299
+815,Pakistan,South Africa,Dubai International Cricket Stadium,2010-11-08,South Africa,South Africa,6.34,317,5,300,5.799256505576208,260,10,269
+816,South Africa,Zimbabwe,OUTsurance Oval,2010-10-15,South Africa,South Africa,7.02,351,6,300,5.74,287,6,300
+817,South Africa,Zimbabwe,Senwes Park,2010-10-17,Zimbabwe,South Africa,5.544827586206896,268,10,290,7.0,273,2,234
+818,South Africa,Zimbabwe,Willowmoore Park,2010-10-22,South Africa,South Africa,7.98,399,6,300,4.379310344827586,127,10,174
+819,South Africa,India,Kingsmead,2011-01-12,South Africa,South Africa,5.78,289,9,300,4.317757009345795,154,10,214
+820,South Africa,India,New Wanderers Stadium,2011-01-15,India,India,4.014084507042253,190,10,284,4.395348837209302,189,10,258
+821,South Africa,India,Newlands,2011-01-18,South Africa,India,4.45945945945946,220,10,296,4.613793103448276,223,8,290
+822,South Africa,India,St George's Park,2011-01-21,South Africa,South Africa,5.3,265,7,300,4.324873096446701,142,6,197
+823,South Africa,India,SuperSport Park,2011-01-23,India,South Africa,5.434782608695652,250,9,276,5.801652892561983,234,10,242
+824,India,Australia,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,2010-10-20,India,India,5.78,289,3,300,5.979522184300341,292,5,293
+825,Ireland,Netherlands,Clontarf Cricket Club Ground,2010-08-18,Netherlands,Ireland,2.640845070422535,125,10,284,6.2926829268292686,129,1,123
+826,Canada,Ireland,Toronto Cricket,2010-09-06,Ireland,Canada,5.0,175,9,210,4.9393939393939394,163,4,198
+827,Sri Lanka,West Indies,Sinhalese Sports Club Ground,2011-01-31,West Indies,no result,4.9,245,5,300,4.9393939393939394,0,0,0
+828,Sri Lanka,West Indies,Sinhalese Sports Club Ground,2011-02-03,Sri Lanka,Sri Lanka,4.06,203,10,300,4.682352941176471,199,2,255
+829,Sri Lanka,West Indies,Sinhalese Sports Club Ground,2011-02-06,West Indies,Sri Lanka,5.54,277,9,300,5.122448979591836,251,10,294
+830,India,New Zealand,Nehru Stadium,2010-11-28,New Zealand,India,5.63265306122449,276,10,294,5.205882352941177,236,10,272
+831,India,New Zealand,Sawai Mansingh Stadium,2010-12-01,India,India,5.16,258,8,300,6.023255813953488,259,2,258
+832,India,New Zealand,Reliance Stadium,2010-12-04,India,India,4.48,224,9,300,5.7974683544303796,229,1,237
+833,India,New Zealand,M Chinnaswamy Stadium,2010-12-07,India,India,6.3,315,7,300,6.573378839590443,321,5,293
+834,India,New Zealand,"MA Chidambaram Stadium, Chepauk",2010-12-10,New Zealand,India,3.814814814814815,103,10,162,5.05511811023622,107,2,127
+835,Sri Lanka,New Zealand,Rangiri Dambulla International Stadium,2010-08-19,New Zealand,no result,4.648854961832061,203,3,262,5.05511811023622,0,0,0
+836,New Zealand,Pakistan,Westpac Stadium,2011-01-22,Pakistan,New Zealand,3.3066666666666666,124,10,225,7.211538461538462,125,1,104
+837,New Zealand,Pakistan,Queenstown Events Centre,2011-01-26,New Zealand,no result,7.153846153846154,31,0,26,7.211538461538462,0,0,0
+838,New Zealand,Pakistan,AMI Stadium,2011-01-29,New Zealand,Pakistan,5.86,293,7,300,5.0,250,9,300
+839,New Zealand,Pakistan,McLean Park,2011-02-01,New Zealand,Pakistan,5.24,262,7,300,5.387755102040816,264,8,294
+840,New Zealand,Pakistan,Seddon Park,2011-02-03,New Zealand,Pakistan,5.36,268,9,300,4.846975088967971,227,10,281
+841,New Zealand,Pakistan,Eden Park,2011-02-05,Pakistan,New Zealand,6.22,311,7,300,5.750943396226416,254,10,265
+842,England,Sri Lanka,Kennington Oval,2011-06-28,Sri Lanka,England,7.15625,229,8,192,4.481481481481482,121,10,162
+843,England,Sri Lanka,Headingley,2011-07-01,England,Sri Lanka,6.18,309,5,300,5.236363636363636,240,10,275
+844,England,Sri Lanka,Lord's,2011-07-03,England,Sri Lanka,4.92,246,7,300,5.151724137931034,249,4,290
+845,England,Sri Lanka,Trent Bridge,2011-07-06,England,England,3.984732824427481,174,10,262,7.174825174825175,171,0,143
+846,England,Sri Lanka,Old Trafford,2011-07-09,England,England,5.36,268,9,300,5.213793103448276,252,10,290
+847,England,India,Riverside Ground,2011-09-03,England,no result,5.48,274,8,300,3.681818181818182,27,2,44
+848,England,India,The Rose Bowl,2011-09-06,England,England,8.130434782608695,187,8,138,8.481203007518797,188,3,133
+849,England,India,Kennington Oval,2011-09-09,England,England,4.68,234,7,300,5.211155378486056,218,7,251
+850,England,India,Lord's,2011-09-11,England,no result,5.6,280,5,300,5.5290102389078495,270,8,293
+851,England,India,Sophia Gardens,2011-09-16,England,England,6.08,304,6,300,7.45360824742268,241,4,194
+852,Bangladesh,New Zealand,Shere Bangla National Stadium,2010-10-05,Bangladesh,Bangladesh,4.606060606060606,228,10,297,5.405405405405405,200,8,222
+853,Bangladesh,New Zealand,Shere Bangla National Stadium,2010-10-11,Bangladesh,Bangladesh,4.038910505836576,173,10,257,4.425,177,3,240
+854,Bangladesh,New Zealand,Shere Bangla National Stadium,2010-10-14,New Zealand,Bangladesh,5.003460207612457,241,10,289,4.686868686868687,232,10,297
+855,Bangladesh,New Zealand,Shere Bangla National Stadium,2010-10-17,Bangladesh,Bangladesh,3.924812030075188,174,10,266,3.4545454545454546,171,10,297
+856,Ireland,England,Clontarf Cricket Club Ground,2011-08-25,Ireland,England,4.785714285714286,201,8,252,5.086956521739131,117,8,138
+857,Bangladesh,Zimbabwe,Shere Bangla National Stadium,2010-12-01,Bangladesh,Zimbabwe,4.26530612244898,209,10,294,4.081632653061225,200,10,294
+858,Bangladesh,Zimbabwe,Shere Bangla National Stadium,2010-12-03,Bangladesh,Bangladesh,4.122302158273381,191,10,278,4.870292887029288,194,4,239
+859,Bangladesh,Zimbabwe,Shere Bangla National Stadium,2010-12-06,Zimbabwe,Bangladesh,4.92,246,7,300,3.757785467128028,181,10,289
+860,Bangladesh,Zimbabwe,Zahur Ahmed Chowdhury Stadium,2010-12-12,Zimbabwe,Bangladesh,3.76,188,6,300,4.395348837209302,189,4,258
+861,West Indies,Pakistan,"Beausejour Stadium, Gros Islet",2011-04-23,West Indies,Pakistan,4.42,221,6,300,5.349397590361446,222,2,249
+862,West Indies,Pakistan,"Beausejour Stadium, Gros Islet",2011-04-25,Pakistan,Pakistan,4.4,220,10,300,4.645833333333333,223,3,288
+863,West Indies,Pakistan,"Kensington Oval, Bridgetown",2011-04-28,Pakistan,Pakistan,3.9160305343511452,171,10,262,4.406639004149378,177,7,241
+864,West Indies,Pakistan,"Kensington Oval, Bridgetown",2011-05-02,West Indies,West Indies,4.96,248,9,300,5.162011173184358,154,4,179
+865,West Indies,Pakistan,Providence Stadium,2011-05-05,Pakistan,West Indies,3.3629032258064515,139,10,248,5.957446808510638,140,0,141
+866,West Indies,India,"Queen's Park Oval, Port of Spain",2011-06-06,West Indies,India,4.28,214,9,300,4.840148698884758,217,6,269
+867,West Indies,India,"Queen's Park Oval, Port of Spain",2011-06-08,India,India,4.8,240,9,300,5.435643564356436,183,3,202
+868,West Indies,India,"Sir Vivian Richards Stadium, North Sound",2011-06-11,India,India,4.5,225,8,300,4.920863309352518,228,7,278
+869,West Indies,India,"Sir Vivian Richards Stadium, North Sound",2011-06-13,India,West Indies,4.98,249,8,300,3.7435897435897436,146,10,234
+870,West Indies,India,"Sabina Park, Kingston",2011-06-16,West Indies,West Indies,5.28421052631579,251,10,285,5.239726027397261,255,4,292
+871,Bangladesh,Australia,Shere Bangla National Stadium,2011-04-09,Bangladesh,Australia,5.382059800664452,270,7,301,4.2,210,5,300
+872,Bangladesh,Australia,Shere Bangla National Stadium,2011-04-11,Bangladesh,Australia,4.58,229,7,300,8.923076923076923,232,1,156
+873,Bangladesh,Australia,Shere Bangla National Stadium,2011-04-13,Australia,Australia,7.22,361,8,300,5.9,295,6,300
+874,Scotland,Netherlands,Mannofield Park,2011-06-29,Scotland,Scotland,3.6,180,9,300,4.136170212765958,162,5,235
+875,South Africa,Australia,SuperSport Park,2011-10-19,South Africa,Australia,6.310344827586207,183,4,174,5.863636363636363,129,10,132
+876,South Africa,Australia,St George's Park,2011-10-23,South Africa,South Africa,6.06,303,6,300,4.46,223,10,300
+877,South Africa,Australia,Kingsmead,2011-10-28,South Africa,Australia,4.44,222,6,300,4.778947368421052,227,7,285
+878,South Africa,Sri Lanka,Boland Park,2012-01-11,South Africa,South Africa,6.02,301,8,300,2.1322314049586777,43,10,121
+879,South Africa,Sri Lanka,Buffalo Park,2012-01-14,South Africa,South Africa,4.72,236,6,300,4.86986301369863,237,5,292
+880,South Africa,Sri Lanka,Chevrolet Park,2012-01-17,Sri Lanka,South Africa,5.32,266,9,300,5.264705882352941,179,5,204
+881,South Africa,Sri Lanka,De Beers Diamond Oval,2012-01-20,South Africa,Sri Lanka,5.98,299,7,300,6.2465753424657535,304,5,292
+882,South Africa,Sri Lanka,New Wanderers Stadium,2012-01-22,Sri Lanka,Sri Lanka,6.24,312,4,300,6.301003344481605,314,8,299
+883,Sri Lanka,Australia,Pallekele International Cricket Stadium,2011-08-10,Sri Lanka,Australia,4.639676113360324,191,10,247,5.03056768558952,192,3,229
+884,Sri Lanka,Australia,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",2011-08-14,Sri Lanka,Australia,4.202020202020202,208,10,297,5.504347826086956,211,2,230
+885,Sri Lanka,Australia,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",2011-08-16,Australia,Sri Lanka,5.72,286,9,300,4.69172932330827,208,10,266
+886,Sri Lanka,Australia,R Premadasa Stadium,2011-08-20,Sri Lanka,Australia,3.4137931034482762,132,10,232,4.75,133,5,168
+887,Sri Lanka,Australia,R Premadasa Stadium,2011-08-22,Sri Lanka,Sri Lanka,4.5703971119133575,211,10,277,4.531914893617022,213,6,282
+888,Australia,India,Melbourne Cricket Ground,2012-02-05,India,Australia,6.75,216,5,192,5.089887640449438,151,10,178
+889,India,Sri Lanka,Western Australia Cricket Association Ground,2012-02-08,Sri Lanka,India,4.66,233,8,300,5.014285714285714,234,6,280
+890,Australia,Sri Lanka,Western Australia Cricket Association Ground,2012-02-10,Sri Lanka,Australia,4.698305084745763,231,10,295,4.535117056856187,226,10,299
+891,Australia,India,Adelaide Oval,2012-02-12,Australia,India,5.38,269,8,300,5.436241610738255,270,6,298
+892,India,Sri Lanka,Adelaide Oval,2012-02-14,Sri Lanka,no result,4.72,236,9,300,4.735785953177257,236,9,299
+893,Australia,Sri Lanka,Sydney Cricket Ground,2012-02-17,Australia,Sri Lanka,3.8693877551020406,158,10,245,6.289655172413793,152,2,145
+894,Australia,India,"Brisbane Cricket Ground, Woolloongabba",2012-02-19,Australia,Australia,5.76,288,5,300,4.091954022988506,178,10,261
+895,India,Sri Lanka,"Brisbane Cricket Ground, Woolloongabba",2012-02-21,Sri Lanka,Sri Lanka,5.78,289,6,300,5.269372693726938,238,10,271
+896,Australia,Sri Lanka,Bellerive Oval,2012-02-24,Australia,Sri Lanka,5.6,280,6,300,5.736486486486486,283,7,296
+897,Australia,India,Sydney Cricket Ground,2012-02-26,Australia,Australia,5.04,252,9,300,4.177215189873418,165,10,237
+898,India,Sri Lanka,Bellerive Oval,2012-02-28,India,India,6.4,320,4,300,8.754545454545456,321,3,220
+899,Australia,Sri Lanka,Melbourne Cricket Ground,2012-03-02,Sri Lanka,Sri Lanka,4.76,238,10,300,4.657627118644068,229,10,295
+900,Australia,Sri Lanka,"Brisbane Cricket Ground, Woolloongabba",2012-03-04,Australia,Australia,6.42,321,6,300,6.202702702702703,306,10,296
+901,Australia,Sri Lanka,Adelaide Oval,2012-03-06,Australia,Sri Lanka,5.42,271,6,300,6.180451127819548,274,2,266
+902,Australia,Sri Lanka,Adelaide Oval,2012-03-08,Sri Lanka,Australia,4.666666666666667,231,10,297,4.402730375426621,215,10,293
+903,New Zealand,Zimbabwe,University Oval,2012-02-03,Zimbabwe,New Zealand,5.11340206185567,248,10,291,3.8380566801619436,158,10,247
+904,New Zealand,Zimbabwe,Cobham Oval (New),2012-02-06,Zimbabwe,New Zealand,7.44,372,6,300,4.62,231,8,300
+905,New Zealand,Zimbabwe,McLean Park,2012-02-09,New Zealand,New Zealand,7.46,373,8,300,3.8863636363636362,171,10,264
+906,New Zealand,South Africa,Westpac Stadium,2012-02-25,New Zealand,South Africa,5.06,253,9,300,5.602941176470588,254,4,272
+907,New Zealand,South Africa,McLean Park,2012-02-29,South Africa,South Africa,4.842105263157895,230,10,285,6.0260869565217385,231,4,230
+908,New Zealand,South Africa,Eden Park,2012-03-03,South Africa,South Africa,4.382978723404255,206,10,282,4.8,208,5,260
+909,India,England,"Rajiv Gandhi International Stadium, Uppal",2011-10-14,India,India,6.0,300,7,300,4.811059907834101,174,10,217
+910,India,England,Feroz Shah Kotla,2011-10-17,England,India,4.903448275862068,237,10,290,6.490909090909091,238,2,220
+911,India,England,"Punjab Cricket Association Stadium, Mohali",2011-10-20,England,India,5.96,298,4,300,6.081081081081081,300,5,296
+912,India,England,Wankhede Stadium,2011-10-23,England,India,4.765342960288809,220,10,277,5.551867219917013,223,4,241
+913,India,England,Eden Gardens,2011-10-25,England,India,5.42,271,8,300,4.756756756756757,176,10,222
+914,Zimbabwe,Bangladesh,Harare Sports Club,2011-08-12,Zimbabwe,Zimbabwe,3.780821917808219,184,10,292,4.5,186,6,248
+915,Zimbabwe,Bangladesh,Harare Sports Club,2011-08-14,Zimbabwe,Zimbabwe,3.957894736842105,188,10,285,4.324528301886793,191,3,265
+916,Zimbabwe,Bangladesh,Harare Sports Club,2011-08-16,Bangladesh,Zimbabwe,5.0,250,7,300,4.966216216216216,245,10,296
+917,Zimbabwe,Bangladesh,Queens Sports Club,2011-08-19,Bangladesh,Bangladesh,4.117241379310345,199,10,290,5.536363636363637,203,4,220
+918,Zimbabwe,Bangladesh,Queens Sports Club,2011-08-21,Zimbabwe,Bangladesh,5.06,253,6,300,4.173913043478261,160,9,230
+919,Zimbabwe,Pakistan,Queens Sports Club,2011-09-08,Pakistan,Pakistan,4.94,247,7,300,4.84,242,7,300
+920,Zimbabwe,Pakistan,Harare Sports Club,2011-09-11,Zimbabwe,Pakistan,4.5,225,6,300,5.407114624505929,228,0,253
+921,Zimbabwe,Pakistan,Harare Sports Club,2011-09-14,Zimbabwe,Pakistan,5.4,270,5,300,4.84,242,9,300
+922,Ireland,Canada,Clontarf Cricket Club Ground,2011-09-19,Canada,Ireland,6.56,328,6,300,4.006849315068493,195,10,292
+923,Ireland,Canada,Clontarf Cricket Club Ground,2011-09-20,Ireland,Ireland,4.98,249,7,300,4.150537634408602,193,10,279
+924,Zimbabwe,New Zealand,Harare Sports Club,2011-10-20,Zimbabwe,New Zealand,4.62,231,6,300,5.333333333333333,232,1,261
+925,Zimbabwe,New Zealand,Harare Sports Club,2011-10-22,New Zealand,New Zealand,5.18,259,8,300,5.3999999999999995,261,6,290
+926,Zimbabwe,New Zealand,Queens Sports Club,2011-10-25,New Zealand,Zimbabwe,6.56,328,5,300,6.60200668896321,329,9,299
+927,South Africa,England,Senwes Park,2011-10-21,South Africa,England,5.94,297,3,300,5.01779359430605,235,10,281
+928,South Africa,England,Senwes Park,2011-10-23,South Africa,England,6.3,315,6,300,4.610526315789474,219,10,285
+929,South Africa,England,Senwes Park,2011-10-25,England,England,3.62,181,9,300,4.255813953488372,183,5,258
+930,Pakistan,Sri Lanka,Dubai International Cricket Stadium,2011-11-11,Sri Lanka,Pakistan,3.234567901234568,131,10,243,6.0458015267175576,132,2,131
+931,Pakistan,Sri Lanka,Dubai International Cricket Stadium,2011-11-14,Sri Lanka,Sri Lanka,4.7,235,7,300,4.516129032258065,210,10,279
+932,Pakistan,Sri Lanka,Dubai International Cricket Stadium,2011-11-18,Pakistan,Pakistan,5.14,257,8,300,4.832764505119454,236,10,293
+933,Pakistan,Sri Lanka,Sharjah Cricket Stadium,2011-11-20,Pakistan,Pakistan,4.040404040404041,200,10,297,3.8382352941176467,174,10,272
+934,Pakistan,Sri Lanka,Sheikh Zayed Stadium,2011-11-23,Sri Lanka,Pakistan,4.36,218,9,300,4.626760563380281,219,7,284
+935,England,Pakistan,Sheikh Zayed Stadium,2012-02-13,England,England,5.2,260,7,300,3.7142857142857144,130,10,210
+936,England,Pakistan,Sheikh Zayed Stadium,2012-02-15,England,England,5.0,250,4,300,4.6938775510204085,230,10,294
+937,England,Pakistan,Dubai International Cricket Stadium,2012-02-18,Pakistan,England,4.44,222,10,300,6.053571428571428,226,1,224
+938,England,Pakistan,Dubai International Cricket Stadium,2012-02-21,Pakistan,England,4.74,237,10,300,4.885135135135135,241,6,296
+939,Bangladesh,West Indies,Shere Bangla National Stadium,2011-10-13,Bangladesh,West Indies,5.96,298,5,300,5.16,258,7,300
+940,Bangladesh,West Indies,Shere Bangla National Stadium,2011-10-15,Bangladesh,West Indies,4.52054794520548,220,10,292,5.1796875,221,2,256
+941,Bangladesh,West Indies,Zahur Ahmed Chowdhury Stadium,2011-10-18,Bangladesh,Bangladesh,2.772727272727273,61,10,132,3.1,62,2,120
+942,England,West Indies,The Rose Bowl,2012-06-16,West Indies,England,5.76,288,6,300,5.108910891089109,172,10,202
+943,England,West Indies,Kennington Oval,2012-06-19,England,England,4.76,238,9,300,5.311111111111111,239,2,270
+944,Ireland,Australia,"Civil Service Cricket Club, Stormont",2012-06-23,Australia,no result,3.375,36,3,64,5.311111111111111,0,0,0
+945,England,Australia,Lord's,2012-06-29,Australia,England,5.44,272,5,300,5.14,257,9,300
+946,England,Australia,Kennington Oval,2012-07-01,Australia,England,5.02,251,7,300,5.518248175182482,252,4,274
+947,England,Australia,Riverside Ground,2012-07-07,England,England,4.0,200,9,300,4.2020905923344944,201,2,287
+948,England,Australia,Old Trafford,2012-07-10,England,England,4.53125,145,7,192,5.079754601226994,138,3,163
+949,England,South Africa,Sophia Gardens,2012-08-24,South Africa,no result,6.7272727272727275,37,0,33,5.079754601226994,0,0,0
+950,England,South Africa,The Rose Bowl,2012-08-28,South Africa,South Africa,5.74,287,5,300,5.09016393442623,207,10,244
+951,England,South Africa,Kennington Oval,2012-08-31,South Africa,England,4.521428571428571,211,10,280,4.416666666666667,212,6,288
+952,England,South Africa,Lord's,2012-09-02,England,England,4.4,220,8,300,4.8,224,4,280
+953,England,South Africa,Trent Bridge,2012-09-05,England,South Africa,4.014705882352941,182,10,272,5.391304347826087,186,3,207
+954,Bangladesh,Pakistan,Shere Bangla National Stadium,2012-03-11,Bangladesh,Pakistan,5.24,262,8,300,5.003460207612457,241,10,289
+955,India,Sri Lanka,Shere Bangla National Stadium,2012-03-13,Sri Lanka,India,6.08,304,3,300,5.623616236162362,254,10,271
+956,Pakistan,Sri Lanka,Shere Bangla National Stadium,2012-03-15,Sri Lanka,Pakistan,4.116788321167883,188,10,274,4.7447698744769875,189,4,239
+957,Bangladesh,India,Shere Bangla National Stadium,2012-03-16,Bangladesh,Bangladesh,5.78,289,5,300,5.939189189189189,293,5,296
+958,India,Pakistan,Shere Bangla National Stadium,2012-03-18,Pakistan,India,6.58,329,6,300,6.898954703832752,330,4,287
+959,Bangladesh,Sri Lanka,Shere Bangla National Stadium,2012-03-20,Bangladesh,Bangladesh,4.655518394648829,232,10,299,5.704035874439462,212,5,223
+960,Bangladesh,Pakistan,Shere Bangla National Stadium,2012-03-22,Bangladesh,Pakistan,4.72,236,9,300,4.68,234,8,300
+961,India,West Indies,Barabati Stadium,2011-11-29,India,India,4.22,211,9,300,4.361774744027303,213,9,293
+962,India,West Indies,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,2011-12-02,India,India,5.38,269,9,300,5.605536332179931,270,5,289
+963,India,West Indies,"Sardar Patel Stadium, Motera",2011-12-05,India,West Indies,5.2,260,6,300,5.209964412811388,244,10,281
+964,India,West Indies,Holkar Cricket Stadium,2011-12-08,India,India,8.36,418,5,300,5.371621621621621,265,10,296
+965,India,West Indies,"MA Chidambaram Stadium, Chepauk",2011-12-11,India,India,5.34,267,7,300,5.275471698113208,233,10,265
+966,Bangladesh,Pakistan,Shere Bangla National Stadium,2011-12-01,Bangladesh,Pakistan,2.9836065573770494,91,10,183,3.623376623376623,93,5,154
+967,Bangladesh,Pakistan,Shere Bangla National Stadium,2011-12-03,Pakistan,Pakistan,5.24,262,7,300,3.72,186,7,300
+968,Bangladesh,Pakistan,Zahur Ahmed Chowdhury Stadium,2011-12-06,Pakistan,Pakistan,3.833935018050542,177,10,277,3.1315789473684212,119,10,228
+969,West Indies,Australia,"Arnos Vale Ground, Kingstown",2012-03-16,Australia,Australia,4.08,204,8,300,4.329896907216495,140,10,194
+970,West Indies,Australia,"Arnos Vale Ground, Kingstown",2012-03-18,West Indies,West Indies,3.85,154,9,240,4.252173913043478,163,5,230
+971,West Indies,Australia,"Arnos Vale Ground, Kingstown",2012-03-20,Australia,no result,4.414715719063545,220,10,299,4.429530201342282,220,10,298
+972,West Indies,Australia,"Beausejour Stadium, Gros Islet",2012-03-23,Australia,West Indies,5.88,294,7,300,5.419354838709677,252,10,279
+973,West Indies,Australia,"Beausejour Stadium, Gros Islet",2012-03-25,West Indies,Australia,5.62,281,9,300,5.30281690140845,251,10,284
+974,England,India,Lord's,2012-07-01,England,India,4.657627118644068,229,10,295,4.646464646464646,230,5,297
+975,England,India,County Ground,2012-07-04,England,India,2.696864111498258,129,10,287,2.4295774647887325,115,10,284
+976,England,India,County Ground,2012-07-05,England,England,3.46,173,5,300,3.7394366197183095,177,7,284
+977,England,India,Sir Paul Getty's Ground,2012-07-11,England,England,3.04,152,8,300,3.4444444444444446,124,4,216
+978,Kenya,Ireland,Mombasa Sports Club Ground,2012-02-18,Ireland,Kenya,4.2105263157894735,200,10,285,4.7109375,201,3,256
+979,Kenya,Ireland,Mombasa Sports Club Ground,2012-02-20,Ireland,Ireland,4.7558528428093645,237,9,299,3.3962264150943393,120,10,212
+980,Afghanistan,Netherlands,Sharjah Cricket Stadium,2012-03-29,Afghanistan,Netherlands,3.889830508474576,153,10,236,5.924050632911393,156,1,158
+981,Afghanistan,Pakistan,Sharjah Cricket Stadium,2012-02-10,Afghanistan,Pakistan,4.020618556701031,195,10,291,5.327354260089686,198,3,223
+982,Ireland,Afghanistan,Clontarf Cricket Club Ground,2012-07-05,Afghanistan,Ireland,3.4680851063829787,163,10,282,3.1356783919597992,104,10,199
+983,West Indies,New Zealand,"Sabina Park, Kingston",2012-07-05,West Indies,West Indies,3.8,190,9,300,5.589041095890411,136,1,146
+984,West Indies,New Zealand,"Sabina Park, Kingston",2012-07-07,New Zealand,West Indies,6.3,315,5,300,5.531914893617022,260,10,282
+985,West Indies,New Zealand,"Warner Park, Basseterre",2012-07-11,West Indies,New Zealand,4.98,249,9,300,4.666666666666667,161,10,207
+986,West Indies,New Zealand,"Warner Park, Basseterre",2012-07-14,West Indies,West Indies,5.297658862876254,264,10,299,4.848484848484849,240,10,297
+987,West Indies,New Zealand,"Warner Park, Basseterre",2012-07-16,West Indies,West Indies,4.82,241,9,300,4.42,221,10,300
+988,Sri Lanka,Pakistan,Pallekele International Cricket Stadium,2012-06-07,Sri Lanka,Pakistan,3.2142857142857144,135,8,252,3.9512195121951224,135,4,205
+989,Sri Lanka,Pakistan,Pallekele International Cricket Stadium,2012-06-09,Sri Lanka,Sri Lanka,5.6,280,4,300,4.402877697841727,204,10,278
+990,Sri Lanka,Pakistan,R Premadasa Stadium,2012-06-13,Pakistan,no result,1.8947368421052633,12,2,38,4.402877697841727,0,0,0
+991,Sri Lanka,Pakistan,R Premadasa Stadium,2012-06-16,Sri Lanka,Sri Lanka,4.86,243,8,300,4.4222222222222225,199,10,270
+992,Sri Lanka,Pakistan,R Premadasa Stadium,2012-06-18,Pakistan,Sri Lanka,4.94,247,7,300,4.993288590604027,248,8,298
+993,Sri Lanka,India,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",2012-07-21,India,India,6.28,314,6,300,5.86,293,9,300
+994,Sri Lanka,India,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",2012-07-24,India,Sri Lanka,4.119402985074627,138,10,201,7.008403361344539,139,1,119
+995,Sri Lanka,India,R Premadasa Stadium,2012-07-28,Sri Lanka,India,5.72,286,5,300,5.798657718120806,288,5,298
+996,Sri Lanka,India,R Premadasa Stadium,2012-07-31,Sri Lanka,India,5.02,251,8,300,6.0236220472440944,255,4,254
+997,Sri Lanka,India,Pallekele International Cricket Stadium,2012-08-04,India,India,5.88,294,7,300,6.0,274,10,274
+998,India,England,Saurashtra Cricket Association Stadium,2013-01-11,England,England,6.5,325,4,300,6.32,316,9,300
+999,India,England,Nehru Stadium,2013-01-15,India,India,5.7,285,6,300,4.388888888888889,158,10,216
+1000,India,England,JSCA International Stadium Complex,2013-01-19,India,India,3.6614173228346454,155,10,254,5.57396449704142,157,3,169
+1001,India,England,"Punjab Cricket Association Stadium, Mohali",2013-01-23,India,India,5.14,257,7,300,5.431578947368421,258,5,285
+1002,India,England,Himachal Pradesh Cricket Association Stadium,2013-01-27,England,England,4.550335570469799,226,10,298,4.795774647887324,227,3,284
+1003,England,New Zealand,Lord's,2013-05-31,New Zealand,New Zealand,4.54,227,9,300,4.93238434163701,231,5,281
+1004,England,New Zealand,The Rose Bowl,2013-06-02,New Zealand,New Zealand,7.18,359,3,300,6.181132075471698,273,10,265
+1005,England,New Zealand,Trent Bridge,2013-06-05,New Zealand,England,5.74,287,6,300,5.440860215053763,253,10,279
+1006,Ireland,England,"The Village, Malahide",2013-09-03,England,England,5.38,269,7,300,6.372093023255814,274,4,258
+1007,England,Australia,Old Trafford,2013-09-08,England,Australia,6.3,315,7,300,5.120300751879699,227,10,266
+1008,England,Australia,Edgbaston,2013-09-11,Australia,no result,3.89010989010989,59,3,91,5.120300751879699,0,0,0
+1009,England,Australia,Sophia Gardens,2013-09-14,England,England,4.69655172413793,227,10,290,4.666666666666667,231,7,297
+1010,England,Australia,The Rose Bowl,2013-09-16,Australia,Australia,6.061016949152543,298,10,295,5.1875,249,10,288
+1011,England,South Africa,Kennington Oval,2013-06-19,England,England,4.525862068965518,175,10,232,4.773333333333333,179,3,225
+1012,India,Sri Lanka,Sophia Gardens,2013-06-20,India,India,3.62,181,8,300,5.2,182,2,210
+1013,England,India,Edgbaston,2013-06-23,England,India,6.45,129,7,120,6.2,124,8,120
+1014,South Africa,New Zealand,Boland Park,2013-01-19,New Zealand,New Zealand,4.489208633093525,208,10,278,4.576642335766423,209,9,274
+1015,South Africa,New Zealand,De Beers Diamond Oval,2013-01-22,South Africa,New Zealand,5.58,279,8,300,5.125423728813559,252,10,295
+1016,South Africa,New Zealand,Senwes Park,2013-01-25,New Zealand,South Africa,5.217391304347826,260,9,299,5.28,264,9,300
+1017,South Africa,Pakistan,Chevrolet Park,2013-03-10,Pakistan,South Africa,6.3,315,4,300,5.229357798165137,190,10,218
+1018,South Africa,Pakistan,SuperSport Park,2013-03-15,South Africa,Pakistan,4.407692307692307,191,10,260,4.881355932203389,192,4,236
+1019,South Africa,Pakistan,New Wanderers Stadium,2013-03-17,Pakistan,South Africa,6.86,343,5,300,6.41522491349481,309,10,289
+1020,South Africa,Pakistan,Kingsmead,2013-03-21,South Africa,Pakistan,4.68,234,9,300,4.8493150684931505,236,7,292
+1021,South Africa,Pakistan,Willowmoore Park,2013-03-24,Pakistan,South Africa,4.169491525423729,205,10,295,4.7272727272727275,208,4,264
+1022,New Zealand,England,Seddon Park,2013-02-17,New Zealand,New Zealand,5.212121212121212,258,10,297,5.3037542662116035,259,7,293
+1023,New Zealand,England,McLean Park,2013-02-20,England,England,5.508532423208191,269,10,293,5.664335664335665,270,2,286
+1024,New Zealand,England,Eden Park,2013-02-23,England,England,4.220532319391634,185,10,263,4.96,186,5,225
+1025,Australia,Pakistan,Sharjah Cricket Stadium,2012-08-28,Pakistan,Australia,4.3837638376383765,198,10,271,4.117241379310345,199,6,290
+1026,Australia,Pakistan,Sheikh Zayed Stadium,2012-08-31,Australia,Pakistan,4.96,248,9,300,5.702290076335879,249,3,262
+1027,Australia,Pakistan,Sharjah Cricket Stadium,2012-09-03,Australia,Australia,4.88,244,7,300,5.319148936170213,250,7,282
+1028,Afghanistan,Australia,Sharjah Cricket Association Stadium,2012-08-25,Australia,Australia,5.44,272,8,300,4.699619771863118,206,10,263
+1029,Australia,Sri Lanka,Melbourne Cricket Ground,2013-01-11,Australia,Australia,6.1,305,5,300,4.95,198,10,240
+1030,Australia,Sri Lanka,Adelaide Oval,2013-01-13,Sri Lanka,Sri Lanka,3.6298932384341636,170,10,281,4.282157676348548,172,2,241
+1031,Australia,Sri Lanka,"Brisbane Cricket Ground, Woolloongabba",2013-01-18,Australia,Sri Lanka,2.775,74,10,160,3.75,75,6,120
+1032,Australia,Sri Lanka,Sydney Cricket Ground,2013-01-20,Australia,no result,4.44,222,9,300,4.2,14,0,20
+1033,Australia,Sri Lanka,Bellerive Oval,2013-01-23,Sri Lanka,Australia,4.94,247,5,300,4.43298969072165,215,10,291
+1034,Australia,West Indies,Western Australia Cricket Association Ground,2013-02-01,West Indies,Australia,2.937062937062937,70,10,143,7.607142857142857,71,1,56
+1035,Australia,West Indies,Western Australia Cricket Association Ground,2013-02-03,West Indies,Australia,5.32,266,7,300,5.5545851528384285,212,10,229
+1036,Australia,West Indies,Manuka Oval,2013-02-06,Australia,Australia,6.58,329,7,300,6.105263157894737,290,10,285
+1037,Australia,West Indies,Sydney Cricket Ground,2013-02-08,West Indies,Australia,4.429530201342282,220,10,298,4.929368029739777,221,5,269
+1038,Australia,West Indies,Melbourne Cricket Ground,2013-02-10,West Indies,Australia,5.48,274,5,300,5.157190635451505,257,10,299
+1039,India,South Africa,Sophia Gardens,2013-06-06,South Africa,India,6.62,331,7,300,6.1,305,10,300
+1040,Pakistan,West Indies,Kennington Oval,2013-06-07,West Indies,West Indies,3.5416666666666665,170,10,288,4.229508196721311,172,8,244
+1041,England,Australia,Edgbaston,2013-06-08,England,England,5.38,269,6,300,4.42,221,9,300
+1042,New Zealand,Sri Lanka,Sophia Gardens,2013-06-09,Sri Lanka,New Zealand,3.647577092511013,138,10,227,3.808219178082192,139,9,219
+1043,Pakistan,South Africa,Edgbaston,2013-06-10,South Africa,South Africa,4.68,234,9,300,3.7111111111111112,167,10,270
+1044,India,West Indies,Kennington Oval,2013-06-11,India,India,4.66,233,9,300,6.025531914893618,236,2,235
+1045,Australia,New Zealand,Edgbaston,2013-06-12,Australia,no result,4.86,243,8,300,3.4,51,2,90
+1046,England,Sri Lanka,Kennington Oval,2013-06-13,Sri Lanka,Sri Lanka,5.86,293,7,300,6.296819787985866,297,3,283
+1047,South Africa,West Indies,Sophia Gardens,2013-06-14,West Indies,no result,7.419354838709677,230,6,186,7.261146496815286,190,6,157
+1048,India,Pakistan,Edgbaston,2013-06-15,India,India,4.159663865546219,165,10,238,5.321739130434782,102,2,115
+1049,England,New Zealand,Sophia Gardens,2013-06-16,New Zealand,England,7.191489361702128,169,10,141,6.625,159,8,144
+1050,Australia,Sri Lanka,Kennington Oval,2013-06-17,Australia,Sri Lanka,5.06,253,8,300,5.482352941176471,233,10,255
+1051,Sri Lanka,New Zealand,Pallekele International Cricket Stadium,2012-11-04,New Zealand,Sri Lanka,5.0,250,6,300,5.1678832116788325,118,3,137
+1052,Sri Lanka,New Zealand,Pallekele International Cricket Stadium,2012-11-06,Sri Lanka,Sri Lanka,5.696969696969697,188,6,198,6.4171122994652405,200,3,187
+1053,Sri Lanka,New Zealand,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",2012-11-10,Sri Lanka,Sri Lanka,4.09375,131,8,192,4.974683544303797,131,3,158
+1054,Sri Lanka,New Zealand,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",2012-11-12,New Zealand,no result,4.315789473684211,123,8,171,4.974683544303797,0,0,0
+1055,Australia,New Zealand,Sydney Cricket Ground,2012-12-12,Australia,New Zealand,5.14878892733564,248,10,289,5.6208178438661704,252,2,269
+1056,Australia,New Zealand,North Sydney Oval,2012-12-14,Australia,Australia,5.76,288,6,300,6.192857142857143,289,6,280
+1057,Australia,New Zealand,North Sydney Oval,2012-12-19,Australia,Australia,5.34,267,9,300,5.2,260,8,300
+1058,Bangladesh,West Indies,Sheikh Abu Naser Stadium,2012-11-30,West Indies,Bangladesh,4.249110320284697,199,10,281,4.983471074380165,201,3,242
+1059,Bangladesh,West Indies,Sheikh Abu Naser Stadium,2012-12-02,West Indies,Bangladesh,5.84,292,6,300,4.235294117647059,132,10,187
+1060,Bangladesh,West Indies,Shere Bangla National Stadium,2012-12-05,West Indies,West Indies,4.616949152542373,227,10,295,4.851063829787234,228,6,282
+1061,Bangladesh,West Indies,Shere Bangla National Stadium,2012-12-07,Bangladesh,West Indies,4.22,211,9,300,3.980487804878049,136,10,205
+1062,Bangladesh,West Indies,Shere Bangla National Stadium,2012-12-08,Bangladesh,Bangladesh,4.520833333333333,217,10,288,5.0227272727272725,221,8,264
+1063,India,Pakistan,"MA Chidambaram Stadium, Chepauk",2012-12-30,Pakistan,Pakistan,4.54,227,6,300,4.733564013840831,228,4,289
+1064,India,Pakistan,Eden Gardens,2013-01-03,India,Pakistan,5.154639175257732,250,10,291,3.4375,165,10,288
+1065,India,Pakistan,Feroz Shah Kotla,2013-01-06,India,India,3.839080459770115,167,10,261,3.2150170648464163,157,10,293
+1066,Canada,Kenya,ICC Global Cricket Academy,2013-03-11,Canada,Kenya,4.54,227,8,300,4.783216783216783,228,4,286
+1067,England,Australia,Lord's,2013-08-20,Australia,Australia,4.06,203,8,300,3.705263157894737,176,10,285
+1068,England,Australia,County Ground,2013-08-23,England,England,5.12,256,6,300,4.241379310344827,205,10,290
+1069,England,Australia,County Ground,2013-08-25,Australia,England,5.638888888888889,203,4,216,6.119999999999999,204,5,200
+1070,West Indies,Zimbabwe,"National Cricket Stadium, St George's",2013-02-22,Zimbabwe,West Indies,6.74,337,4,300,3.62,181,9,300
+1071,West Indies,Zimbabwe,"National Cricket Stadium, St George's",2013-02-26,Zimbabwe,West Indies,4.22,211,9,300,4.640287769784172,215,5,278
+1072,India,West Indies,Brabourne Stadium,2013-01-31,West Indies,India,5.68,284,6,300,4.022471910112359,179,10,267
+1073,England,Sri Lanka,Brabourne Stadium,2013-02-01,Sri Lanka,Sri Lanka,4.76,238,8,300,4.88,244,9,300
+1074,India,England,Brabourne Stadium,2013-02-03,India,England,5.44,272,8,300,4.8,240,9,300
+1075,India,Sri Lanka,Brabourne Stadium,2013-02-05,Sri Lanka,Sri Lanka,5.64,282,5,300,3.401574803149606,144,10,254
+1076,Australia,England,Brabourne Stadium,2013-02-08,England,Australia,3.2910447761194033,147,10,268,3.0526315789473686,145,10,285
+1077,Australia,Sri Lanka,Brabourne Stadium,2013-02-10,Australia,Australia,2.889705882352941,131,10,272,5.91044776119403,132,1,134
+1078,New Zealand,West Indies,Brabourne Stadium,2013-02-11,New Zealand,West Indies,4.14,207,9,300,3.5730337078651684,159,10,267
+1079,England,New Zealand,Brabourne Stadium,2013-02-13,England,England,5.32,266,6,300,5.02,251,9,300
+1080,England,New Zealand,Brabourne Stadium,2013-02-15,England,England,4.4,220,8,300,4.723404255319149,222,6,282
+1081,Australia,West Indies,Brabourne Stadium,2013-02-17,Australia,Australia,5.18,259,7,300,3.3590733590733595,145,10,259
+1082,West Indies,Sri Lanka,"Sabina Park, Kingston",2013-06-28,West Indies,West Indies,4.288659793814433,208,10,291,5.524229074889868,209,4,227
+1083,West Indies,India,"Sabina Park, Kingston",2013-06-30,West Indies,West Indies,4.58,229,7,300,4.825174825174825,230,9,286
+1084,India,Sri Lanka,"Sabina Park, Kingston",2013-07-02,India,Sri Lanka,6.96,348,1,300,4.171003717472119,187,10,269
+1085,West Indies,India,"Queen's Park Oval, Port of Spain",2013-07-05,West Indies,India,6.22,311,7,300,5.004878048780488,171,10,205
+1086,West Indies,Sri Lanka,"Queen's Park Oval, Port of Spain",2013-07-07,West Indies,Sri Lanka,5.341463414634147,219,8,246,4.634146341463414,190,9,246
+1087,India,Sri Lanka,"Queen's Park Oval, Port of Spain",2013-07-09,Sri Lanka,India,4.103448275862069,119,3,174,3.8918918918918917,96,10,148
+1088,India,Sri Lanka,"Queen's Park Oval, Port of Spain",2013-07-11,India,India,4.116040955631399,201,10,293,4.087248322147651,203,9,298
+1089,Scotland,Pakistan,"Grange Cricket Club Ground, Raeburn Place",2013-05-17,Pakistan,Pakistan,4.62,231,7,300,3.4033613445378155,135,10,238
+1090,Ireland,Pakistan,Clontarf Cricket Club Ground,2013-05-23,Pakistan,no result,5.659574468085107,266,5,282,5.851063829787234,275,5,282
+1091,Ireland,Pakistan,Clontarf Cricket Club Ground,2013-05-26,Pakistan,Pakistan,4.58,229,9,300,4.726027397260274,230,8,292
+1092,Sri Lanka,Bangladesh,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",2013-03-23,Sri Lanka,Sri Lanka,5.18,259,8,300,6.641860465116278,238,2,215
+1093,Sri Lanka,Bangladesh,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",2013-03-25,Bangladesh,no result,6.6,33,0,30,6.641860465116278,0,0,0
+1094,Sri Lanka,Bangladesh,Pallekele International Cricket Stadium,2013-03-28,Sri Lanka,Bangladesh,6.04,302,9,300,7.076923076923077,184,7,156
+1095,Sri Lanka,West Indies,Rangiri Dambulla International Stadium,2013-02-22,Sri Lanka,West Indies,3.28,164,9,300,4.342105263157895,165,6,228
+1096,Sri Lanka,West Indies,Rangiri Dambulla International Stadium,2013-02-24,West Indies,Sri Lanka,3.6,180,9,300,4.043956043956044,184,6,273
+1097,Sri Lanka,West Indies,Rangiri Dambulla International Stadium,2013-02-26,Sri Lanka,West Indies,3.82,191,9,300,3.16,158,9,300
+1098,Zimbabwe,Bangladesh,Queens Sports Club,2013-05-03,Zimbabwe,Bangladesh,5.38,269,8,300,4.601036269430052,148,10,193
+1099,Zimbabwe,Bangladesh,Queens Sports Club,2013-05-05,Zimbabwe,Zimbabwe,5.04,252,9,300,5.289198606271777,253,4,287
+1100,Zimbabwe,Bangladesh,Queens Sports Club,2013-05-08,Zimbabwe,Zimbabwe,4.94,247,9,300,5.321554770318022,251,3,283
+1101,England,Pakistan,Louth Cricket Club,2013-07-01,England,England,4.54,227,7,300,2.817813765182186,116,10,247
+1102,England,Pakistan,Haslegrave Ground,2013-07-03,Pakistan,England,3.12,156,6,300,4.131578947368421,157,4,228
+1103,Netherlands,Ireland,VRA Ground,2013-07-07,Ireland,Ireland,4.735785953177257,236,10,299,4.111111111111111,148,10,216
+1104,Sri Lanka,South Africa,R Premadasa Stadium,2013-07-20,South Africa,Sri Lanka,6.4,320,5,300,4.397905759162303,140,10,191
+1105,Sri Lanka,South Africa,R Premadasa Stadium,2013-07-23,Sri Lanka,Sri Lanka,4.52027027027027,223,9,296,4.9523809523809526,104,5,126
+1106,Sri Lanka,South Africa,Pallekele International Cricket Stadium,2013-07-26,South Africa,South Africa,4.46,223,7,300,3.8538461538461535,167,10,260
+1107,Sri Lanka,South Africa,Pallekele International Cricket Stadium,2013-07-28,South Africa,Sri Lanka,4.89041095890411,238,10,292,5.431818181818182,239,2,264
+1108,Sri Lanka,South Africa,R Premadasa Stadium,2013-07-31,Sri Lanka,Sri Lanka,6.14,307,4,300,4.083650190114068,179,10,263
+1109,Australia,England,Melbourne Cricket Ground,2014-01-12,England,Australia,5.38,269,7,300,5.912408759124088,270,4,274
+1110,Australia,England,"Brisbane Cricket Ground, Woolloongabba",2014-01-17,England,Australia,6.0,300,8,300,6.08080808080808,301,9,297
+1111,Australia,England,Sydney Cricket Ground,2014-01-19,England,Australia,4.86,243,9,300,6.1,244,3,240
+1112,Australia,England,Western Australia Cricket Association Ground,2014-01-24,Australia,England,6.32,316,8,300,5.433566433566434,259,10,286
+1113,Australia,England,Adelaide Oval,2014-01-26,Australia,Australia,4.34,217,9,300,4.268456375838927,212,10,298
+1114,West Indies,England,"Sir Vivian Richards Stadium, North Sound",2014-02-28,England,West Indies,5.38,269,6,300,5.08,254,6,300
+1115,West Indies,England,"Sir Vivian Richards Stadium, North Sound",2014-03-02,England,England,3.5864661654135337,159,10,266,3.6356877323420074,163,7,269
+1116,West Indies,England,"Sir Vivian Richards Stadium, North Sound",2014-03-05,West Indies,England,6.06,303,6,300,5.8321678321678325,278,10,286
+1117,Zimbabwe,India,Harare Sports Club,2013-07-24,India,India,4.56,228,7,300,5.130111524163569,230,4,269
+1118,Zimbabwe,India,Harare Sports Club,2013-07-26,Zimbabwe,India,5.88,294,8,300,4.72,236,9,300
+1119,Zimbabwe,India,Harare Sports Club,2013-07-28,India,India,3.9782608695652173,183,10,276,5.267605633802817,187,3,213
+1120,Zimbabwe,India,Queens Sports Club,2013-08-01,India,India,3.375,144,10,256,4.702702702702703,145,1,185
+1121,Zimbabwe,India,Queens Sports Club,2013-08-03,India,India,4.092050209205021,163,10,239,4.911764705882353,167,3,204
+1122,Ireland,Pakistan,"Observatory Lane, Rathmines",2013-07-17,Pakistan,Pakistan,5.6,280,7,300,3.746192893401015,123,10,197
+1123,Ireland,Pakistan,YMCA Cricket Club,2013-07-19,Pakistan,Pakistan,5.04406779661017,248,10,295,3.6833976833976836,159,10,259
+1124,West Indies,Pakistan,Providence Stadium,2013-07-14,West Indies,Pakistan,4.48,224,9,300,2.3902439024390243,98,10,246
+1125,West Indies,Pakistan,Providence Stadium,2013-07-16,Pakistan,West Indies,4.64,232,8,300,4.076655052264808,195,10,287
+1126,West Indies,Pakistan,"Beausejour Stadium, Gros Islet",2013-07-19,West Indies,no result,4.58,229,6,300,4.58,229,9,300
+1127,West Indies,Pakistan,"Beausejour Stadium, Gros Islet",2013-07-21,Pakistan,Pakistan,5.326530612244898,261,7,294,6.3,189,4,180
+1128,West Indies,Pakistan,"Beausejour Stadium, Gros Islet",2013-07-24,Pakistan,Pakistan,4.84,242,7,300,4.8762541806020065,243,6,299
+1129,India,Australia,Maharashtra Cricket Association Stadium,2013-10-13,Australia,Australia,6.08,304,8,300,4.671140939597316,232,10,298
+1130,India,Australia,Sawai Mansingh Stadium,2013-10-16,Australia,India,7.18,359,5,300,8.32183908045977,362,1,261
+1131,India,Australia,"Punjab Cricket Association Stadium, Mohali",2013-10-19,Australia,Australia,6.06,303,9,300,6.141414141414141,304,6,297
+1132,India,Australia,JSCA International Stadium Complex,2013-10-23,India,no result,5.9,295,8,300,6.4799999999999995,27,0,25
+1133,India,Australia,"Vidarbha Cricket Association Stadium, Jamtha",2013-10-30,India,India,7.0,350,6,300,7.090909090909091,351,4,297
+1134,India,Australia,M Chinnaswamy Stadium,2013-11-02,Australia,India,7.66,383,6,300,7.217712177121771,326,10,271
+1135,South Africa,India,New Wanderers Stadium,2013-12-05,India,South Africa,7.16,358,4,300,5.2926829268292686,217,10,246
+1136,South Africa,India,Kingsmead,2013-12-08,India,South Africa,5.714285714285714,280,6,294,4.1516587677725125,146,10,211
+1137,South Africa,India,SuperSport Park,2013-12-11,South Africa,no result,6.02,301,8,300,4.1516587677725125,0,0,0
+1138,Pakistan,South Africa,Sharjah Cricket Stadium,2013-10-30,South Africa,South Africa,3.672240802675585,183,10,299,3.913978494623656,182,10,279
+1139,Pakistan,South Africa,Dubai International Cricket Stadium,2013-11-01,Pakistan,Pakistan,4.208053691275168,209,10,298,3.516393442622951,143,10,244
+1140,Pakistan,South Africa,Sheikh Zayed Stadium,2013-11-06,South Africa,South Africa,5.18,259,8,300,4.292134831460674,191,10,267
+1141,Pakistan,South Africa,Sheikh Zayed Stadium,2013-11-08,South Africa,South Africa,5.32,266,5,300,4.824324324324324,238,10,296
+1142,Pakistan,South Africa,Sharjah Cricket Stadium,2013-11-11,South Africa,South Africa,5.36,268,7,300,4.253521126760563,151,10,213
+1143,New Zealand,Sri Lanka,Hagley Oval,2015-02-14,Sri Lanka,New Zealand,6.62,331,6,300,5.046931407942239,233,10,277
+1144,Australia,England,Melbourne Cricket Ground,2015-02-14,England,Australia,6.84,342,9,300,5.521912350597609,231,10,251
+1145,South Africa,Zimbabwe,Seddon Park,2015-02-15,Zimbabwe,South Africa,6.78,339,4,300,5.731034482758621,277,10,290
+1146,India,Pakistan,Adelaide Oval,2015-02-15,India,India,6.0,300,7,300,4.76595744680851,224,10,282
+1147,Ireland,West Indies,Saxton Oval,2015-02-16,Ireland,Ireland,6.08,304,7,300,6.698181818181818,307,6,275
+1148,New Zealand,Scotland,University Oval,2015-02-17,New Zealand,New Zealand,3.9082568807339446,142,10,218,5.879194630872483,146,7,149
+1149,Afghanistan,Bangladesh,Manuka Oval,2015-02-18,Bangladesh,Bangladesh,5.34,267,10,300,3.782101167315175,162,10,257
+1150,United Arab Emirates,Zimbabwe,Saxton Oval,2015-02-19,Zimbabwe,Zimbabwe,5.7,285,7,300,5.958333333333333,286,6,288
+1151,New Zealand,England,Westpac Stadium,2015-02-20,England,New Zealand,3.69,123,10,200,10.135135135135135,125,2,74
+1152,Pakistan,West Indies,Hagley Oval,2015-02-21,Pakistan,West Indies,6.2,310,7,300,4.102564102564102,160,10,234
+1153,Afghanistan,Sri Lanka,University Oval,2015-02-22,Sri Lanka,Sri Lanka,4.671140939597316,232,10,298,4.882758620689655,236,6,290
+1154,India,South Africa,Melbourne Cricket Ground,2015-02-22,India,India,6.14,307,7,300,4.3884297520661155,177,10,242
+1155,England,Scotland,Hagley Oval,2015-02-23,Scotland,England,6.06,303,8,300,4.346456692913385,184,10,254
+1156,West Indies,Zimbabwe,Manuka Oval,2015-02-24,West Indies,West Indies,7.44,372,2,300,6.49438202247191,289,10,267
+1157,Ireland,United Arab Emirates,"Brisbane Cricket Ground, Woolloongabba",2015-02-25,Ireland,Ireland,5.56,278,9,300,5.655405405405405,279,8,296
+1158,Afghanistan,Scotland,University Oval,2015-02-26,Afghanistan,Afghanistan,4.2,210,10,300,4.262626262626263,211,9,297
+1159,Bangladesh,Sri Lanka,Melbourne Cricket Ground,2015-02-26,Sri Lanka,Sri Lanka,6.64,332,1,300,5.1063829787234045,240,10,282
+1160,South Africa,West Indies,Sydney Cricket Ground,2015-02-27,South Africa,South Africa,8.16,408,5,300,4.552763819095477,151,10,199
+1161,New Zealand,Australia,Eden Park,2015-02-28,Australia,New Zealand,4.6701030927835046,151,10,194,6.561151079136691,152,9,139
+1162,India,United Arab Emirates,Western Australia Cricket Association Ground,2015-02-28,United Arab Emirates,India,3.238095238095238,102,10,189,5.52212389380531,104,1,113
+1163,England,Sri Lanka,Westpac Stadium,2015-03-01,England,Sri Lanka,6.18,309,6,300,6.591549295774648,312,1,284
+1164,Pakistan,Zimbabwe,"Brisbane Cricket Ground, Woolloongabba",2015-03-01,Pakistan,Pakistan,4.7,235,7,300,4.328859060402685,215,10,298
+1165,Ireland,South Africa,Manuka Oval,2015-03-03,South Africa,South Africa,8.22,411,4,300,4.666666666666667,210,10,270
+1166,Pakistan,United Arab Emirates,McLean Park,2015-03-04,United Arab Emirates,Pakistan,6.78,339,6,300,4.2,210,8,300
+1167,Australia,Afghanistan,Western Australia Cricket Association Ground,2015-03-04,Afghanistan,Australia,8.34,417,6,300,3.7866666666666666,142,10,225
+1168,Bangladesh,Scotland,Saxton Oval,2015-03-05,Bangladesh,Bangladesh,6.36,318,8,300,6.685121107266436,322,4,289
+1169,India,West Indies,Western Australia Cricket Association Ground,2015-03-06,West Indies,India,4.105263157894736,182,10,266,4.723404255319149,185,6,235
+1170,Pakistan,South Africa,Eden Park,2015-03-07,South Africa,Pakistan,4.757142857142857,222,10,280,6.029850746268656,202,10,201
+1171,Ireland,Zimbabwe,Bellerive Oval,2015-03-07,Zimbabwe,Ireland,6.62,331,8,300,6.585858585858586,326,10,297
+1172,New Zealand,Afghanistan,McLean Park,2015-03-08,Afghanistan,New Zealand,3.902097902097902,186,10,286,5.19815668202765,188,4,217
+1173,Australia,Sri Lanka,Sydney Cricket Ground,2015-03-08,Australia,Australia,7.52,376,9,300,6.733812949640288,312,10,278
+1174,Bangladesh,England,Adelaide Oval,2015-03-09,England,Bangladesh,5.5,275,7,300,5.360824742268041,260,10,291
+1175,India,Ireland,Seddon Park,2015-03-10,Ireland,India,5.285714285714286,259,10,294,7.0588235294117645,260,2,221
+1176,Scotland,Sri Lanka,Bellerive Oval,2015-03-11,Sri Lanka,Sri Lanka,7.26,363,9,300,4.980694980694981,215,10,259
+1177,South Africa,United Arab Emirates,Westpac Stadium,2015-03-12,United Arab Emirates,South Africa,6.82,341,6,300,4.105263157894737,195,9,285
+1178,New Zealand,Bangladesh,Seddon Park,2015-03-13,New Zealand,New Zealand,5.76,288,7,300,5.938566552901023,290,7,293
+1179,Afghanistan,England,Sydney Cricket Ground,2015-03-13,England,England,3.0550458715596327,111,7,218,5.559633027522936,101,1,109
+1180,India,Zimbabwe,Eden Park,2015-03-14,India,India,5.877133105802048,287,10,293,5.917808219178083,288,4,292
+1181,Australia,Scotland,Bellerive Oval,2015-03-14,Australia,Australia,5.064935064935065,130,10,154,8.67391304347826,133,3,92
+1182,United Arab Emirates,West Indies,McLean Park,2015-03-15,West Indies,West Indies,3.6713286713286717,175,10,286,5.770491803278689,176,4,183
+1183,Ireland,Pakistan,Adelaide Oval,2015-03-15,Ireland,Pakistan,4.74,237,10,300,5.220216606498195,241,3,277
+1184,South Africa,Sri Lanka,Sydney Cricket Ground,2015-03-18,Sri Lanka,South Africa,3.5624999999999996,133,10,224,7.444444444444445,134,1,108
+1185,Bangladesh,India,Melbourne Cricket Ground,2015-03-19,India,India,6.04,302,6,300,4.288888888888889,193,10,270
+1186,Australia,Pakistan,Adelaide Oval,2015-03-20,Pakistan,Australia,4.274247491638795,213,10,299,6.38423645320197,216,4,203
+1187,New Zealand,West Indies,Westpac Stadium,2015-03-21,New Zealand,New Zealand,7.86,393,6,300,8.19672131147541,250,10,183
+1188,New Zealand,South Africa,Eden Park,2015-03-24,South Africa,New Zealand,6.534883720930233,281,5,258,6.980544747081711,299,6,257
+1189,Australia,India,Sydney Cricket Ground,2015-03-26,Australia,Australia,6.56,328,7,300,4.97508896797153,233,10,281
+1190,Australia,New Zealand,Melbourne Cricket Ground,2015-03-29,New Zealand,Australia,4.066666666666666,183,10,270,5.608040201005026,186,3,199
+1191,Pakistan,Sri Lanka,Sharjah Cricket Stadium,2013-12-18,Pakistan,Pakistan,6.44,322,5,300,6.261744966442953,311,10,298
+1192,Pakistan,Sri Lanka,Dubai International Cricket Stadium,2013-12-20,Sri Lanka,Sri Lanka,5.68,284,4,300,5.778523489932886,287,8,298
+1193,Pakistan,Sri Lanka,Sharjah Cricket Stadium,2013-12-22,Sri Lanka,Pakistan,6.52,326,5,300,4.768656716417911,213,10,268
+1194,Pakistan,Sri Lanka,Sheikh Zayed Stadium,2013-12-25,Sri Lanka,Pakistan,4.607508532423208,225,10,293,5.489878542510122,226,2,247
+1195,Pakistan,Sri Lanka,Sheikh Zayed Stadium,2013-12-27,Pakistan,Sri Lanka,4.686868686868687,232,10,297,4.731543624161074,235,8,298
+1196,Zimbabwe,Pakistan,Harare Sports Club,2013-08-27,Pakistan,Zimbabwe,4.88,244,7,300,5.089655172413793,246,3,290
+1197,Zimbabwe,Pakistan,Harare Sports Club,2013-08-29,Zimbabwe,Pakistan,5.98,299,4,300,4.8984375,209,10,256
+1198,Zimbabwe,Pakistan,Harare Sports Club,2013-08-31,Zimbabwe,Pakistan,5.2,260,6,300,3.8,152,10,240
+1199,Canada,Netherlands,Maple Leaf North-West Ground,2013-08-27,Canada,no result,5.137724550898204,143,10,167,6.2,62,1,60
+1200,Canada,Netherlands,Maple Leaf North-West Ground,2013-08-29,Netherlands,Netherlands,2.7162162162162162,67,10,148,6.5625,70,1,64
+1201,Ireland,Scotland,"Civil Service Cricket Club, Stormont",2013-09-06,Scotland,Ireland,4.46,223,9,300,4.51505016722408,225,9,299
+1202,New Zealand,West Indies,Eden Park,2013-12-26,West Indies,West Indies,3.6996047430830044,156,10,253,5.709090909090909,157,8,165
+1203,New Zealand,West Indies,Queenstown Events Centre,2014-01-01,West Indies,New Zealand,13.476190476190476,283,4,126,5.904761904761905,124,5,126
+1204,New Zealand,West Indies,Saxton Oval,2014-01-04,New Zealand,New Zealand,5.7,285,6,300,3.9801980198019806,134,5,202
+1205,New Zealand,West Indies,Seddon Park,2014-01-08,New Zealand,West Indies,7.26,363,4,300,5.363128491620112,160,10,179
+1206,South Africa,Bangladesh,Willowmoore Park,2013-09-20,South Africa,South Africa,2.98,149,8,300,4.061946902654867,153,4,226
+1207,South Africa,Bangladesh,SuperSport Park,2013-09-24,South Africa,South Africa,3.649484536082474,177,10,291,4.684210526315789,178,2,228
+1208,Australia,England,Melbourne Cricket Ground,2014-01-19,Australia,England,4.18,209,3,300,4.4839857651245545,210,3,281
+1209,Australia,England,Melbourne Cricket Ground,2014-01-23,Australia,Australia,5.32,266,7,300,5.179856115107913,240,10,278
+1210,Australia,England,Bellerive Oval,2014-01-26,England,Australia,5.36,268,4,300,5.434343434343434,269,6,297
+1211,New Zealand,India,McLean Park,2014-01-19,India,New Zealand,5.84,292,7,300,5.506849315068494,268,10,292
+1212,New Zealand,India,Seddon Park,2014-01-22,India,New Zealand,6.4523809523809526,271,7,252,6.674698795180723,277,9,249
+1213,New Zealand,India,Eden Park,2014-01-25,India,no result,6.28,314,10,300,6.28,314,9,300
+1214,New Zealand,India,Seddon Park,2014-01-28,India,New Zealand,5.56,278,5,300,5.813148788927336,280,3,289
+1215,New Zealand,India,Westpac Stadium,2014-01-31,India,New Zealand,6.06,303,5,300,4.348993288590604,216,10,298
+1216,England,India,Sophia Gardens,2014-08-27,England,India,6.08,304,6,300,4.218340611353712,161,10,229
+1217,England,India,Trent Bridge,2014-08-30,India,India,4.54,227,10,300,5.3023255813953485,228,4,258
+1218,England,India,Edgbaston,2014-09-02,India,India,4.161616161616162,206,10,297,6.950819672131147,212,1,183
+1219,England,India,Headingley,2014-09-05,India,England,5.88,294,7,300,5.198630136986302,253,10,292
+1220,England,Sri Lanka,Kennington Oval,2014-05-22,Sri Lanka,England,6.333333333333333,247,6,234,5.173652694610778,144,10,167
+1221,England,Sri Lanka,Riverside Ground,2014-05-25,England,Sri Lanka,5.12,256,8,300,3.78343949044586,99,10,157
+1222,England,Sri Lanka,Old Trafford,2014-05-28,England,England,2.7916666666666665,67,10,144,6.0,73,0,73
+1223,England,Sri Lanka,Lord's,2014-05-31,England,Sri Lanka,6.0,300,9,300,5.86,293,8,300
+1224,England,Sri Lanka,Edgbaston,2014-06-03,England,Sri Lanka,4.546712802768166,219,10,289,4.593103448275862,222,4,290
+1225,South Africa,Sri Lanka,Senwes Park,2013-10-26,Sri Lanka,South Africa,5.48,274,3,300,4.14,207,9,300
+1226,South Africa,Sri Lanka,Senwes Park,2013-10-28,South Africa,no result,3.28,164,10,300,2.0,2,0,6
+1227,Bangladesh,New Zealand,Shere Bangla National Stadium,2013-10-29,New Zealand,Bangladesh,5.317725752508361,265,10,299,5.430167597765363,162,9,179
+1228,Bangladesh,New Zealand,Shere Bangla National Stadium,2013-10-31,Bangladesh,Bangladesh,5.040816326530612,247,10,294,4.435714285714286,207,10,280
+1229,Bangladesh,New Zealand,Khan Shaheb Osman Ali Stadium,2013-11-03,Bangladesh,Bangladesh,6.14,307,5,300,6.263513513513513,309,6,296
+1230,Sri Lanka,New Zealand,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",2013-11-10,New Zealand,no result,5.76,288,9,300,3.0,13,1,26
+1231,Sri Lanka,New Zealand,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",2013-11-12,Sri Lanka,New Zealand,6.0,138,1,138,8.826086956521738,203,6,138
+1232,Sri Lanka,New Zealand,Rangiri Dambulla International Stadium,2013-11-16,New Zealand,Sri Lanka,6.393939393939394,211,8,198,5.04,126,6,150
+1233,India,West Indies,Nehru Stadium,2013-11-21,West Indies,India,4.320819112627986,211,10,293,6.0,212,4,212
+1234,India,West Indies,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,2013-11-24,West Indies,West Indies,5.76,288,7,300,5.838383838383838,289,8,297
+1235,India,West Indies,Green Park,2013-11-27,India,India,5.26,263,5,300,5.76173285198556,266,5,277
+1236,Scotland,England,Mannofield Park,2014-05-09,Scotland,England,8.35,167,6,120,6.65,133,9,120
+1237,South Africa,Pakistan,Newlands,2013-11-24,Pakistan,Pakistan,4.36,218,9,300,4.048442906574395,195,10,289
+1238,South Africa,Pakistan,St George's Park,2013-11-27,South Africa,Pakistan,5.822222222222222,262,10,270,5.8,261,6,270
+1239,South Africa,Pakistan,SuperSport Park,2013-11-30,South Africa,South Africa,3.8220640569395017,179,10,281,4.681034482758621,181,6,232
+1240,Bangladesh,Sri Lanka,Shere Bangla National Stadium,2014-02-17,Bangladesh,Sri Lanka,4.5,180,10,240,4.245762711864407,167,10,236
+1241,Bangladesh,Sri Lanka,Shere Bangla National Stadium,2014-02-20,Sri Lanka,Sri Lanka,5.78,289,6,300,5.3023255813953485,228,10,258
+1242,Bangladesh,Sri Lanka,Shere Bangla National Stadium,2014-02-22,Sri Lanka,Sri Lanka,4.8,240,8,300,5.178947368421053,246,4,285
+1243,Canada,Scotland,Hagley Oval,2014-01-23,Canada,Scotland,6.82,341,9,300,4.347457627118644,171,10,236
+1244,Kenya,Netherlands,Bert Sutcliffe Oval,2014-01-23,Kenya,Kenya,5.3,265,6,300,7.4579439252336455,266,6,214
+1245,Canada,Netherlands,Bay Oval,2014-01-28,Canada,Netherlands,4.2,210,10,300,5.781818181818182,212,2,220
+1246,Kenya,Scotland,Hagley Oval,2014-01-30,Kenya,Scotland,5.2,260,10,300,5.2727272727272725,261,7,297
+1247,West Indies,Ireland,"Sabina Park, Kingston",2014-02-23,Ireland,West Indies,4.094594594594595,202,10,296,5.590909090909091,205,6,220
+1248,Ireland,Sri Lanka,Clontarf Cricket Club Ground,2014-05-06,Ireland,Sri Lanka,4.38,219,8,300,3.514644351464435,140,10,239
+1249,Pakistan,Sri Lanka,Khan Shaheb Osman Ali Stadium,2014-02-25,Sri Lanka,Sri Lanka,5.92,296,6,300,5.815699658703071,284,10,293
+1250,Bangladesh,India,Khan Shaheb Osman Ali Stadium,2014-02-26,India,India,5.58,279,7,300,5.714285714285714,280,4,294
+1251,Afghanistan,Pakistan,Khan Shaheb Osman Ali Stadium,2014-02-27,Afghanistan,Pakistan,4.96,248,8,300,3.7183098591549295,176,10,284
+1252,India,Sri Lanka,Khan Shaheb Osman Ali Stadium,2014-02-28,Sri Lanka,Sri Lanka,5.28,264,9,300,5.371621621621621,265,8,296
+1253,Bangladesh,Afghanistan,Khan Shaheb Osman Ali Stadium,2014-03-01,Bangladesh,Afghanistan,5.08,254,6,300,4.641114982578397,222,10,287
+1254,India,Pakistan,Shere Bangla National Stadium,2014-03-02,Pakistan,Pakistan,4.9,245,8,300,5.0134228187919465,249,9,298
+1255,Afghanistan,Sri Lanka,Shere Bangla National Stadium,2014-03-03,Sri Lanka,Sri Lanka,5.06,253,6,300,3.2068965517241383,124,10,232
+1256,Bangladesh,Pakistan,Shere Bangla National Stadium,2014-03-04,Bangladesh,Pakistan,6.52,326,3,300,6.60200668896321,329,7,299
+1257,Afghanistan,India,Shere Bangla National Stadium,2014-03-05,India,India,3.5073529411764706,159,10,272,4.948453608247422,160,2,194
+1258,Bangladesh,Sri Lanka,Shere Bangla National Stadium,2014-03-06,Bangladesh,Sri Lanka,4.08,204,9,300,4.244897959183674,208,7,294
+1259,Pakistan,Sri Lanka,Shere Bangla National Stadium,2014-03-08,Pakistan,Sri Lanka,5.2,260,5,300,5.633093525179856,261,5,278
+1260,South Africa,West Indies,Kingsmead,2015-01-16,South Africa,South Africa,5.772413793103448,279,8,290,5.788235294117647,164,10,170
+1261,South Africa,West Indies,New Wanderers Stadium,2015-01-18,West Indies,South Africa,8.78,439,2,300,5.82,291,7,300
+1262,South Africa,West Indies,Buffalo Park,2015-01-21,West Indies,South Africa,3.623762376237624,122,10,202,5.027027027027027,124,1,148
+1263,South Africa,West Indies,St George's Park,2015-01-25,West Indies,West Indies,5.24,262,8,300,5.484536082474227,266,9,291
+1264,South Africa,West Indies,SuperSport Park,2015-01-28,West Indies,South Africa,8.595238095238095,361,5,252,6.106194690265487,230,10,226
+1265,England,India,North Marine Road Ground,2014-08-21,England,England,4.1063829787234045,193,8,282,5.071823204419889,153,3,181
+1266,England,India,North Marine Road Ground,2014-08-23,India,England,4.28,214,9,300,4.13013698630137,201,10,292
+1267,Australia,Pakistan,Sharjah Cricket Stadium,2014-10-07,Australia,Australia,5.1,255,8,300,4.438356164383562,162,10,219
+1268,Australia,Pakistan,Dubai International Cricket Stadium,2014-10-10,Pakistan,Australia,4.343434343434343,215,10,297,5.007692307692308,217,5,260
+1269,Australia,Pakistan,Sheikh Zayed Stadium,2014-10-12,Australia,Australia,4.62,231,9,300,4.6,230,10,300
+1270,Ireland,Scotland,"The Village, Malahide",2014-09-08,Ireland,Ireland,4.246913580246914,172,10,243,4.718181818181819,173,3,220
+1271,Ireland,Scotland,"The Village, Malahide",2014-09-10,Ireland,Ireland,4.434782608695652,221,10,299,5.075187969924812,225,7,266
+1272,Ireland,Scotland,"The Village, Malahide",2014-09-12,Scotland,Scotland,4.82,241,9,300,5.321167883211679,243,2,274
+1273,Sri Lanka,South Africa,R Premadasa Stadium,2014-07-06,South Africa,South Africa,6.08,304,5,300,5.654320987654321,229,10,243
+1274,Sri Lanka,South Africa,Pallekele International Cricket Stadium,2014-07-09,Sri Lanka,Sri Lanka,5.412162162162162,267,10,296,4.716157205240175,180,10,229
+1275,Sri Lanka,South Africa,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",2014-07-12,South Africa,South Africa,6.78,339,5,300,5.775280898876405,257,10,267
+1276,West Indies,Bangladesh,"National Cricket Stadium, St George's",2014-08-20,West Indies,West Indies,4.34,217,9,300,5.5210084033613445,219,7,238
+1277,West Indies,Bangladesh,"National Cricket Stadium, St George's",2014-08-22,Bangladesh,West Indies,4.94,247,7,300,2.8378378378378377,70,10,148
+1278,West Indies,Bangladesh,"Warner Park, Basseterre",2014-08-25,West Indies,West Indies,6.76,338,7,300,4.94,247,8,300
+1279,Zimbabwe,South Africa,Queens Sports Club,2014-08-17,Zimbabwe,South Africa,6.18,309,3,300,4.334448160535117,216,10,299
+1280,Zimbabwe,South Africa,Queens Sports Club,2014-08-19,Zimbabwe,South Africa,5.174496644295302,257,10,298,3.986440677966102,196,10,295
+1281,Zimbabwe,South Africa,Queens Sports Club,2014-08-21,South Africa,South Africa,4.142259414225941,165,10,239,6.25609756097561,171,3,164
+1282,Zimbabwe,Australia,Harare Sports Club,2014-08-25,Zimbabwe,Australia,7.0,350,6,300,3.848101265822785,152,10,237
+1283,Australia,South Africa,Harare Sports Club,2014-08-27,South Africa,South Africa,6.54,327,7,300,7.028571428571429,328,3,280
+1284,Zimbabwe,South Africa,Harare Sports Club,2014-08-29,Zimbabwe,South Africa,4.635451505016722,231,10,299,4.415584415584416,170,10,231
+1285,Zimbabwe,Australia,Harare Sports Club,2014-08-31,Australia,Zimbabwe,4.18,209,9,300,4.395833333333333,211,7,288
+1286,Australia,South Africa,Harare Sports Club,2014-09-02,South Africa,Australia,5.64,282,7,300,5.0,220,10,264
+1287,Zimbabwe,South Africa,Harare Sports Club,2014-09-04,Zimbabwe,South Africa,5.42,271,6,300,4.394366197183098,208,10,284
+1288,Australia,South Africa,Harare Sports Club,2014-09-06,South Africa,South Africa,4.34,217,9,300,5.412244897959184,221,4,245
+1289,Afghanistan,United Arab Emirates,Kinrara Academy Oval,2014-05-02,United Arab Emirates,Afghanistan,6.04,302,5,300,5.213483146067416,232,10,267
+1290,Hong Kong,United Arab Emirates,Kinrara Academy Oval,2014-05-04,United Arab Emirates,United Arab Emirates,3.4632352941176467,157,10,272,3.2577319587628866,158,8,291
+1291,New Zealand,Pakistan,Dubai International Cricket Stadium,2014-12-08,Pakistan,Pakistan,4.92,246,7,300,5.05050505050505,250,7,297
+1292,New Zealand,Pakistan,Sharjah Cricket Stadium,2014-12-12,Pakistan,New Zealand,5.195876288659794,252,10,291,5.543478260869565,255,6,276
+1293,New Zealand,Pakistan,Sharjah Cricket Stadium,2014-12-14,Pakistan,Pakistan,7.28,364,7,300,5.660869565217391,217,10,230
+1294,New Zealand,Pakistan,Sheikh Zayed Stadium,2014-12-17,New Zealand,New Zealand,5.98,299,5,300,5.84,292,8,300
+1295,New Zealand,Pakistan,Sheikh Zayed Stadium,2014-12-19,New Zealand,New Zealand,5.5,275,4,300,4.758620689655173,207,10,261
+1296,England,New Zealand,Edgbaston,2015-06-09,New Zealand,England,8.16,408,9,300,6.352941176470588,198,10,187
+1297,England,New Zealand,Kennington Oval,2015-06-12,New Zealand,New Zealand,7.96,398,5,300,7.934782608695652,365,9,276
+1298,England,New Zealand,The Rose Bowl,2015-06-14,England,New Zealand,6.661764705882352,302,10,272,6.244897959183674,306,7,294
+1299,England,New Zealand,Trent Bridge,2015-06-17,New Zealand,England,6.98,349,7,300,7.954545454545454,350,3,264
+1300,England,New Zealand,Riverside Ground,2015-06-20,England,England,5.66,283,9,300,7.68,192,7,150
+1301,Ireland,Australia,"Civil Service Cricket Club, Stormont",2015-08-27,Australia,Australia,5.5041322314049586,222,6,242,6.680851063829787,157,10,141
+1302,England,Australia,The Rose Bowl,2015-09-03,Australia,Australia,6.1,305,6,300,5.406593406593407,246,10,273
+1303,England,Australia,Lord's,2015-09-05,England,Australia,6.3061224489795915,309,8,294,5.764705882352941,245,10,255
+1304,England,Australia,Old Trafford,2015-09-08,England,England,6.0,300,8,300,4.704545454545454,207,10,264
+1305,England,Australia,Headingley,2015-09-11,Australia,England,5.98,299,7,300,6.289655172413793,304,7,290
+1306,England,Australia,Old Trafford,2015-09-13,England,Australia,4.181818181818182,138,10,198,5.7534246575342465,140,2,146
+1307,Bangladesh,India,Shere Bangla National Stadium,2014-06-15,Bangladesh,India,5.44,272,9,300,6.161073825503356,153,3,149
+1308,Bangladesh,India,Shere Bangla National Stadium,2014-06-17,Bangladesh,India,4.117647058823529,105,10,153,3.283018867924528,58,10,106
+1309,Bangladesh,India,Shere Bangla National Stadium,2014-06-19,India,no result,3.466019417475728,119,9,206,3.283018867924528,0,0,0
+1310,Sri Lanka,Pakistan,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",2014-08-23,Pakistan,Pakistan,6.111111111111111,275,7,270,6.178438661710037,277,6,269
+1311,Sri Lanka,Pakistan,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",2014-08-26,Sri Lanka,Sri Lanka,6.2,310,9,300,5.315589353612167,233,10,263
+1312,Sri Lanka,Pakistan,Rangiri Dambulla International Stadium,2014-08-30,Pakistan,Sri Lanka,3.1709844559585494,102,10,193,5.672727272727273,104,3,110
+1313,New Zealand,South Africa,Bay Oval,2014-10-21,South Africa,South Africa,5.092250922509225,230,10,271,4.899653979238755,236,4,289
+1314,New Zealand,South Africa,Bay Oval,2014-10-24,New Zealand,South Africa,5.64,282,9,300,4.516129032258065,210,10,279
+1315,New Zealand,South Africa,Seddon Park,2014-10-27,New Zealand,no result,5.119565217391304,157,3,184,4.516129032258065,0,0,0
+1316,New Zealand,Sri Lanka,Hagley Oval,2015-01-11,Sri Lanka,New Zealand,4.36,218,9,300,5.093023255813954,219,7,258
+1317,New Zealand,Sri Lanka,Seddon Park,2015-01-15,New Zealand,Sri Lanka,4.96,248,10,300,5.286713286713287,252,4,286
+1318,New Zealand,Sri Lanka,Eden Park,2015-01-17,Sri Lanka,no result,5.028901734104046,145,3,173,5.286713286713287,0,0,0
+1319,New Zealand,Sri Lanka,Saxton Oval,2015-01-20,Sri Lanka,New Zealand,5.575757575757576,276,10,297,5.813148788927336,280,6,289
+1320,New Zealand,Sri Lanka,University Oval,2015-01-23,Sri Lanka,New Zealand,7.2,360,5,300,5.770992366412214,252,10,262
+1321,New Zealand,Sri Lanka,University Oval,2015-01-25,New Zealand,New Zealand,6.3,315,8,300,4.814814814814815,195,10,243
+1322,New Zealand,Sri Lanka,Westpac Stadium,2015-01-29,Sri Lanka,Sri Lanka,5.74,287,6,300,5.580882352941176,253,10,272
+1323,New Zealand,Pakistan,Westpac Stadium,2015-01-31,New Zealand,New Zealand,4.615384615384615,210,10,273,5.3924050632911396,213,3,237
+1324,New Zealand,Pakistan,McLean Park,2015-02-03,New Zealand,New Zealand,7.38,369,5,300,5.7915057915057915,250,10,259
+1325,Sri Lanka,England,R Premadasa Stadium,2014-11-26,England,Sri Lanka,6.34,317,6,300,6.190812720848057,292,10,283
+1326,Sri Lanka,England,R Premadasa Stadium,2014-11-29,England,Sri Lanka,4.3023255813953485,185,10,258,5.417475728155339,186,2,206
+1327,Sri Lanka,England,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",2014-12-03,Sri Lanka,England,6.914285714285715,242,8,210,7.009900990099011,236,5,202
+1328,Sri Lanka,England,R Premadasa Stadium,2014-12-07,England,Sri Lanka,5.3,265,10,300,5.375838926174497,267,4,298
+1329,Sri Lanka,England,Pallekele International Cricket Stadium,2014-12-10,England,England,4.877551020408164,239,10,294,4.88135593220339,240,5,295
+1330,Sri Lanka,England,Pallekele International Cricket Stadium,2014-12-13,Sri Lanka,Sri Lanka,5.84,292,7,300,4.867469879518072,202,10,249
+1331,Sri Lanka,England,R Premadasa Stadium,2014-12-16,Sri Lanka,Sri Lanka,6.04,302,6,300,4.6909090909090905,215,10,275
+1332,Australia,South Africa,Western Australia Cricket Association Ground,2014-11-14,South Africa,Australia,6.0,300,8,300,5.56401384083045,268,10,289
+1333,Australia,South Africa,Western Australia Cricket Association Ground,2014-11-16,Australia,South Africa,3.696,154,10,250,5.674698795180722,157,7,166
+1334,Australia,South Africa,Manuka Oval,2014-11-19,Australia,Australia,6.58,329,5,300,5.752808988764045,256,9,267
+1335,Australia,South Africa,Melbourne Cricket Ground,2014-11-21,South Africa,Australia,5.34,267,8,300,5.469387755102041,268,7,294
+1336,Australia,South Africa,Sydney Cricket Ground,2014-11-23,South Africa,Australia,5.6,280,6,300,5.830388692579506,275,8,283
+1337,Australia,India,Melbourne Cricket Ground,2015-01-18,India,Australia,5.34,267,8,300,5.489795918367347,269,6,294
+1338,Australia,England,Sydney Cricket Ground,2015-01-16,England,Australia,4.89198606271777,234,10,287,5.899581589958158,235,7,239
+1339,England,India,"Brisbane Cricket Ground, Woolloongabba",2015-01-20,India,England,3.8734177215189876,153,10,237,5.672727272727273,156,1,165
+1340,Australia,England,Bellerive Oval,2015-01-23,Australia,Australia,6.06,303,8,300,6.100334448160535,304,7,299
+1341,Australia,India,Sydney Cricket Ground,2015-01-26,Australia,no result,4.3125,69,2,96,6.100334448160535,0,0,0
+1342,England,India,Western Australia Cricket Association Ground,2015-01-30,England,England,4.152249134948097,200,10,289,4.291814946619217,201,7,281
+1343,Australia,England,Western Australia Cricket Association Ground,2015-02-01,England,Australia,5.56,278,8,300,4.238297872340426,166,10,235
+1344,Australia,Pakistan,Peter Burge Oval,2014-08-23,Australia,Australia,4.84,121,8,150,5.061224489795919,124,5,147
+1345,Australia,Pakistan,Peter Burge Oval,2014-08-26,Pakistan,Australia,3.78,189,8,300,5.757575757575758,190,2,198
+1346,Australia,West Indies,Hurstville Oval,2014-11-11,Australia,Australia,4.8,240,8,300,4.8686868686868685,241,7,297
+1347,Australia,West Indies,Hurstville Oval,2014-11-13,Australia,Australia,5.12,256,10,300,4.06,203,8,300
+1348,Australia,West Indies,Bradman Oval,2014-11-16,West Indies,Australia,4.4,220,8,300,5.142857142857143,222,2,259
+1349,Australia,West Indies,Bradman Oval,2014-11-18,Australia,Australia,5.5,275,5,300,5.114093959731544,127,9,149
+1350,Zimbabwe,Afghanistan,Queens Sports Club,2014-07-20,Zimbabwe,Zimbabwe,5.12,256,7,300,5.908045977011494,257,2,261
+1351,Zimbabwe,Afghanistan,Queens Sports Club,2014-07-22,Afghanistan,Afghanistan,5.22,261,8,300,5.315436241610739,264,8,298
+1352,Zimbabwe,Afghanistan,Queens Sports Club,2014-07-24,Zimbabwe,Afghanistan,5.2677966101694915,259,10,295,4.184210526315789,159,10,228
+1353,Sri Lanka,South Africa,Sinhalese Sports Club Ground,2014-10-17,Sri Lanka,no result,4.18,209,8,300,4.184210526315789,0,0,0
+1354,Sri Lanka,South Africa,Sinhalese Sports Club Ground,2014-10-19,Sri Lanka,Sri Lanka,5.148148148148148,139,7,162,5.5,143,6,156
+1355,Sri Lanka,South Africa,Sinhalese Sports Club Ground,2014-10-21,South Africa,South Africa,3.1374045801526718,137,10,262,4.047846889952153,141,5,209
+1356,Bangladesh,Zimbabwe,Zahur Ahmed Chowdhury Stadium,2014-11-21,Zimbabwe,Bangladesh,5.62,281,7,300,4.600790513833992,194,10,253
+1357,Bangladesh,Zimbabwe,Zahur Ahmed Chowdhury Stadium,2014-11-23,Bangladesh,Bangladesh,5.02,251,7,300,4.0817843866171,183,10,269
+1358,Bangladesh,Zimbabwe,Shere Bangla National Stadium,2014-11-26,Zimbabwe,Bangladesh,5.94,297,6,300,4.343096234309623,173,10,239
+1359,Bangladesh,Zimbabwe,Shere Bangla National Stadium,2014-11-28,Bangladesh,Bangladesh,5.12,256,8,300,4.7,235,8,300
+1360,Bangladesh,Zimbabwe,Shere Bangla National Stadium,2014-12-01,Zimbabwe,Bangladesh,4.266666666666667,128,10,180,5.3061224489795915,130,5,147
+1361,Ireland,England,"The Village, Malahide",2015-05-08,England,no result,3.111111111111111,56,4,108,5.3061224489795915,0,0,0
+1362,India,West Indies,Nehru Stadium,2014-10-08,India,West Indies,6.42,321,6,300,4.804878048780488,197,10,246
+1363,India,West Indies,Feroz Shah Kotla,2014-10-11,India,India,5.26,263,7,300,4.623655913978495,215,10,279
+1364,India,West Indies,Himachal Pradesh Cricket Association Stadium,2014-10-17,West Indies,India,6.6,330,6,300,5.626297577854672,271,10,289
+1365,India,Sri Lanka,Barabati Stadium,2014-11-02,Sri Lanka,India,7.26,363,5,300,4.932203389830508,194,10,236
+1366,India,Sri Lanka,"Sardar Patel Stadium, Motera",2014-11-06,Sri Lanka,India,5.48,274,8,300,6.179775280898877,275,4,267
+1367,India,Sri Lanka,"Rajiv Gandhi International Stadium, Uppal",2014-11-09,Sri Lanka,India,5.006896551724138,242,10,290,5.547169811320755,245,4,265
+1368,India,Sri Lanka,Eden Gardens,2014-11-13,India,India,8.08,404,5,300,5.814671814671815,251,10,259
+1369,India,Sri Lanka,JSCA International Stadium Complex,2014-11-16,Sri Lanka,India,5.72,286,8,300,5.917808219178083,288,7,292
+1370,England,Australia,County Ground,2015-07-21,Australia,England,4.76,238,9,300,5.255474452554745,240,6,274
+1371,England,Australia,County Ground,2015-07-23,England,Australia,5.18,259,6,300,4.558139534883721,196,10,258
+1372,England,Australia,"County Ground, New Road",2015-07-26,England,Australia,4.82,241,7,300,3.5212355212355213,152,10,259
+1373,South Africa,England,Mangaung Oval,2016-02-03,England,England,7.98,399,9,300,7.462686567164179,250,5,201
+1374,South Africa,England,St George's Park,2016-02-06,South Africa,England,5.24,262,7,300,5.676258992805755,263,5,278
+1375,South Africa,England,SuperSport Park,2016-02-09,England,South Africa,6.36,318,8,300,6.884892086330935,319,3,278
+1376,South Africa,England,New Wanderers Stadium,2016-02-12,South Africa,South Africa,5.477351916376306,262,10,287,5.619718309859155,266,9,284
+1377,South Africa,England,Newlands,2016-02-14,South Africa,South Africa,5.2444444444444445,236,10,270,5.386363636363637,237,5,264
+1378,United Arab Emirates,Afghanistan,ICC Academy,2014-11-28,Afghanistan,United Arab Emirates,4.96,248,6,300,5.116438356164384,249,5,292
+1379,United Arab Emirates,Afghanistan,ICC Academy,2014-11-30,United Arab Emirates,United Arab Emirates,5.6,280,8,300,5.834482758620689,282,4,290
+1380,Pakistan,Sri Lanka,Sharjah Cricket Stadium,2015-01-11,Pakistan,Pakistan,2.76,138,9,300,2.7896678966789668,126,10,271
+1381,Pakistan,Sri Lanka,Sharjah Cricket Stadium,2015-01-13,Sri Lanka,Pakistan,4.84,242,5,300,5.176056338028169,245,3,284
+1382,Ireland,Scotland,Dubai International Cricket Stadium,2015-01-12,Ireland,Ireland,4.32,216,9,300,4.731182795698925,220,7,279
+1383,Afghanistan,Ireland,Dubai International Cricket Stadium,2015-01-17,Ireland,Afghanistan,4.92,246,8,300,4.022988505747127,175,10,261
+1384,Afghanistan,Scotland,ICC Academy,2015-01-08,Afghanistan,Afghanistan,5.266666666666667,237,8,270,6.315789473684211,240,2,228
+1385,Afghanistan,Scotland,Sheikh Zayed Stadium,2015-01-14,Scotland,Scotland,4.26,213,7,300,3.4054054054054053,63,10,111
+1386,Bangladesh,South Africa,Shere Bangla National Stadium,2015-07-10,Bangladesh,South Africa,4.383561643835616,160,10,219,5.262032085561497,164,2,187
+1387,Bangladesh,South Africa,Shere Bangla National Stadium,2015-07-12,South Africa,Bangladesh,3.5217391304347827,162,10,276,6.036144578313253,167,3,166
+1388,Bangladesh,South Africa,Zahur Ahmed Chowdhury Stadium,2015-07-15,South Africa,Bangladesh,4.2,168,9,240,6.496815286624203,170,1,157
+1389,Pakistan,South Africa,Sharjah Cricket Stadium,2015-03-17,Pakistan,South Africa,3.06,153,9,300,3.342857142857143,156,5,280
+1390,South Africa,New Zealand,SuperSport Park,2015-08-19,New Zealand,South Africa,6.08,304,7,300,5.896193771626298,284,10,289
+1391,South Africa,New Zealand,Senwes Park,2015-08-23,South Africa,New Zealand,4.121212121212121,204,10,297,4.651685393258427,207,2,267
+1392,South Africa,New Zealand,Kingsmead,2015-08-26,South Africa,South Africa,5.66,283,7,300,4.47972972972973,221,10,296
+1393,Bangladesh,Pakistan,Shere Bangla National Stadium,2015-04-17,Bangladesh,Bangladesh,6.58,329,6,300,5.514705882352941,250,10,272
+1394,Bangladesh,Pakistan,Shere Bangla National Stadium,2015-04-19,Pakistan,Bangladesh,4.78,239,6,300,6.2882096069869,240,3,229
+1395,Bangladesh,Pakistan,Shere Bangla National Stadium,2015-04-22,Pakistan,Bangladesh,5.1020408163265305,250,10,294,6.3544303797468356,251,2,237
+1396,Sri Lanka,Pakistan,Rangiri Dambulla International Stadium,2015-07-11,Pakistan,Pakistan,5.1,255,8,300,5.713235294117647,259,4,272
+1397,Sri Lanka,Pakistan,Pallekele International Cricket Stadium,2015-07-15,Pakistan,Sri Lanka,5.74,287,8,300,5.97923875432526,288,8,289
+1398,Sri Lanka,Pakistan,R Premadasa Stadium,2015-07-19,Pakistan,Pakistan,6.32,316,4,300,4.396761133603239,181,10,247
+1399,Sri Lanka,Pakistan,R Premadasa Stadium,2015-07-22,Sri Lanka,Pakistan,5.12,256,9,300,6.293877551020408,257,3,245
+1400,Sri Lanka,Pakistan,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",2015-07-26,Sri Lanka,Sri Lanka,7.36,368,4,300,5.4375,203,10,224
+1401,Pakistan,Zimbabwe,Gaddafi Stadium,2015-05-26,Pakistan,Pakistan,7.5,375,3,300,6.68,334,5,300
+1402,Pakistan,Zimbabwe,Gaddafi Stadium,2015-05-29,Pakistan,Pakistan,5.36,268,7,300,5.683098591549295,269,4,284
+1403,Pakistan,Zimbabwe,Gaddafi Stadium,2015-05-31,Pakistan,no result,5.92,296,9,300,7.555555555555555,68,0,54
+1404,Bangladesh,India,Shere Bangla National Stadium,2015-06-18,Bangladesh,Bangladesh,6.181208053691275,307,10,298,4.956521739130435,228,10,276
+1405,Bangladesh,India,Shere Bangla National Stadium,2015-06-21,India,Bangladesh,4.444444444444445,200,10,270,5.2631578947368425,200,4,228
+1406,Bangladesh,India,Shere Bangla National Stadium,2015-06-24,Bangladesh,India,6.34,317,6,300,5.1063829787234045,240,10,282
+1407,India,New Zealand,M Chinnaswamy Stadium,2015-07-06,New Zealand,India,4.414715719063545,220,10,299,4.984962406015037,221,2,266
+1408,India,New Zealand,M Chinnaswamy Stadium,2015-07-08,New Zealand,India,2.8780487804878048,118,10,246,4.426829268292683,121,1,164
+1409,Zimbabwe,India,Harare Sports Club,2015-07-10,Zimbabwe,India,5.1,255,6,300,5.02,251,7,300
+1410,Zimbabwe,India,Harare Sports Club,2015-07-12,Zimbabwe,India,5.42,271,8,300,4.26530612244898,209,10,294
+1411,Zimbabwe,India,Harare Sports Club,2015-07-14,Zimbabwe,India,5.52,276,5,300,4.5234375,193,10,256
+1412,Zimbabwe,New Zealand,Harare Sports Club,2015-08-02,Zimbabwe,Zimbabwe,6.06,303,4,300,6.204081632653061,304,3,294
+1413,Zimbabwe,New Zealand,Harare Sports Club,2015-08-04,Zimbabwe,New Zealand,4.7,235,9,300,5.574803149606299,236,0,254
+1414,Zimbabwe,New Zealand,Harare Sports Club,2015-08-07,Zimbabwe,New Zealand,5.46,273,6,300,4.93006993006993,235,10,286
+1415,Australia,India,Bellerive Oval,2016-02-07,Australia,India,4.62,231,7,300,4.9787234042553195,234,5,282
+1416,Australia,India,Western Australia Cricket Association Ground,2016-01-12,India,Australia,6.18,309,3,300,6.283783783783783,310,5,296
+1417,Australia,India,"Brisbane Cricket Ground, Woolloongabba",2016-01-15,India,Australia,6.16,308,8,300,6.3061224489795915,309,3,294
+1418,Australia,India,Melbourne Cricket Ground,2016-01-17,Australia,Australia,5.9,295,6,300,6.061433447098976,296,7,293
+1419,Australia,India,Manuka Oval,2016-01-20,Australia,Australia,6.96,348,8,300,6.547297297297297,323,10,296
+1420,Australia,India,Sydney Cricket Ground,2016-01-23,India,India,6.6,330,7,300,6.6644295302013425,331,4,298
+1421,England,Pakistan,Sheikh Zayed Stadium,2015-11-11,England,Pakistan,4.348993288590604,216,10,298,4.969465648854962,217,4,262
+1422,England,Pakistan,Sheikh Zayed Stadium,2015-11-13,England,England,5.66,283,5,300,4.101818181818182,188,10,275
+1423,England,Pakistan,Sharjah Cricket Stadium,2015-11-17,Pakistan,England,4.173913043478261,208,10,299,5.121951219512195,210,4,246
+1424,England,Pakistan,Dubai International Cricket Stadium,2015-11-20,England,England,7.1,355,5,300,6.663934426229509,271,10,244
+1425,India,South Africa,Green Park,2015-10-11,South Africa,South Africa,6.06,303,5,300,5.96,298,7,300
+1426,India,South Africa,Holkar Cricket Stadium,2015-10-14,India,India,4.94,247,9,300,5.1526717557251915,225,10,262
+1427,India,South Africa,Saurashtra Cricket Association Stadium,2015-10-18,South Africa,South Africa,5.4,270,7,300,5.04,252,6,300
+1428,India,South Africa,"MA Chidambaram Stadium, Chepauk",2015-10-22,India,India,5.98,299,8,300,5.28,264,9,300
+1429,India,South Africa,Wankhede Stadium,2015-10-25,South Africa,South Africa,8.76,438,5,300,6.222222222222222,224,10,216
+1430,South Africa,England,Willowmoore Park,2016-02-07,South Africa,England,3.972972972972973,196,10,296,5.2631578947368425,150,3,171
+1431,South Africa,West Indies,Buffalo Park,2016-02-24,West Indies,West Indies,4.28,214,7,300,4.054607508532423,198,10,293
+1432,South Africa,West Indies,Buffalo Park,2016-02-27,West Indies,West Indies,4.71864406779661,232,10,295,3.8461538461538463,175,10,273
+1433,South Africa,West Indies,Buffalo Park,2016-02-29,South Africa,South Africa,4.7,235,6,300,4.0,200,8,300
+1434,United Arab Emirates,Hong Kong,ICC Academy,2015-11-16,Hong Kong,Hong Kong,5.96,298,5,300,4.91764705882353,209,10,255
+1435,Ireland,Sri Lanka,"The Village, Malahide",2016-06-18,Ireland,Sri Lanka,7.54,377,8,300,5.355555555555555,241,10,270
+1436,England,Sri Lanka,Trent Bridge,2016-06-21,England,no result,5.72,286,9,300,5.72,286,8,300
+1437,England,Sri Lanka,Edgbaston,2016-06-24,Sri Lanka,England,5.08,254,7,300,7.492682926829269,256,0,205
+1438,England,Sri Lanka,County Ground,2016-06-26,England,no result,4.96,248,9,300,4.0,16,1,24
+1439,England,Sri Lanka,Kennington Oval,2016-06-29,England,England,7.261904761904762,305,5,252,7.6929460580912865,309,4,241
+1440,England,Sri Lanka,Sophia Gardens,2016-07-02,Sri Lanka,England,6.48,324,7,300,4.734375,202,10,256
+1441,Ireland,Pakistan,"The Village, Malahide",2016-08-18,Ireland,Pakistan,7.170212765957447,337,6,282,3.464788732394366,82,10,142
+1442,England,Pakistan,The Rose Bowl,2016-08-24,Pakistan,England,5.2,260,6,300,5.6231884057971016,194,3,207
+1443,England,Pakistan,Lord's,2016-08-27,Pakistan,England,5.036789297658863,251,10,299,5.368421052631579,255,6,285
+1444,England,Pakistan,Trent Bridge,2016-08-30,England,England,8.88,444,3,300,6.4453125,275,10,256
+1445,England,Pakistan,Headingley,2016-09-01,Pakistan,England,4.94,247,8,300,5.25,252,6,288
+1446,England,Pakistan,Sophia Gardens,2016-09-04,Pakistan,Pakistan,6.04,302,9,300,6.289655172413793,304,6,290
+1447,New Zealand,Sri Lanka,Hagley Oval,2015-12-26,Sri Lanka,New Zealand,4.0,188,10,282,9.095238095238095,191,3,126
+1448,New Zealand,Sri Lanka,Hagley Oval,2015-12-28,Sri Lanka,New Zealand,4.228915662650603,117,10,166,14.159999999999998,118,0,50
+1449,New Zealand,Sri Lanka,Saxton Oval,2015-12-31,New Zealand,Sri Lanka,5.52,276,8,300,5.9784172661870505,277,2,278
+1450,New Zealand,Sri Lanka,Saxton Oval,2016-01-02,Sri Lanka,no result,8.333333333333334,75,3,54,5.9784172661870505,0,0,0
+1451,New Zealand,Sri Lanka,Bay Oval,2016-01-05,Sri Lanka,New Zealand,5.88,294,5,300,5.469964664310955,258,10,283
+1452,New Zealand,Pakistan,Basin Reserve,2016-01-25,Pakistan,New Zealand,5.6,280,9,300,4.565217391304348,210,10,276
+1453,New Zealand,Australia,Eden Park,2016-02-03,Australia,New Zealand,6.14,307,8,300,6.082191780821918,148,10,146
+1454,New Zealand,Australia,Westpac Stadium,2016-02-06,New Zealand,Australia,5.62,281,9,300,6.086021505376344,283,6,279
+1455,New Zealand,Australia,Seddon Park,2016-02-08,Australia,New Zealand,5.406593406593407,246,10,273,4.374045801526718,191,10,262
+1456,New Zealand,Pakistan,Eden Park,2016-01-31,Pakistan,New Zealand,6.105263157894737,290,10,285,6.2109375,265,7,256
+1457,Sri Lanka,West Indies,R Premadasa Stadium,2015-11-01,Sri Lanka,Sri Lanka,6.115384615384615,159,8,156,6.604026845637584,164,9,149
+1458,Sri Lanka,West Indies,R Premadasa Stadium,2015-11-04,West Indies,Sri Lanka,5.68141592920354,214,10,226,6.164383561643835,225,2,219
+1459,Sri Lanka,West Indies,Pallekele International Cricket Stadium,2015-11-07,Sri Lanka,Sri Lanka,5.722222222222222,206,9,216,5.538461538461538,180,5,195
+1460,New Zealand,Sri Lanka,Bert Sutcliffe Oval,2015-11-03,Sri Lanka,New Zealand,5.66,283,9,300,3.74,187,9,300
+1461,New Zealand,Sri Lanka,Bert Sutcliffe Oval,2015-11-05,New Zealand,New Zealand,2.690391459074733,126,10,281,8.96551724137931,130,0,87
+1462,New Zealand,Australia,Bay Oval,2016-02-20,Australia,New Zealand,4.04,202,9,300,3.8859060402684564,193,10,298
+1463,New Zealand,Australia,Bay Oval,2016-02-22,Australia,Australia,4.12,206,9,300,5.121951219512195,210,2,246
+1464,Zimbabwe,Pakistan,Harare Sports Club,2015-10-01,Zimbabwe,Pakistan,5.18,259,6,300,3.4594594594594597,128,10,222
+1465,Zimbabwe,Pakistan,Harare Sports Club,2015-10-03,Pakistan,Zimbabwe,5.52,276,6,300,5.333333333333333,256,8,288
+1466,Zimbabwe,Pakistan,Harare Sports Club,2015-10-05,Pakistan,Pakistan,4.145922746781116,161,10,233,4.764705882352941,162,3,204
+1467,Zimbabwe,Ireland,Harare Sports Club,2015-10-09,Zimbabwe,Zimbabwe,4.38,219,8,300,4.530612244897959,222,8,294
+1468,Zimbabwe,Ireland,Harare Sports Club,2015-10-11,Zimbabwe,Zimbabwe,5.36,268,7,300,5.56701030927835,270,5,291
+1469,Zimbabwe,Ireland,Harare Sports Club,2015-10-13,Ireland,Ireland,3.7905405405405403,187,10,296,4.0355871886121,189,8,281
+1470,Pakistan,Bangladesh,Southend Club Cricket Stadium,2015-10-06,Bangladesh,Pakistan,2.46,123,9,300,3.220779220779221,124,4,231
+1471,Zimbabwe,Afghanistan,Queens Sports Club,2015-10-16,Afghanistan,Zimbabwe,3.5707317073170732,122,10,205,5.4,126,2,140
+1472,Zimbabwe,Afghanistan,Queens Sports Club,2015-10-18,Afghanistan,Afghanistan,5.42,271,6,300,4.564285714285715,213,10,280
+1473,Zimbabwe,Afghanistan,Queens Sports Club,2015-10-22,Zimbabwe,Afghanistan,3.68,184,8,300,3.9642857142857144,185,7,280
+1474,Bangladesh,Zimbabwe,Shere Bangla National Stadium,2015-11-07,Zimbabwe,Bangladesh,5.46,273,9,300,3.5391705069124426,128,9,217
+1475,Bangladesh,Zimbabwe,Shere Bangla National Stadium,2015-11-09,Zimbabwe,Bangladesh,4.82,241,9,300,4.223076923076923,183,10,260
+1476,Bangladesh,Zimbabwe,Shere Bangla National Stadium,2015-11-11,Bangladesh,Bangladesh,5.52,276,9,300,4.942528735632184,215,10,261
+1477,West Indies,South Africa,Providence Stadium,2016-06-03,South Africa,West Indies,4.014234875444839,188,10,281,3.965397923875433,191,6,289
+1478,West Indies,Australia,Providence Stadium,2016-06-05,Australia,Australia,3.5692307692307694,116,10,195,4.558441558441558,117,4,154
+1479,Australia,South Africa,Providence Stadium,2016-06-07,South Africa,South Africa,3.78,189,9,300,4.135922330097087,142,10,206
+1480,Australia,South Africa,"Warner Park, Basseterre",2016-06-11,Australia,Australia,5.76,288,6,300,5.286713286713287,252,10,286
+1481,West Indies,Australia,"Warner Park, Basseterre",2016-06-13,West Indies,West Indies,5.3,265,7,300,5.824817518248175,266,6,274
+1482,West Indies,South Africa,"Warner Park, Basseterre",2016-06-15,West Indies,South Africa,6.86,343,4,300,5.368421052631579,204,10,228
+1483,Australia,South Africa,"Kensington Oval, Bridgetown",2016-06-19,Australia,no result,8.0,8,0,6,5.368421052631579,0,0,0
+1484,West Indies,Australia,"Kensington Oval, Bridgetown",2016-06-21,Australia,Australia,5.64,282,8,300,5.815068493150685,283,4,292
+1485,West Indies,South Africa,"Kensington Oval, Bridgetown",2016-06-24,South Africa,West Indies,5.719063545150501,285,10,299,4.021739130434782,185,10,276
+1486,West Indies,Australia,"Kensington Oval, Bridgetown",2016-06-26,Australia,Australia,5.4,270,9,300,4.642335766423358,212,10,274
+1487,South Africa,New Zealand,Diamond Oval,2016-10-11,South Africa,South Africa,4.44,222,8,300,4.596610169491526,226,6,295
+1488,South Africa,New Zealand,Boland Park,2016-10-17,New Zealand,New Zealand,3.9591836734693877,194,10,294,6.91764705882353,196,2,170
+1489,South Africa,New Zealand,Boland Park,2016-10-19,New Zealand,New Zealand,4.16,208,8,300,3.153488372093023,113,9,215
+1490,South Africa,New Zealand,Boland Park,2016-10-22,South Africa,South Africa,3.8805970149253732,130,10,201,3.4778761061946906,131,5,226
+1491,South Africa,New Zealand,Boland Park,2016-10-24,New Zealand,New Zealand,5.46,273,7,300,3.207272727272727,147,10,275
+1492,South Africa,Ireland,Willowmoore Park,2016-09-25,Ireland,South Africa,7.08,354,5,300,4.8,148,10,185
+1493,Australia,Ireland,Willowmoore Park,2016-09-27,Ireland,Australia,4.517110266159696,198,10,263,6.633333333333334,199,1,180
+1494,South Africa,Australia,SuperSport Park,2016-09-30,South Africa,South Africa,5.88,294,9,300,8.119266055045872,295,4,218
+1495,South Africa,Australia,New Wanderers Stadium,2016-10-02,Australia,South Africa,7.22,361,6,300,5.814159292035399,219,10,226
+1496,South Africa,Australia,Kingsmead,2016-10-05,Australia,South Africa,7.42,371,6,300,7.54054054054054,372,6,296
+1497,South Africa,Australia,St George's Park,2016-10-09,Australia,South Africa,4.554545454545455,167,10,220,4.732394366197183,168,4,213
+1498,South Africa,Australia,Newlands,2016-10-12,South Africa,South Africa,6.54,327,8,300,6.124137931034483,296,10,290
+1499,South Africa,Sri Lanka,St George's Park,2017-01-28,South Africa,South Africa,3.731958762886598,181,10,291,5.414634146341464,185,2,205
+1500,South Africa,Sri Lanka,Kingsmead,2017-02-01,Sri Lanka,South Africa,6.14,307,6,300,4.916299559471366,186,10,227
+1501,South Africa,Sri Lanka,New Wanderers Stadium,2017-02-04,South Africa,South Africa,4.1440677966101696,163,10,236,5.125,164,3,192
+1502,South Africa,Sri Lanka,Newlands,2017-02-07,South Africa,South Africa,7.34,367,5,300,6.788927335640139,327,10,289
+1503,South Africa,Sri Lanka,SuperSport Park,2017-02-10,Sri Lanka,South Africa,7.68,384,6,300,5.92,296,8,300
+1504,England,Pakistan,Grace Road,2016-06-20,England,England,3.613138686131387,165,10,274,5.214659685863874,166,3,191
+1505,England,Pakistan,"County Ground, New Road",2016-06-22,Pakistan,England,7.56,378,5,300,3.4825174825174825,166,10,286
+1506,England,Pakistan,County Ground,2016-06-27,England,England,7.32,366,4,300,3.657992565055762,164,10,269
+1507,Afghanistan,Zimbabwe,Sharjah Cricket Stadium,2015-12-25,Afghanistan,Afghanistan,3.373390557939914,131,10,233,2.6594594594594594,82,10,185
+1508,Afghanistan,Zimbabwe,Sharjah Cricket Stadium,2015-12-29,Zimbabwe,Afghanistan,5.06,253,7,300,5.328671328671329,254,6,286
+1509,Afghanistan,Zimbabwe,Sharjah Cricket Stadium,2016-01-02,Zimbabwe,Zimbabwe,3.6082474226804124,175,10,291,3.587628865979381,58,10,97
+1510,Afghanistan,Zimbabwe,Sharjah Cricket Stadium,2016-01-04,Zimbabwe,Zimbabwe,4.596610169491526,226,10,295,3.577777777777778,161,10,270
+1511,Afghanistan,Zimbabwe,Sharjah Cricket Stadium,2016-01-06,Zimbabwe,Afghanistan,4.976588628762541,248,10,299,5.114093959731544,254,8,298
+1512,Ireland,South Africa,The Hills Cricket Club Ground,2016-08-11,South Africa,Ireland,3.0642857142857145,143,10,280,4.0368663594470044,146,3,217
+1513,Sri Lanka,Australia,R Premadasa Stadium,2016-08-21,Australia,Australia,4.54,227,8,300,4.868327402135231,228,7,281
+1514,Sri Lanka,Australia,R Premadasa Stadium,2016-08-24,Sri Lanka,Sri Lanka,5.897610921501706,288,10,293,4.352112676056338,206,10,284
+1515,Sri Lanka,Australia,Rangiri Dambulla International Stadium,2016-08-28,Sri Lanka,Australia,4.581081081081081,226,10,296,4.934782608695652,227,8,276
+1516,Sri Lanka,Australia,Rangiri Dambulla International Stadium,2016-08-31,Sri Lanka,Australia,4.24,212,10,300,7.0,217,4,186
+1517,Sri Lanka,Australia,Pallekele International Cricket Stadium,2016-09-01,Sri Lanka,Australia,4.8347107438016526,195,10,242,4.627906976744186,199,5,258
+1518,Ireland,Afghanistan,"Civil Service Cricket Club, Stormont",2016-07-12,Ireland,Afghanistan,5.0675675675675675,250,10,296,4.36551724137931,211,10,290
+1519,Ireland,Afghanistan,"Civil Service Cricket Club, Stormont",2016-07-17,Afghanistan,Afghanistan,4.58,229,7,300,3.658536585365854,150,10,246
+1520,Ireland,Afghanistan,"Civil Service Cricket Club, Stormont",2016-07-19,Afghanistan,Ireland,5.3,265,5,300,5.06,253,9,300
+1521,Scotland,United Arab Emirates,"Grange Cricket Club Ground, Raeburn Place",2016-08-14,United Arab Emirates,Scotland,6.54,327,5,300,5.264367816091954,229,10,261
+1522,Scotland,United Arab Emirates,"Grange Cricket Club Ground, Raeburn Place",2016-08-16,United Arab Emirates,Scotland,4.992700729927008,228,10,274,4.804195804195804,229,3,286
